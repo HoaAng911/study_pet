@@ -1,0 +1,285 @@
+{
+  "test": "test8",
+  "questions": [
+    {
+      "id": "q8",
+      "content": "LISTENING\nPart 4 0\n60\nQuestions 20-25\nFor each question, choose the correct answer.\nYou will hear an interview with a woman called Carrie Lewis, who is talking about her reasons for\ntravelling.\n20 What does Carrie say about her reasons for having long holidays?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They have interrupted her career."
+        },
+        {
+          "id": "B",
+          "text": "She might not be able to have them when she has a family."
+        },
+        {
+          "id": "C",
+          "text": "If it were possible she would travel for longer."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 8 của test8."
+    },
+    {
+      "id": "q2",
+      "content": "A Michael is ill and can't play.\nJack B Jack should contact others to see if they are\nWe need more interested in playing.\nplayers for\nSaturday's game C Michael needs a quick reply.\nas a few others\nare ill. Call\nme if you fancy\nplaying. Let me\nknow as soon as\npossible so I can\ncontact others if\nnecessary.\nMichael\n3 / '\nLIBRARY",
+      "options": [
+        {
+          "id": "A",
+          "text": "Staff training starts at 9.30.\nWe will open at 9.30 on\nWednesday"
+        },
+        {
+          "id": "B",
+          "text": "Opening hours are different on 20 July.\n20 July because of\nstaff training."
+        },
+        {
+          "id": "C",
+          "text": "The library will open at a different time after"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 2 của test8."
+    },
+    {
+      "id": "q11",
+      "content": "You will hear two friends talking about the local library.\nThe man says",
+      "options": [
+        {
+          "id": "A",
+          "text": "families don't take their children to libraries."
+        },
+        {
+          "id": "B",
+          "text": "people should have more books at home."
+        },
+        {
+          "id": "C",
+          "text": "if a library closes it is unlikely to be replaced."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 11 của test8."
+    },
+    {
+      "id": "q12",
+      "content": "You will hear two friends talking about doing a presentation.\nWhat is the woman worried about?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The technology might not work."
+        },
+        {
+          "id": "B",
+          "text": "She is worried about feeling too nervous."
+        },
+        {
+          "id": "C",
+          "text": "She isn't sure of what to say."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 12 của test8."
+    },
+    {
+      "id": "q13",
+      "content": "You will hear two friends talking about working from home.\nThe man says",
+      "options": [
+        {
+          "id": "A",
+          "text": "it's difficult to concentrate."
+        },
+        {
+          "id": "B",
+          "text": "he is more efficient."
+        },
+        {
+          "id": "C",
+          "text": "he misses talking to people.\n176"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 13 của test8."
+    },
+    {
+      "id": "q14",
+      "content": "Georgina thinks that people who use a mobile phone",
+      "options": [
+        {
+          "id": "A",
+          "text": "don't realise how powerful it can be."
+        },
+        {
+          "id": "B",
+          "text": "should speak to others for help."
+        },
+        {
+          "id": "C",
+          "text": "are beginning to wish it hadn't been invented."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 14 của test8."
+    },
+    {
+      "id": "q22",
+      "content": "What does Carrie say about jobs?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It's not difficult to find work in a restaurant."
+        },
+        {
+          "id": "B",
+          "text": "You have to start work early."
+        },
+        {
+          "id": "C",
+          "text": "She once worked in a hotel."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 22 của test8."
+    },
+    {
+      "id": "q24",
+      "content": "What does Carrie say about the family restaurant?",
+      "options": [
+        {
+          "id": "A",
+          "text": "nobody in the family spoke English."
+        },
+        {
+          "id": "B",
+          "text": "one of the children employed her."
+        },
+        {
+          "id": "C",
+          "text": "they had English-speaking customers."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 24 của test8."
+    },
+    {
+      "id": "q4",
+      "content": "How much is one adult ticket to the football match?\n£25 £15 £60",
+      "options": [
+        {
+          "id": "A",
+          "text": "B C\n5 What is it that needs replacing?\nI\n-\nA"
+        },
+        {
+          "id": "B",
+          "text": "C\n6 Where does the man want his wife to come?\nA B"
+        },
+        {
+          "id": "C",
+          "text": "7 When is Janine·s birthday?"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 4 của test8."
+    },
+    {
+      "id": "q9",
+      "content": "You will hear two friends talking about saving for when they retire.\nThe man thinks",
+      "options": [
+        {
+          "id": "A",
+          "text": "people retire too soon."
+        },
+        {
+          "id": "B",
+          "text": "younger people don't care."
+        },
+        {
+          "id": "C",
+          "text": "people should start saving as early as possible."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 9 của test8."
+    },
+    {
+      "id": "q10",
+      "content": "You will hear a husband and wife talking about a holiday.\nThe woman says",
+      "options": [
+        {
+          "id": "A",
+          "text": "she would like to go somewhere they've visited before."
+        },
+        {
+          "id": "B",
+          "text": "it's cheaper to book on line."
+        },
+        {
+          "id": "C",
+          "text": "she would like to go with friends."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 10 của test8."
+    },
+    {
+      "id": "q21",
+      "content": "Carrie says she can afford a long holiday partly because",
+      "options": [
+        {
+          "id": "A",
+          "text": "she finds work before she goes travelling."
+        },
+        {
+          "id": "B",
+          "text": "she shares the cost with other people."
+        },
+        {
+          "id": "C",
+          "text": "she avoids spending too much on accommodation."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 21 của test8."
+    },
+    {
+      "id": "q23",
+      "content": "Carrie explained that this year",
+      "options": [
+        {
+          "id": "A",
+          "text": "she had been offered a job."
+        },
+        {
+          "id": "B",
+          "text": "she couldn't find a job in the French cities."
+        },
+        {
+          "id": "C",
+          "text": "she wrote to a few restaurants while she was in France."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 23 của test8."
+    },
+    {
+      "id": "q25",
+      "content": "Why was the job perfect for Carrie?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The family had a boat she could use."
+        },
+        {
+          "id": "B",
+          "text": "It gave her time to travel."
+        },
+        {
+          "id": "C",
+          "text": "She could sometimes work on Sunday.\n178"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 25 của test8."
+    }
+  ]
+}

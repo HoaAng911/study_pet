@@ -1,0 +1,513 @@
+{
+  "testId": "cambridge-pet-2-test-2",
+  "title": "PET 2 Reading - Test 2",
+  "totalTimeInSeconds": 2700,
+  "parts": [
+    {
+      "id": "part-1",
+      "type": "short-messages",
+      "title": "Part 1",
+      "description": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "id": "t6-q1",
+          "text": "What does the notice say?",
+          "content": "Rubbish will be collected every fortnight, starting next Tuesday.\nPut out rubbish no earlier than the evening before the collection.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Remember to put out your rubbish before Monday evening."
+            },
+            {
+              "id": "B",
+              "text": "Rubbish will be collected every Tuesday, starting next week."
+            },
+            {
+              "id": "C",
+              "text": "There will be a rubbish collection every two weeks."
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Từ 'fortnight' có nghĩa là chu kỳ hai tuần (every two weeks). Việc thu gom rác sẽ diễn ra hai tuần một lần."
+        },
+        {
+          "id": "t6-q2",
+          "text": "Nat is texting Tim because",
+          "content": "Hi Tim\nI've heard your car's not fixed yet! Do you need a lift to tomorrow's match? I'm not going straight home afterwards, but my brother's driving and can take you back to your house.\nNat",
+          "options": [
+            {
+              "id": "A",
+              "text": "Nat is explaining that his brother can give Tim a lift home after the match."
+            },
+            {
+              "id": "B",
+              "text": "Nat is asking whether Tim's car will be fixed before the match."
+            },
+            {
+              "id": "C",
+              "text": "Nat is reminding Tim that his brother is taking them to the match tomorrow."
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Nat giải thích rằng anh trai của Nat có thể chở Tim về nhà (my brother's driving and can take you back to your house)."
+        },
+        {
+          "id": "t6-q3",
+          "text": "What does the label say?",
+          "content": "Cooking instructions\nCook the food in the microwave for four minutes, stir, and allow to cool for one minute before serving.",
+          "options": [
+            {
+              "id": "A",
+              "text": "You should stir the food for one minute as it's cooling."
+            },
+            {
+              "id": "B",
+              "text": "You should leave the food for one minute after stirring it."
+            },
+            {
+              "id": "C",
+              "text": "You should cook the food then eat it after four minutes."
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Hướng dẫn viết rõ là hãy khuấy lên (stir) rồi để nguội một phút (allow to cool for one minute) trước khi ăn, tương đương với 'leave the food for one minute after stirring it'."
+        },
+        {
+          "id": "t6-q4",
+          "text": "What does Mrs Walker want students to do?",
+          "content": "All fashion students'\nSo far, I've received some fantastic designs, but very few other ideas for our annual fashion show. Please contact me about how you'd like to run it. It's your show!\nMrs Walker",
+          "options": [
+            {
+              "id": "A",
+              "text": "give their opinions on her ideas for the fashion show"
+            },
+            {
+              "id": "B",
+              "text": "become more involved in organising the fashion show"
+            },
+            {
+              "id": "C",
+              "text": "produce more designs for the fashion show"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Bà Walker mong muốn các sinh viên liên hệ và trao đổi về cách họ muốn chương trình diễn ra (how you'd like to run it), khích lệ sự tham gia đóng góp mạnh mẽ hơn vào khâu tổ chức."
+        },
+        {
+          "id": "t6-q5",
+          "text": "Why did Sandra send this message to Claude?",
+          "content": "Claude\nSorry – there aren't any tickets left for tomorrow's play, but I left my number in case any are returned to the theatre. But there are plenty of seats left for the cinema!\nSandra",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sandra is going to phone and get tickets for a trip to the cinema."
+            },
+            {
+              "id": "B",
+              "text": "Sandra is expecting both the play and the film to be very popular."
+            },
+            {
+              "id": "C",
+              "text": "Tickets might become available for something the friends hoped to see."
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Sandra nói cô đã để lại số điện thoại phòng trường hợp có vé nào được trả lại thì họ sẽ lấy được (in case any are returned), tức là vé xem kịch có thể sẽ rảnh (become available)."
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "type": "matching",
+      "title": "Part 2",
+      "description": "Choose the best place for each group's party (6-10).",
+      "passage": "Places to hold a party\n\nA Hotel Homewood\nHomewood is all on the ground floor, including guest bedrooms and all party facilities, to allow access for everyone. The beautiful hall will be available to you for your party, as well as the lovely gardens – watch boats go past on the river as you enjoy your celebration.\n\nB Murphy's\nMurphy's will provide a party expert to help you arrange your event. You won't need to share the venue with anyone, as the place will be all yours for the day. Our experienced staff will serve top-quality dishes and help keep young children entertained.\n\nC Bruton Hall\nAt Bruton Hall, you can choose from a range of options, depending on your budget. For example, you can hire one of our chefs for the day or do the cooking yourselves. Our party guests get discounts on accommodation at several local hotels, all of which have had really good reviews.\n\nD Waterford Hotel\nWhether you want to let our chefs amaze you, or to provide your own refreshments, a party in this magnificent old building is an event to remember. Our staff can organise a taxi for anyone who requires one. We also have a fantastic playground for younger guests.\n\nE Kite Lodge\nIt's possible to sail to the front door of Kite Lodge in the historic harbour. Kite Lodge was built in 1537 and the party room is lit only by candles, which is perfect for amazing photos of your event. Look online to see all the positive comments about previous events held here.\n\nF The Priory Hotel\nWe have a team of staff to help with your celebration or event, including a prize-winning party planner, top chefs and our own photographer. We work hard to ensure that all guests, including kids and older visitors, have a fabulous time. There are 63 double bedrooms, all with easy access. So why not come and talk to us?\n\nG Freshford Farm\nSet in gorgeous countryside, it can be hard to believe that the airport is just a 10-minute drive away. Freshford Farm now has a specially built party hall, with glass walls allowing light in, so photos taken inside look as though they were taken outside! And children will love seeing the farm animals on site.\n\nH Savernake House\nThe magnificent Savernake House dates back to the 18th century, and will look amazing in your party photos. We can even arrange for someone to take those for you, and capture the fantastic atmosphere! Unlike many places, we don't have a minimum number of guests.",
+      "questions": [
+        {
+          "id": "t6-q6",
+          "text": "Jane is planning a very small party for her friends, and wants it to be in a historic place. She would like a photographer to be provided.",
+          "correctAnswer": "B",
+          "explanation": "Savernake House có tính lịch sử (18th century), họ sắp xếp thợ chụp ảnh (arrange for someone to take those for you) và không yêu cầu lượng khách tối thiểu (don't have a minimum number of guests) - rất hợp quy mô nhỏ."
+        },
+        {
+          "id": "t6-q7",
+          "text": "Colin and Alison want to hire a whole building just for themselves and their guests. They'd like the place to have a professional party organiser to help them plan everything, including an excellent meal.",
+          "correctAnswer": "E",
+          "explanation": "Murphy's cung cấp toàn bộ không gian (all yours for the day), có chuyên gia hỗ trợ lên đồ án (party expert to help arrange), và phục vụ đồ ăn cao cấp (top-quality dishes)."
+        },
+        {
+          "id": "t6-q8",
+          "text": "Alex and Diana would like to arrive at their party by boat, and they want somewhere without bright lights. They're looking for a place which has had good reviews.",
+          "correctAnswer": "H",
+          "explanation": "Kite Lodge có bến cảng có thể chèo thuyền tới (sail to the front door), được thắp sáng bằng nến (lit only by candles - không có ánh đèn chói lóa) và có rất nhiều nhận xét tích cực trực tuyến (positive comments / good reviews)."
+        },
+        {
+          "id": "t6-q9",
+          "text": "Peter needs a place where elderly guests can move around without difficulty, which also offers accommodation. He wants the choice of having the party either indoors or outdoors, depending on the weather on the day.",
+          "correctAnswer": "C",
+          "explanation": "Hotel Homewood có tầng trệt đi lại dễ dàng (ground floor all access), cung cấp phòng ngủ (guest bedrooms), và có cả khu vực tổ chức sự kiện sảnh kín ở trong (hall) lẫn vườn ngoài trời (lovely gardens)."
+        },
+        {
+          "id": "t6-q10",
+          "text": "Jenny and Robin want a place where they can bring food themselves, and where children can run around and have fun. Some of their guests will need help with transport to the party.",
+          "correctAnswer": "G",
+          "explanation": "Waterford Hotel cho phép tự mang đồ ăn phục vụ (provide your own refreshments), có sân chơi tuyệt vời cho trẻ em (fantastic playground), và nhân viên hỗ trợ gọi taxi di chuyển dễ dàng (organise a taxi)."
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "type": "multiple-choice-passage",
+      "title": "Part 3",
+      "description": "Read the text about being a volunteer in Thailand, and choose the correct answer.",
+      "passage": "Being a volunteer in Thailand\n\nMy name's Ella, and I'm 22. Last year I went to Thailand for two weeks with my sister Josie. Despite her being five years younger than me, our relationship isn't too bad. We went to help as part of a group of volunteers at an elephant sanctuary – a place where people look after sick and rescued elephants. To be honest, I wasn't sure at first if we would have much in common with the rest of the group because they were all much older than us. We were also nervous because it was the first time we'd done anything like that. In the end, though, there was no need to worry.\n\nOne of our main jobs at the sanctuary was to collect the elephants' food. Elephants eat huge amounts of grass and banana plants, so collecting this took most of the day. Josie found it really hard work, but to see the elephants enjoying their meal meant that, for me, it was worth it. We also helped wash the elephants in the river using big brushes and soap. I found that so much fun, even if I got wetter than the elephants did! The part of the day I most looked forward to was the evening. By the light of the moon, we led the elephants on foot into the forest area where they spent the night.\n\nAll the volunteers stayed in the same house. Josie and I shared a bedroom, so we didn't have much space. That was our decision, though, as Josie didn't want to be on her own. It was hot and humid, especially at night, but we'd expected that. The meals were delicious – and didn't include meat or fish, which neither of us is keen on. After dinner, all the volunteers and staff spent the evenings talking and playing games.\n\nNow that we're back in the UK, Josie doesn't often talk about Thailand. But if anyone asks her if she enjoyed her time at the sanctuary, she says she loved it. However, I'm not sure she's being completely honest. I think she's probably a bit annoyed with herself now that she didn't take full advantage of her time there because she was missing her friends too much. But when she looks back, she can see how lucky she was to go there. Maybe she'll go back one day – I certainly will!",
+      "questions": [
+        {
+          "id": "t6-q11",
+          "text": "To begin with, Ella wondered whether she and Josie would",
+          "options": [
+            {
+              "id": "A",
+              "text": "get on well with the other volunteers."
+            },
+            {
+              "id": "B",
+              "text": "be scared of the elephants."
+            },
+            {
+              "id": "C",
+              "text": "argue with each other sometimes."
+            },
+            {
+              "id": "D",
+              "text": "find two weeks looking after elephants too long."
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Câu nói 'I wasn't sure at first if we would have much in common with the rest of the group' thể hiện sự e ngại rằng cô ấy không biết mình có hòa nhập, có điểm chung với nhóm người kia không (get on well)."
+        },
+        {
+          "id": "t6-q12",
+          "text": "What was Ella's favourite activity?",
+          "options": [
+            {
+              "id": "A",
+              "text": "cleaning the elephants"
+            },
+            {
+              "id": "B",
+              "text": "feeding the elephants"
+            },
+            {
+              "id": "C",
+              "text": "walking with the elephants"
+            },
+            {
+              "id": "D",
+              "text": "preparing food for the elephants"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Hoạt động khiến Ella mong chờ nhất (most looked forward to) là dẫn đàn voi đi dạo dưới ánh trăng (led the elephants on foot)."
+        },
+        {
+          "id": "t6-q13",
+          "text": "Ella says she was happy that",
+          "options": [
+            {
+              "id": "A",
+              "text": "the bedroom was big enough for them."
+            },
+            {
+              "id": "B",
+              "text": "the games they played were fun."
+            },
+            {
+              "id": "C",
+              "text": "the food they ate was vegetarian."
+            },
+            {
+              "id": "D",
+              "text": "the weather was generally good."
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Ella rất thích vì bữa ăn không có thịt và cá ('didn't include meat or fish'), điều mà cả cô lẫn em gái đều không khoái ăn."
+        },
+        {
+          "id": "t6-q14",
+          "text": "Ella thinks that Josie now",
+          "options": [
+            {
+              "id": "A",
+              "text": "enjoys telling people about their trip."
+            },
+            {
+              "id": "B",
+              "text": "realises that the trip was a great opportunity."
+            },
+            {
+              "id": "C",
+              "text": "misses everyone she met in Thailand."
+            },
+            {
+              "id": "D",
+              "text": "feels excited that she might go back to Thailand."
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Dù trong quá khứ lúc đi Josie có thể buồn nhớ bạn cũ, nhưng khi nhớ lại quá khứ ('when she looks back'), Josie mới nhận ra cô ấy thực sự may mắn thế nào khi có được trải nghiệm đó (lucky she was to go there)."
+        },
+        {
+          "id": "t6-q15",
+          "text": "What would Ella write in a blog about her time in Thailand?",
+          "options": [
+            {
+              "id": "A",
+              "text": "We had a wonderful time – we relaxed, ate tasty meals and went for exciting elephant rides."
+            },
+            {
+              "id": "B",
+              "text": "We visited all the main tourist attractions and saw elephants and other wild animals in the beautiful forests."
+            },
+            {
+              "id": "C",
+              "text": "We visited a place where we could watch as elephants were fed. We were surprised how much food they needed."
+            },
+            {
+              "id": "D",
+              "text": "We had a great time taking care of some elephants. It was fantastic to be so close to them in the water."
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "D là đáp án chính xác nhất kể tổng kết trải nghiệm chăm sóc đàn voi và sự hào hứng của Ella khi được chơi cùng voi ở dưới nước."
+        }
+      ]
+    },
+    {
+      "id": "part-4",
+      "type": "sentence-insertion",
+      "title": "Part 4",
+      "description": "Choose the correct sentence for each gap.",
+      "passage": "The clever design of supermarkets\n\nMost people don't realise how cleverly designed many big supermarkets around the world are. This careful planning includes where each of the products is located, the lights, the music, everything!\n\nThe first thing people in many countries may notice as they walk into large supermarkets is that getting into the store is much easier than getting out. (16) _____ This means that customers end up having to walk through half of the store to find a way out, seeing more things they want to buy on the way.\n\nOnce they're inside, the first products many shoppers often see are fruit and vegetables. (17) _____ If that were the case, fruit and vegetables, many of which are easily damaged, could be put on top of the other shopping. But having them near the entrance can make customers feel that everything in the store is fresh and healthy, encouraging them to buy more.\n\nWhat customers might also notice as they enter is the smell of freshly baked bread. This attracts many people towards the bakery to buy some. (18) _____ Putting it in this location makes sure that shoppers walk past as many other products as possible to reach their delicious bread.\n\nResearch shows that if music is played in supermarkets, customers slow down and spend more time shopping. (19) _____ And supermarkets know, of course, that this also means they'll buy more products.\n\nIn some countries, when customers finally arrive at the queue for the checkouts, they find themselves face-to-face with shelves full of small, inexpensive products like chocolate and sweets. (20) _____ So they're often bought by tired parents to keep their bored sons or daughters entertained as they pack their shopping. Products placed next to checkouts sell up to eight times faster than in other parts of a store.\n\nSentences:\nA. In one study, they actually stayed 34% longer than if there was none.\nB. As a result, shoppers pass the cheaper products more quickly.\nC. That's why expensive products are placed at the same height as people's eyes.\nD. In fact, it would be more convenient for customers to reach this section later.\nE. Many of these are designed to attract children.\nF. That's because they often have entry doors that can't be used as exits.\nG. This would encourage customers and their children to leave the store too quickly.\nH. However, it's often right at the back of the store.",
+      "questions": [
+        {
+          "id": "t6-q16",
+          "text": "Gap 16",
+          "correctAnswer": "H",
+          "explanation": "Bước vào thì dễ nhưng ra lại khó, điều này là bởi vì siêu thị thường cấu tạo cửa vào một chiều, không thể dùng chính cửa đó để quay ra (doors that can't be used as exits), buộc người ta phải đi đường vòng."
+        },
+        {
+          "id": "t6-q17",
+          "text": "Gap 17",
+          "correctAnswer": "F",
+          "explanation": "Theo logic, vì trái cây rau củ rất mau dập nát, nên mua chúng sau cùng (reach this section later) sẽ tiện hơn. Tuy nhiên chúng lại được đặt ở đầu ngõ."
+        },
+        {
+          "id": "t6-q18",
+          "text": "Gap 18",
+          "correctAnswer": "A",
+          "explanation": "Trái ngược với vẻ lôi cuốn từ mùi hương bánh mì tại cửa. Khu bán bánh thường lại nằm tít sâu tận đáy của cửa tiệm (right at the back of the store) để kéo khách hàng mải mê tản bộ."
+        },
+        {
+          "id": "t6-q19",
+          "text": "Gap 19",
+          "correctAnswer": "C",
+          "explanation": "Âm nhạc giúp làm chậm nhịp tim, dẫn chứng chỉ ra khách sạn nán lại thêm 34% (stayed 34% longer) so với nếu không bật nhạc (none)."
+        },
+        {
+          "id": "t6-q20",
+          "text": "Gap 20",
+          "correctAnswer": "E",
+          "explanation": "Những kệ hàng thanh toán này chứa đồ ngọt (chocolate and sweets) được thiết kế nhắm tối ưu đến mục tiêu là thu hút trẻ em (designed to attract children)."
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "type": "multiple-choice-cloze",
+      "title": "Part 5",
+      "description": "Choose the correct word to fill in the gaps (21-26).",
+      "passage": "Future foods\n\nThe world is always looking for new methods of food production. Scientists in Australia are now (21) _____ in a project to grow food in a different way.\n\nThe scientists have produced plants that have grown not just faster, but also bigger. They (22) _____ their techniques on methods that were previously tried in experiments to grow crops in space. Crops like peas were grown in special glass houses where temperatures were carefully controlled. Special lights were shone on the young plants for 22 hours a day. This had the (23) _____ of increasing the speed at which the plants developed.\n\nThe scientists say that the results were even better than they had hoped. When they (24) _____ the plants with ones grown in (25) _____ conditions, they found that the new plants were also much healthier. Many people (26) _____ that the technique will be used with a wide variety of plants in the future.",
+      "questions": [
+        {
+          "id": "t6-q21",
+          "options": [
+            {
+              "id": "A",
+              "text": "involved"
+            },
+            {
+              "id": "B",
+              "text": "concerned"
+            },
+            {
+              "id": "C",
+              "text": "decided"
+            },
+            {
+              "id": "D",
+              "text": "accepted"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Cụm 'to be involved in something' có nghĩa là tham gia vào một việc gì đó."
+        },
+        {
+          "id": "t6-q22",
+          "options": [
+            {
+              "id": "A",
+              "text": "found"
+            },
+            {
+              "id": "B",
+              "text": "agreed"
+            },
+            {
+              "id": "C",
+              "text": "set"
+            },
+            {
+              "id": "D",
+              "text": "based"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Cấu trúc 'base something on something' = xây dựng hệ thống nền móng dựa vào điều gì."
+        },
+        {
+          "id": "t6-q23",
+          "options": [
+            {
+              "id": "A",
+              "text": "conclusion"
+            },
+            {
+              "id": "B",
+              "text": "solution"
+            },
+            {
+              "id": "C",
+              "text": "effect"
+            },
+            {
+              "id": "D",
+              "text": "product"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Có hệ quả (have the effect of) làm tăng tốc độ quá trình nảy non."
+        },
+        {
+          "id": "t6-q24",
+          "options": [
+            {
+              "id": "A",
+              "text": "recognised"
+            },
+            {
+              "id": "B",
+              "text": "looked"
+            },
+            {
+              "id": "C",
+              "text": "considered"
+            },
+            {
+              "id": "D",
+              "text": "compared"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Động từ 'compare' đi kèm giới từ 'with': So sánh đối chiếu cái này với cái kia (compared the plants with ones ...)."
+        },
+        {
+          "id": "t6-q25",
+          "options": [
+            {
+              "id": "A",
+              "text": "likely"
+            },
+            {
+              "id": "B",
+              "text": "general"
+            },
+            {
+              "id": "C",
+              "text": "normal"
+            },
+            {
+              "id": "D",
+              "text": "common"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Trồng trọt trong loại điều kiện quy chuẩn bình thường (normal conditions)."
+        },
+        {
+          "id": "t6-q26",
+          "options": [
+            {
+              "id": "A",
+              "text": "predict"
+            },
+            {
+              "id": "B",
+              "text": "tell"
+            },
+            {
+              "id": "C",
+              "text": "follow"
+            },
+            {
+              "id": "D",
+              "text": "communicate"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Dự đoán (predict) rằng công nghệ này sẽ được dùng trên nhiều loại cây trồng."
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "type": "open-cloze",
+      "title": "Part 6",
+      "description": "Write one word only for each gap.",
+      "passage": "A rainy day\n\nOne summer's day, my family decided to visit a waterfall in the countryside near our town. As we walked across the fields towards the waterfall, we (27) _____ see it in the distance. It was quite (28) _____ long way, but we got there after about an hour. We sat down near the pool at the bottom of the waterfall to enjoy the picnic that we (29) _____ taken with us. Then we noticed some black clouds in the sky, and some large drops (30) _____ rain fell on us, so we quickly started to collect our things together. Soon the rain began (31) _____ fall heavily. Carrying our bags, we ran as fast as we could, and when we reached the town, we went into the first café we saw. In (32) _____ of our wet clothes, we soon felt better after a delicious drink of hot chocolate!",
+      "questions": [
+        {
+          "id": "t6-q27",
+          "correctAnswer": "if/when",
+          "explanation": "Khả năng làm được việc gì ở quá khứ: we 'could' see it (có thể nhìn thấy thác ở đằng xa)."
+        },
+        {
+          "id": "t6-q28",
+          "correctAnswer": "of",
+          "explanation": "Cụm danh từ cố định: be 'a' long way (một quãng đường dài)."
+        },
+        {
+          "id": "t6-q29",
+          "correctAnswer": "but",
+          "explanation": "Sử dụng quá khứ hoàn thành cho chuyến dã ngoại mà gia đình 'đã' mang theo (we had taken with us)."
+        },
+        {
+          "id": "t6-q30",
+          "correctAnswer": "such",
+          "explanation": "Những giọt mưa (drops of rain)."
+        },
+        {
+          "id": "t6-q31",
+          "correctAnswer": "the",
+          "explanation": "Cấu trúc began + to V: Mưa bắt đầu đổ (began to fall heavily)."
+        },
+        {
+          "id": "t6-q32",
+          "correctAnswer": "to",
+          "explanation": "Cụm 'in spite of' nghìa là Mặc cho (Mặc cho những quần áo ướt nhẹp)."
+        }
+      ]
+    }
+  ]
+}

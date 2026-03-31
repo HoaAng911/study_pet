@@ -1,0 +1,305 @@
+{
+  "test": "test4",
+  "questions": [
+    {
+      "id": "q4",
+      "content": "LISTENING\nPart 4 0\n28\nQuestions 20-25\nFor each question, choose the correct answer.\nYou will hear an interview with a student called Emily, who walks people's dogs.\n20 What does Emily say about walking dogs?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It's a good business idea."
+        },
+        {
+          "id": "B",
+          "text": "It pays for some of her living expenses."
+        },
+        {
+          "id": "C",
+          "text": "It helps people get out of their house."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 4 của test4."
+    },
+    {
+      "id": "q2",
+      "content": "dayg_ cool.\n2",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fiona should go and get Jordan.\nHi Fiona,"
+        },
+        {
+          "id": "B",
+          "text": "Jordan needs Fiona to send him\nWill be home some information.\nlate. Just had an\naccident. No need"
+        },
+        {
+          "id": "C",
+          "text": "Fiona should call the mechanic.\nto pick me up - the\ncar can be driven\nhome. Please text\nme the phone\nnumber of Steve\nthe mechanic.\nJordan\n82"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 2 của test4."
+    },
+    {
+      "id": "q3",
+      "content": "A Viviane doesn't want the meal to be spoilt.\nTo: maggie@yahoo.com\nFrom: Viviane@gmail.com\nB Viviane thinks it would be good if Maggie sees\nthe city before she arrives.\nExcited about cooking for\nyou tonight. Remember - C There are two buses that Viviane recommends.\ncatch the number 12\nbus from the station.\nThe number 1 takes the\nlong route. You'll see the\ncity but the food will get\ncold!\n4",
+      "options": [
+        {
+          "id": "A",
+          "text": "Empty the dishwasher before leaving the office.\nClear digheg of food before\nputting them in the dighwagher."
+        },
+        {
+          "id": "B",
+          "text": "Do not put food in the dishwasher.\nOighwagher mugt not"
+        },
+        {
+          "id": "C",
+          "text": "See instructions for operating the dishwasher.\nbe in operation after\nthe office clogeg_\n.,,"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 3 của test4."
+    },
+    {
+      "id": "q5",
+      "content": "11",
+      "options": [
+        {
+          "id": "A",
+          "text": "Call 08895 335832 if you have questions about\nfilms.\nPhones are busy during\n'"
+        },
+        {
+          "id": "B",
+          "text": "Check information on the website is correct by\noffice hours so check our\ncalling 08895 335832.\n'Events' page for films this\nweek. Other enquiries,"
+        },
+        {
+          "id": "C",
+          "text": "It is often difficult to speak to someone on the\ncall"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 5 của test4."
+    },
+    {
+      "id": "q11",
+      "content": "You will hear two friends talking about buying a bed.\nThe woman thinks the ones online",
+      "options": [
+        {
+          "id": "A",
+          "text": "are better quality."
+        },
+        {
+          "id": "B",
+          "text": "might be cheaper."
+        },
+        {
+          "id": "C",
+          "text": "cost less in the furniture store."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 11 của test4."
+    },
+    {
+      "id": "q12",
+      "content": "You will hear two friends talking about going for a walk.\nWhat do they both agree about?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The need to take an umbrella."
+        },
+        {
+          "id": "B",
+          "text": "The walk will be a healthy thing to do."
+        },
+        {
+          "id": "C",
+          "text": "They need to check the weather forecast."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 12 của test4."
+    },
+    {
+      "id": "q13",
+      "content": "You will hear two friends talking about a passport photograph.\nWhat does the man say?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The shop assistants are really helpful."
+        },
+        {
+          "id": "B",
+          "text": "The post office is open in the evening."
+        },
+        {
+          "id": "C",
+          "text": "The nearest machine doesn't work.\n96"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 13 của test4."
+    },
+    {
+      "id": "q14",
+      "content": "Robert is holding the exhibition because",
+      "options": [
+        {
+          "id": "A",
+          "text": "his friends and relatives encouraged him to do this."
+        },
+        {
+          "id": "B",
+          "text": "the library asked him to."
+        },
+        {
+          "id": "C",
+          "text": "he is interested in getting opinions from friends and relatives."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 14 của test4."
+    },
+    {
+      "id": "q22",
+      "content": "What does Emily say about becoming a dog walker?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She enjoyed what she was doing."
+        },
+        {
+          "id": "B",
+          "text": "She had trouble arranging the walks around her studies."
+        },
+        {
+          "id": "C",
+          "text": "She spoke to people in the local shops."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 22 của test4."
+    },
+    {
+      "id": "q24",
+      "content": "Emily says that her customers",
+      "options": [
+        {
+          "id": "A",
+          "text": "are very busy."
+        },
+        {
+          "id": "B",
+          "text": "expect her to help them whenever they need it."
+        },
+        {
+          "id": "C",
+          "text": "have well-behaved dogs."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 24 của test4."
+    },
+    {
+      "id": "q9",
+      "content": "You will hear two friends talking about the man's job.\nThe man",
+      "options": [
+        {
+          "id": "A",
+          "text": "is looking for work as an accountant."
+        },
+        {
+          "id": "B",
+          "text": "is prepared to earn less money."
+        },
+        {
+          "id": "C",
+          "text": "knows what qualifications he needs."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 9 của test4."
+    },
+    {
+      "id": "q10",
+      "content": "You will hear a husband and wife talking about breakfast.\nWhat does the wife say?",
+      "options": [
+        {
+          "id": "A",
+          "text": "There isn't any cereal left."
+        },
+        {
+          "id": "B",
+          "text": "They need to buy bread."
+        },
+        {
+          "id": "C",
+          "text": "She would like to have the same drink as usual."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 10 của test4."
+    },
+    {
+      "id": "q21",
+      "content": "Emily says her first customer",
+      "options": [
+        {
+          "id": "A",
+          "text": "was her neighbour."
+        },
+        {
+          "id": "B",
+          "text": "was in hospital at the time."
+        },
+        {
+          "id": "C",
+          "text": "made her accept some money."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 21 của test4."
+    },
+    {
+      "id": "q23",
+      "content": "Emily explains that",
+      "options": [
+        {
+          "id": "A",
+          "text": "she didn't get any work straightaway."
+        },
+        {
+          "id": "B",
+          "text": "she went to a customer's house."
+        },
+        {
+          "id": "C",
+          "text": "she met her first customer at the weekend."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 23 của test4."
+    },
+    {
+      "id": "q25",
+      "content": "What does Emily say about payment?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She charges people per hour."
+        },
+        {
+          "id": "B",
+          "text": "She discusses it with the customer."
+        },
+        {
+          "id": "C",
+          "text": "She charges what her friends recommended.\n98"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 25 của test4."
+    }
+  ]
+}

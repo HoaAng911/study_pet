@@ -1,0 +1,50 @@
+{
+  "testId": "cambridge-pet-1-test-2-writing",
+  "title": "Cambridge B1 Preliminary 1 Writing: Test 2",
+  "totalTimeInSeconds": 2700,
+  "parts": [
+    {
+      "id": "writing-part-1",
+      "type": "email-writing",
+      "title": "Part 1: Write an email",
+      "instruction": "Read this email from your English-speaking friend Robbie and the notes you have made. Write your email to Robbie using all the notes (about 100 words).",
+      "email": {
+        "from": "Robbie",
+        "subject": "Birthday meal",
+        "contentBlocks": [
+          {
+            "text": "Hi",
+            "note": null
+          },
+          {
+            "text": "It's my birthday soon, and I'm thinking of having a meal in a restaurant with all my friends - including you! Do you think it's a good idea?",
+            "note": "Yes!"
+          },
+          {
+            "text": "There's a good new restaurant in town, which serves all kinds of delicious burgers, or there's also a great vegetarian restaurant. Which one would be better?",
+            "note": "Tell Robbie"
+          },
+          {
+            "text": "If you need transport to the restaurant, I can come and pick you up.",
+            "note": "Thanks, because ..."
+          },
+          {
+            "text": "Let me know if you have any questions!",
+            "note": "Ask Robbie"
+          },
+          {
+            "text": "Robbie",
+            "note": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "writing-part-2",
+      "type": "story-writing",
+      "title": "Part 2: Write a story",
+      "instruction": "Your English teacher has asked you to write a story (about 100 words). Your story must begin with this sentence:",
+      "promptSentence": "As I came out of the supermarket, I saw someone that I had wanted to see for a long time."
+    }
+  ]
+}

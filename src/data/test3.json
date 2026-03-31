@@ -1,0 +1,287 @@
+{
+  "testId": "cambridge-pet-1-test-3",
+  "title": "Cambridge B1 Preliminary 1 Reading: Test 3",
+  "totalTimeInSeconds": 2700,
+  "parts": [
+    {
+      "id": "part-1",
+      "type": "short-messages",
+      "title": "Part 1",
+      "description": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "id": "t3-q1",
+          "text": "Zara should",
+          "content": "Zara,\nReally sorry - I have to work late tonight so can't cook dinner after all. I know you're busy and your brother's coming round. Could you order a takeaway? I'll eat at work.\nAli",
+          "options": [
+            { "id": "A", "text": "buy something for Ali's dinner." },
+            { "id": "B", "text": "have dinner without Ali." },
+            { "id": "C", "text": "eat the dinner that Ali has made." }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Ali nói rằng sẽ làm việc muộn, không nấu bữa tối được và sẽ tự ăn ở chỗ làm (I'll eat at work). Do đó Zara sẽ có bữa tối mà không có Ali."
+        },
+        {
+          "id": "t3-q2",
+          "text": "What does the seller say?",
+          "content": "For sale\nTraditional wooden dining table and chairs.\nSome damage to table top.\nCall Mark after 7 p.m. on 087322 51983",
+          "options": [
+            { "id": "A", "text": "The items he has got are not all in perfect condition." },
+            { "id": "B", "text": "You can contact him any time you like." },
+            { "id": "C", "text": "His furniture is not made in an old-fashioned style." }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Có một số hư hỏng ở mặt bàn (Some damage to table top), nghĩa là không trong tình trạng hoàn hảo nhất."
+        },
+        {
+          "id": "t3-q3",
+          "text": "Tennis equipment notice:",
+          "content": "This tennis equipment is for club members only.\nTo hire rackets and balls for use on the court, see Reception.",
+          "options": [
+            { "id": "A", "text": "You're not permitted to use this equipment unless you have club membership." },
+            { "id": "B", "text": "If you wish to become a member of the tennis club, ask at Reception." },
+            { "id": "C", "text": "Non-members must bring their own equipment to use on these courts." }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Thiết bị này chỉ dành cho những thành viên của câu lạc bộ (club members only)."
+        },
+        {
+          "id": "t3-q4",
+          "text": "Text message from Olivia to Aiden:",
+          "content": "Aiden\nI'm afraid I'm unwell - I can't go to the running club today. But you should definitely go, even though it's your first time. Everyone in the group's really helpful - especially if you're new.\nOlivia",
+          "options": [
+            { "id": "A", "text": "Olivia is encouraging Aiden to go running today." },
+            { "id": "B", "text": "Olivia wants Aiden to tell the group that she can't run today." },
+            { "id": "C", "text": "Olivia is letting Aiden know that the running group are expecting him today." }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Olivia đang khích lệ Aiden đi chạy hôm nay (you should definitely go... Everyone in the group's really helpful)."
+        },
+        {
+          "id": "t3-q5",
+          "text": "College Art Class note:",
+          "content": "College Art Class\nTo prepare for next lesson, find out about famous landscape paintings so you can discuss them in class. We'll also use computers to look at pictures painted outdoors to inspire us.",
+          "options": [
+            { "id": "A", "text": "Students will be working outdoors during their next art class." },
+            { "id": "B", "text": "Students must produce their next picture using painting software." },
+            { "id": "C", "text": "Students should do some research before the next session." }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Để chuẩn bị cho bài học tiếp theo, hãy tìm hiểu về (find out about = research) các bức vẽ phong cảnh..."
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "type": "matching",
+      "title": "Part 2",
+      "description": "Choose the best castle to visit for each person (6-10).",
+      "passage": "Castles to visit\n\nA Durston Castle has a valuable art collection, secret tunnels - one leading to the beach - and visitors mustn't miss the unusual rooms deep beneath the castle walls. Because the building is the Durston family's home, some parts cannot be visited - but you can sit on the grass under the trees and admire the flower beds and fountains. There's a play area for children too.\n\nB At Castle Woodward, experience what life was like at the time it was built. Staff wear clothes typical of the time, and offer everyone tasty snacks made using recipes from different periods of history. Inside, the walls are covered with original paintings of the generations of people who've lived in the castle.\n\nC Castle Hemsworth's guides, dressed in historical costumes, give visitors information about the traditional castle building, towers and gardens. Wild horses live nearby. Inside, the castle looks unchanged, with old furniture and portraits of people who've lived here.\n\nD Only a few parts of the ancient castle of Marlin are left, but you can still visit some underground rooms and see beautiful countryside from the high tower. The castle is in the middle of a lake and has lovely gardens. There are talks about the castle, and the bats, birds and butterflies that have made Marlin their home.\n\nE Chartsmouth Castle was once owned and lived in by kings. Visitors love exploring the rooms, some of which have hidden tunnels. You can see the sea from the top of the walls, and younger visitors will love the outdoor games.\n\nF Experts at the ruins of Carston Castle will show you around and give you information - and offer you 17th-century snacks! Hear how the building was once the scene of famous battles, and is now home to a variety of wildlife. And from the south side, there are fantastic sea views.\n\nG Rushford is an old castle on the coast which is a popular local attraction. The Rushford Castle caf\u00e9 in the walls serves food typical of the castle's history. Inside, there are beautiful rooms with antique tables and clocks. Outside, visitors can see a wide variety of wildlife.\n\nH Sawbridge Castle was built in 1712 on an island in a lake. Inside, you can still see beautifully designed beds, tables and other objects once used by families living there. Put on headphones and listen to information about the history of Sawbridge Castle. Visitors of all ages will love the toy museum in the gardens.",
+      "questions": [
+        {
+          "id": "t3-q6",
+          "text": "Alan is keen on history, and wants to visit a castle that was the site of well-known historical events. He'd like the castle to be near the coast, with tours led by a guide.",
+          "correctAnswer": "F",
+          "explanation": "Carston Castle có hướng dẫn viên (Experts will show you around), hiện trường trận chiến nổi tiếng (famous battles) và tầm nhìn ra biển (sea views)."
+        },
+        {
+          "id": "t3-q7",
+          "text": "Yoshiko wants to see a castle that people are still living in. She loves visiting beautiful gardens, and would like to explore interesting places in the castle.",
+          "correctAnswer": "A",
+          "explanation": "Durston Castle vẫn là nhà của gia đình Durston (family's home), có bồn hoa/đài phun nước (flower beds/fountains) và đường hầm bí mật."
+        },
+        {
+          "id": "t3-q8",
+          "text": "Paulo and Maria collect antiques, so want to visit a castle that still has some of its original furniture on display, and hear about the building's history. They also want something that's particularly suitable for young children.",
+          "correctAnswer": "H",
+          "explanation": "Sawbridge Castle có giường/bàn cổ từng được dùng (objects once used), thông tin lịch sử qua tai nghe, và bảo tàng đồ chơi cho trẻ em (toy museum)."
+        },
+        {
+          "id": "t3-q9",
+          "text": "Kerim wants somewhere with a great historical atmosphere, with typical food from the past to try, and people dressed in costume. He'd also like to see art that's been in the castle for centuries.",
+          "correctAnswer": "B",
+          "explanation": "Castle Woodward có nhân viên mặc trang phục thời xưa (clothes typical of the time), đồ ăn cổ từ công thức xưa (recipes from different periods) và tranh cổ."
+        },
+        {
+          "id": "t3-q10",
+          "text": "Jake and his brother have always wanted to visit the ruins of a castle surrounded by water, with great views. Jake also wants to learn about any wildlife living in and around the castle.",
+          "correctAnswer": "D",
+          "explanation": "Lâu đài cổ Marlin nằm giữa hồ nước (middle of a lake), có phong cảnh đẹp từ toà tháp cao và có nói về dơi, chim và bướm sinh sống quanh đó (wildlife)."
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "type": "multiple-choice-passage",
+      "title": "Part 3",
+      "description": "Read the text about Ana Ronson, a singer-songwriter, and choose the correct answer.",
+      "passage": "Ana Ronson\nSinger-songwriter\n\nSinger-songwriter Ana Ronson grew up in Ireland. Although her parents weren't musicians, there was always music in the house. Her grandfather played the guitar, and taught Ana and her brother to play.\n\nThe first time Ana tried singing in front of an audience was at school - she was so nervous that her teacher had to lead her off the stage. This teacher suggested that joining the school theatre club might make her more confident. After attending the club for a while, she happily sang with 50 other students at an end-of-term concert.\n\nA year later, her brother, who was in a band, asked her to write a song for them, and so she wrote her first ever song, Falling Stars. Writing it took just three days and she enjoyed it so much that she enrolled on a songwriting course run by a professional songwriter. Despite being the youngest student, she already knew more about music than many of the others. But Ana says the teacher didn't listen to anything she said, and she wrote Something to Say about how annoyed this made her feel.\n\nShe posted this song online, and it became a huge success. She was delighted when people left comments saying that they loved it and found new meanings in the words each time they heard them. Joss Alton, the owner of a recording company called Isotope Music, flew from his office on the other side of Ireland to ask her to join Isotope. At first she wasn't sure; she didn't know anything about the company, and didn't want someone telling her what to sing. However, Joss persuaded her this wouldn't happen, and a short time later she performed at a concert in Dublin arranged by Isotope. They sold all the tickets very quickly and it was an amazing evening.\n\nAna says she's less interested in writing songs about when life's good; when it's not, there's more for her to say. One of her favourite songs is Decision, written about why her brother stopped singing for a while, and how unhappy it made him. While she hopes that fans will like her songs, her aim is to write about personal experiences that matter to her.",
+      "questions": [
+        {
+          "id": "t3-q11",
+          "text": "What helped Ana stop being scared of singing to an audience?",
+          "options": [
+            { "id": "A", "text": "practising her singing with a band" },
+            { "id": "B", "text": "asking a teacher to stand on stage with her" },
+            { "id": "C", "text": "being in a drama group at school" },
+            { "id": "D", "text": "making sure she was not in the front row" }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Câu lạc bộ kịch của trường (school theatre club) đã giúp Ana tự tin hơn đứng trước khán giả."
+        },
+        {
+          "id": "t3-q12",
+          "text": "How was the songwriting course useful for Ana?",
+          "options": [
+            { "id": "A", "text": "She was able to meet some well-known singers." },
+            { "id": "B", "text": "The teacher's attitude gave her an idea for a song." },
+            { "id": "C", "text": "She learnt a lot from other writers on the course." },
+            { "id": "D", "text": "The teacher gave her advice about the music business." }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Thầy giáo không nghe Ana nói gì khiến cô khó chịu, và đó lại là nguồn cảm hứng để cô viết bài 'Something to Say'."
+        },
+        {
+          "id": "t3-q13",
+          "text": "Ana decided to work with Joss Alton because",
+          "options": [
+            { "id": "A", "text": "he promised to let her choose which songs to sing." },
+            { "id": "B", "text": "he offered to help her put on a concert." },
+            { "id": "C", "text": "she liked some other singers that he worked with." },
+            { "id": "D", "text": "he owned a company in her home town." }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Lúc đầu cô không muốn ai ra lệnh cho mình phải hát gì, Joss đã thuyết phục rằng điều đó sẽ không xảy ra."
+        },
+        {
+          "id": "t3-q14",
+          "text": "Ana most enjoys writing songs that",
+          "options": [
+            { "id": "A", "text": "she is sure her fans will like." },
+            { "id": "B", "text": "deal with difficult times." },
+            { "id": "C", "text": "her brother can sing with his band." },
+            { "id": "D", "text": "help people remember their own experiences." }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Ana không thích viết bài hát khi cuộc sống màu hồng; mà muốn viết khi mọi thứ tồi tệ (khi đó cô có nhiều điều để giãi bày hơn)."
+        },
+        {
+          "id": "t3-q15",
+          "text": "What would Ana write to fans in her blog?",
+          "options": [
+            { "id": "A", "text": "Listening to my parents playing music on their instruments really encouraged me to become a singer myself." },
+            { "id": "B", "text": "Writing songs just gets easier with practice. Nowadays it only takes a week or so - it wasn't like that when I started!" },
+            { "id": "C", "text": "I loved playing the concert in Dublin. I hope that next time we'll sell all the tickets - it was a shame to have some empty seats!" },
+            { "id": "D", "text": "I read what people write about me online - it means a lot to me that they like listening carefully to my songs." }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Cô ấy bày tỏ sự vui mừng (delighted) khi đọc bình luận khán giả trên mạng viết rằng họ tìm thấy ý nghĩa mới trong bài hát khi nghe kỹ."
+        }
+      ]
+    },
+    {
+      "id": "part-4",
+      "type": "sentence-insertion",
+      "title": "Part 4",
+      "description": "Choose the correct sentence for each gap.",
+      "passage": "Steve Dalway's cycle ride\n\nSteve Dalway has recently completed an amazing bike ride between the US cities of Los Angeles and Boston, a distance of nearly 5,500 km. He and ten other cyclists took part in a trip organised by a company that provided a mechanic, planned the accommodation and route, and carried the cyclists' bags. (16) _____ Even with these, the ride involved a huge amount of effort.\n\nSteve had already completed another long cycle ride in Europe. (17) _____ For example, he knew that on any ride, eating properly is important. When you don't eat enough, your ability to recover after hard exercise is reduced. For this reason, he always made sure he had a large breakfast before setting off every morning. (18) _____ The sight of the hotel at the end of the day was still very welcome, however!\n\nOne of the toughest times for the riders in the US was when the route climbed high into the Rocky Mountains. By the end of that part of the ride, Steve had climbed an amazing 28,000 m in total. (19) _____ An early section of the ride, for instance, took the group of cyclists through the Mojave desert, where the high temperatures made them feel as if they were in an oven. In the desert, Steve had to drink four litres of liquid every 40 km in order to keep going.\n\nThe cyclists used paper maps and had electronic devices to record the distances they travelled. So that everyone knew what they'd be facing the next day, a big map was displayed every evening in the hotel where the group were staying. (20) _____ At first the cyclists were disappointed when the black line drawn on the map by the organisers only moved forward by small amounts, despite all the day's work. At the end of the ride, however, they felt very proud of what they'd achieved.\n\nSentences:\nA. He therefore had an idea of what to expect on this one.\nB. It also allowed them to see the progress they had made.\nC. He was surprised that he had gone so fast.\nD. Doing that gave him the energy he needed to keep going.\nE. It also arranged stops every 50 km for snacks and drinks.\nF. This ride would be 1,000 km longer.\nG. As a result, Steve's family knew how he was feeling each day.\nH. There were other challenges, too.",
+      "questions": [
+        { "id": "t3-q16", "text": "Gap 16", "correctAnswer": "E", "explanation": "Kể tiếp về những gì công ty du lịch đã hỗ trợ (sắp xếp trạm dừng cứ cách 50km cho đồ ăn thức uống)." },
+        { "id": "t3-q17", "text": "Gap 17", "correctAnswer": "A", "explanation": "Do Steve đã có kinh nghiệm đạp xe đường dài ở Châu Âu, anh ấy 'đã có ý niệm về những gì sẽ diễn ra ở chuyến này' (what to expect)." },
+        { "id": "t3-q18", "text": "Gap 18", "correctAnswer": "D", "explanation": "Việc ăn sáng dồi dào (large breakfast) cung cấp đầy năng lượng để anh tiếp tục chuyến đi (energy he needed to keep going)." },
+        { "id": "t3-q19", "text": "Gap 19", "correctAnswer": "H", "explanation": "Ngoài leo núi Rocky, còn 'có những thử thách khác nữa' (other challenges, too), ví dụ như băng qua sa mạc Mojave nóng bức." },
+        { "id": "t3-q20", "text": "Gap 20", "correctAnswer": "B", "explanation": "Bản đồ lớn không chỉ để nhìn lộ trình ngày mai mà 'nó còn cho phép họ nhìn thấy tiến trình đi được' (progress they had made)." }
+      ]
+    },
+    {
+      "id": "part-5",
+      "type": "multiple-choice-cloze",
+      "title": "Part 5",
+      "description": "Choose the correct word to fill in the gaps (21-26).",
+      "passage": "Honey\n\nPeople all over the world enjoy eating honey. But how much do you know about this (21) _____ food? Most honey is made by bees, but what few people realise is that there are several types of bee which make honey.\n\nBees may have to visit about two million flowers to produce only half a kilo of honey. The type of flower the bees visit (22) _____ both how the honey tastes and its colour. In fact, there are (23) _____ more than three hundred kinds of honey.\n\nIn (24) _____ times, honey was added to food instead of sugar, as sugar was very rare. In many cultures, people have used it for centuries to (25) _____ various health problems. (26) _____ , people all over the world still add it to hot water and drink it when they have a sore throat.",
+      "questions": [
+        {
+          "id": "t3-q21",
+          "options": [
+            {"id": "A", "text": "usual"},
+            {"id": "B", "text": "shared"},
+            {"id": "C", "text": "general"},
+            {"id": "D", "text": "common"}
+          ],
+          "correctAnswer": "D",
+          "explanation": "common food: loại thực phẩm thông dụng/phổ biến."
+        },
+        {
+          "id": "t3-q22",
+          "options": [
+            {"id": "A", "text": "makes"},
+            {"id": "B", "text": "affects"},
+            {"id": "C", "text": "guides"},
+            {"id": "D", "text": "directs"}
+          ],
+          "correctAnswer": "B",
+          "explanation": "Loại hoa mật ong mà ong hút 'sẽ ảnh hưởng' (affects) đến hương vị và màu sắc."
+        },
+        {
+          "id": "t3-q23",
+          "options": [
+            {"id": "A", "text": "correctly"},
+            {"id": "B", "text": "actually"},
+            {"id": "C", "text": "accurately"},
+            {"id": "D", "text": "absolutely"}
+          ],
+          "correctAnswer": "B",
+          "explanation": "Trên thực tế (actually) có tới hơn 300 loại."
+        },
+        {
+          "id": "t3-q24",
+          "options": [
+            {"id": "A", "text": "antique"},
+            {"id": "B", "text": "far"},
+            {"id": "C", "text": "elderly"},
+            {"id": "D", "text": "ancient"}
+          ],
+          "correctAnswer": "D",
+          "explanation": "In ancient times: Thời cổ đại."
+        },
+        {
+          "id": "t3-q25",
+          "options": [
+            {"id": "A", "text": "cure"},
+            {"id": "B", "text": "mend"},
+            {"id": "C", "text": "repair"},
+            {"id": "D", "text": "assist"}
+          ],
+          "correctAnswer": "A",
+          "explanation": "Dùng mật ong để 'chữa trị' (cure) một vài vấn đề sức khoẻ."
+        },
+        {
+          "id": "t3-q26",
+          "options": [
+            {"id": "A", "text": "Recently"},
+            {"id": "B", "text": "Lately"},
+            {"id": "C", "text": "Nowadays"},
+            {"id": "D", "text": "Already"}
+          ],
+          "correctAnswer": "C",
+          "explanation": "Nowadays: Ngày nay, mọi người trên khắp thế giới vẫn thêm mật ong vào nước ấm..."
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "type": "open-cloze",
+      "title": "Part 6",
+      "description": "Write one word only for each gap.",
+      "passage": "Starting at college\n\nHi, my name's Emma. Welcome to the college! I've been studying here for a year now. Starting at college isn't easy, but I'm sure you'll soon feel at home. When I first started studying here last year, I was (27) _____ nervous that I couldn't even ask anyone for help. I got lost five times on my first day!\n\nRemember that (28) _____ student at the college has been new at one time, and understands how you feel. So (29) _____ you're not sure where to go, just ask - we're all happy to help!\n\nYou probably don't know many people here. To make some friends, (30) _____ not spend break times with some of your new classmates in the caf\u00e9? Or how (31) _____ joining one of the many clubs we have at the college? (32) _____ are lots to choose from.\n\nGood luck on your new course!",
+      "questions": [
+        { "id": "t3-q27", "correctAnswer": "so", "explanation": "Cấu trúc so + adj + that (quá... đến nỗi mà)." },
+        { "id": "t3-q28", "correctAnswer": "every", "explanation": "every student: mọi sinh viên." },
+        { "id": "t3-q29", "correctAnswer": "if", "explanation": "So if you're not sure ... (Vì vậy nếu bạn không chắc... thì hãy hỏi)." },
+        { "id": "t3-q30", "correctAnswer": "why", "explanation": "why not + V_nguyên: Đưa ra lời khuyên (Sao lại không...)." },
+        { "id": "t3-q31", "correctAnswer": "about", "explanation": "how about + V-ing: Đề xuất một hoạt động (Việc gia nhập CLB thì sao)." },
+        { "id": "t3-q32", "correctAnswer": "There", "explanation": "There are lots... : Có rất nhiều sự lựa chọn." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "test": "test7",
+  "questions": [
+    {
+      "id": "q7",
+      "content": "LISTENING\nPart 4 0\n52\nQuestions 20-25\nFor each question, choose the correct answer.\nYou will hear an interview with a woman called Florence Adams, who helps people with job interviews.\n20 What does Florence say about starting preparation for a job interview?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Find out more about the company first."
+        },
+        {
+          "id": "B",
+          "text": "Decide whether you would be happy to work in another country."
+        },
+        {
+          "id": "C",
+          "text": "Ask people in the local area about the company."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 7 của test7."
+    },
+    {
+      "id": "q2",
+      "content": "To: allstaff@luxuz.com",
+      "options": [
+        {
+          "id": "A",
+          "text": "Please leave lights on as some people are\nworking late.\nFrom: keith@luxuz.com"
+        },
+        {
+          "id": "B",
+          "text": "The last one to finish work should switch off\nHi lights.\nLately office lights have been"
+        },
+        {
+          "id": "C",
+          "text": "Do not leave the office without leaving a light on.\nleft on when the building is\nempty. Could you make sure\nthat the last person to leave\nturns them off.\nThanks\nKeith"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 2 của test7."
+    },
+    {
+      "id": "q11",
+      "content": "You will hear two friends talking about living in the countryside.\nWhat does the woman say?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It would be good for her health."
+        },
+        {
+          "id": "B",
+          "text": "It's difficult to do your shopping."
+        },
+        {
+          "id": "C",
+          "text": "It can feel lonely."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 11 của test7."
+    },
+    {
+      "id": "q12",
+      "content": "You will hear two friends talking about travelling by plane.\nThe man thinks",
+      "options": [
+        {
+          "id": "A",
+          "text": "we should take more holidays at home."
+        },
+        {
+          "id": "B",
+          "text": "flights are too expensive."
+        },
+        {
+          "id": "C",
+          "text": "flying is faster than going by train."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 12 của test7."
+    },
+    {
+      "id": "q13",
+      "content": "You will hear two friends talking about a local businesswoman.\nWhat does the man say about her?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She is looking for a business partner."
+        },
+        {
+          "id": "B",
+          "text": "She supports local businesses."
+        },
+        {
+          "id": "C",
+          "text": "She is thinking of opening a new shop.\n156"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 13 của test7."
+    },
+    {
+      "id": "q14",
+      "content": "What does Corinna say about litter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "People should request more litter bins."
+        },
+        {
+          "id": "B",
+          "text": "You should clear the area where you've been camping."
+        },
+        {
+          "id": "C",
+          "text": "People often leave litter in their tent."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 14 của test7."
+    },
+    {
+      "id": "q22",
+      "content": "If you don·t have much experience in an area, Florence suggests",
+      "options": [
+        {
+          "id": "A",
+          "text": "asking if the company can help."
+        },
+        {
+          "id": "B",
+          "text": "not talking about these areas."
+        },
+        {
+          "id": "C",
+          "text": "still arguing you are perfect for the job."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 22 của test7."
+    },
+    {
+      "id": "q24",
+      "content": "Florence suggests",
+      "options": [
+        {
+          "id": "A",
+          "text": "reading some example interview questions available on the internet."
+        },
+        {
+          "id": "B",
+          "text": "getting help from other people before the interview."
+        },
+        {
+          "id": "C",
+          "text": "preparing answers for the interview."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 24 của test7."
+    },
+    {
+      "id": "q4",
+      "content": "Where are floods expected to cause problems?",
+      "options": [
+        {
+          "id": "A",
+          "text": "B C\n5 How many people are going to the party so far?\nA"
+        },
+        {
+          "id": "B",
+          "text": "C\n6 What does the woman finally buy to drink?\nA B"
+        },
+        {
+          "id": "C",
+          "text": "7 When does the caller want to move into the flat?\nA B C\n155"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 4 của test7."
+    },
+    {
+      "id": "q9",
+      "content": "You will hear two friends talking about a new mobile phone.\nThe woman says",
+      "options": [
+        {
+          "id": "A",
+          "text": "it's not much better than her last one."
+        },
+        {
+          "id": "B",
+          "text": "it doesn't seem to be working properly."
+        },
+        {
+          "id": "C",
+          "text": "the screen is damaged."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 9 của test7."
+    },
+    {
+      "id": "q10",
+      "content": "You will hear a woman talking to her husband about washing clothes.\nThe man says the washing machine",
+      "options": [
+        {
+          "id": "A",
+          "text": "could be fixed quite cheaply."
+        },
+        {
+          "id": "B",
+          "text": "has never worked properly."
+        },
+        {
+          "id": "C",
+          "text": "doesn't need replacing."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 10 của test7."
+    },
+    {
+      "id": "q21",
+      "content": "Florence feels it is very important that",
+      "options": [
+        {
+          "id": "A",
+          "text": "the job is good for your career plans."
+        },
+        {
+          "id": "B",
+          "text": "you focus on why you want to work for the company."
+        },
+        {
+          "id": "C",
+          "text": "you only take the job if you really want it."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 21 của test7."
+    },
+    {
+      "id": "q23",
+      "content": "What does Florence say about asking questions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They should focus on what you will be responsible for doing in the job."
+        },
+        {
+          "id": "B",
+          "text": "You should wait to be invited to ask questions."
+        },
+        {
+          "id": "C",
+          "text": "They can tell employers more about you as a person."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 23 của test7."
+    },
+    {
+      "id": "q25",
+      "content": "What does Florence say you should do when you walk into the room?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Find a chair to sit down."
+        },
+        {
+          "id": "B",
+          "text": "Focus on the floor or ceiling to help you relax."
+        },
+        {
+          "id": "C",
+          "text": "Act as if you are happy to be there.\n158"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 25 của test7."
+    }
+  ]
+}

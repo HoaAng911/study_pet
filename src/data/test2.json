@@ -1,0 +1,287 @@
+{
+  "testId": "cambridge-pet-1-test-2",
+  "title": "Cambridge B1 Preliminary 1 Reading: Test 2",
+  "totalTimeInSeconds": 2700,
+  "parts": [
+    {
+      "id": "part-1",
+      "type": "short-messages",
+      "title": "Part 1",
+      "description": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "id": "t2-q1",
+          "text": "Jenny is emailing to",
+          "content": "From: Jenny\nTo: Lara\n\nLara,\nTry www.deals4trains.com for some great ticket discounts. I remember you said you wanted to visit a few interesting cities in the UK. This might be a good way to do it!\nJenny",
+          "options": [
+            { "id": "A", "text": "suggest how Lara could do some sightseeing." },
+            { "id": "B", "text": "remind Lara that she needs to book some cheap train tickets." },
+            { "id": "C", "text": "invite Lara to visit some different places around the UK with her." }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Jenny gợi ý trang web (Try www.deals4trains.com) như một cách tốt (good way) để Lara thực hiện chuyến đi ngắm cảnh (visit a few interesting cities)."
+        },
+        {
+          "id": "t2-q2",
+          "text": "What does the notice say?",
+          "content": "Sweet Memories\nCan you remember your candy store favourites?\nLecture by historical expert: The unusual story behind candy\nEveryone welcome!",
+          "options": [
+            { "id": "A", "text": "People will be asked to discuss their favourite childhood sweets at the lecture." },
+            { "id": "B", "text": "The lecture will be about how sweet shops have changed over the last century." },
+            { "id": "C", "text": "The lecture will cover some surprising facts about sweets." }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Câu chuyện khác thường (unusual story) mang ý nghĩa sẽ có những sự thật thú vị, bất ngờ (surprising facts)."
+        },
+        {
+          "id": "t2-q3",
+          "text": "Jack is texting Dan because",
+          "content": "Dan\nThat wildlife book you borrowed from the library sounds perfect for my next project. Text me when you're going to return it, and I'll go and take it out myself.\nJack",
+          "options": [
+            { "id": "A", "text": "Jack is asking Dan's opinion about whether a book is suitable for his project." },
+            { "id": "B", "text": "Jack wants Dan to let him know when a library book will be available." },
+            { "id": "C", "text": "Jack is recommending to Dan a useful library book he has recently borrowed." }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Jack dặn (Text me when you're going to return it) để anh có thể mượn sách ngay."
+        },
+        {
+          "id": "t2-q4",
+          "text": "Tomato sauce instruction:",
+          "content": "Tomato sauce\nStore in cool, dry place. After opening, keep in fridge and use within six weeks, and not after date shown.",
+          "options": [
+            { "id": "A", "text": "Eat the sauce a maximum of six weeks after you start using it." },
+            { "id": "B", "text": "Put the sauce in your refrigerator as soon as you bring it home." },
+            { "id": "C", "text": "Make a note of the date when you bought the sauce." }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Sử dụng trong vòng sáu tuần sau khi mở nắp (use within six weeks)."
+        },
+        {
+          "id": "t2-q5",
+          "text": "Drum tutor notice:",
+          "content": "DRUM TUTOR\nAll abilities & styles covered\nAdults only (18+)\nFirst lesson costs absolutely nothing when signing up for two months!",
+          "options": [
+            { "id": "A", "text": "The teacher is offering lessons to anyone interested in trying the drums." },
+            { "id": "B", "text": "You must intend to study for a certain period to have the free session." },
+            { "id": "C", "text": "To attend these classes, students must already be at a certain level." }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Bạn phải đăng ký học hai tháng (signing up for two months) thì buổi đầu tiên mới được miễn phí."
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "type": "matching",
+      "title": "Part 2",
+      "description": "Choose the best environment website for each person (6-10).",
+      "passage": "Websites on the environment\n\nA futurenow.org\nFind answers here about how much energy is used around the planet. And if you're planning a journey, put in your route to compare the energy used by different types of transport, and choose the one that's best for the environment.\n\nB ourworld.org\nThis site lists the best places online to learn the latest results of scientific studies on issues affecting the environment. Or if you prefer working things out for yourself, there are experiments to do like making your own power using sunlight! You'll also find information on groups all over the planet working to protect the environment.\n\nC cleanplanet.org\nDiscover how waste plastic, glass and metal are turned into new products, and watch clips showing different methods used around the world. There's also a section about how much attention various fashion companies pay to their effect on the environment. Use it to keep up with new trends!\n\nD globaleco.org\nThis site explores the importance of energy in our daily lives, and also different ways of generating it without using oil or gas, for example by using wind power instead. There are links to UK companies that use these renewable energies, so you can find out more about what they do.\n\nE eco.org\nContact others who also care about environmental issues and find information about international groups; search for one to join in your area. You can also find out if your choice of transport damages the planet. If so, try the easy changes to your routine suggested here.\n\nF planetmatters.org\nLearn about what top scientists involved in research to protect our planet do day to day, as well as about their latest discoveries. There's a message board so you can post questions to them \u2013 you'll always get a quick reply. There's also a recycling section \u2013 find different uses for things that you might otherwise put in the bin.\n\nG worldaware.org\nMost people want to know what they can do to help protect our world. This site has everything you need to know about recycling: why it's important around the world, and how to get rid of items safely in your local area without harming the environment.\n\nH oneworld.org\nThere's lots of environmental information here, whether you're just starting to explore the subject, or wanting to find out about the latest research. Gifts are on sale, too, made from objects and materials that are often thrown out \u2013 treat yourself and help the planet! There's also a useful guide on using less electricity at home \u2013 reduce those bills!",
+      "questions": [
+        {
+          "id": "t2-q6",
+          "text": "Ethan wants to know about environmental organisations around the world. He's interested in doing a project at home on energy production, and wants recommendations for other websites with up-to-date information on new research.",
+          "correctAnswer": "B",
+          "explanation": "Có thông tin nhóm bảo vệ thế giới, thử nghiệm tạo năng lượng tại nhà và các trang web kết quả nghiên cứu khoa học mới nhất."
+        },
+        {
+          "id": "t2-q7",
+          "text": "Mario is interested in how the way he gets to work affects the environment, and wants ideas to reduce any negative effects. He'd like to meet local people who share his interest in the environment.",
+          "correctAnswer": "E",
+          "explanation": "Đưa lời khuyên về thay đổi phương tiện di chuyển, kết nối cộng đồng cùng chung lĩnh vực quan tâm môi trường."
+        },
+        {
+          "id": "t2-q8",
+          "text": "Sylvia is keen to know what she can do with items she doesn't need, rather than throw them away. She'd like the opportunity to ask environmental experts about their work.",
+          "correctAnswer": "F",
+          "explanation": "Tìm được ứng dụng mới cho đồ thừa và có bảng tin hỏi trực tiếp với các chuyên gia khoa học."
+        },
+        {
+          "id": "t2-q9",
+          "text": "Declan wants to know where to find clothes produced without damaging the environment. He'd like to learn about recycling processes, and see how recycling is done internationally.",
+          "correctAnswer": "C",
+          "explanation": "Cung cấp cách các hãng thời trang thân thiện môi trường quy trình biến rác (nhựa, thủy tinh) thành sản phẩm mới trên thế giới."
+        },
+        {
+          "id": "t2-q10",
+          "text": "Tasha wants to help her family save energy, and get a basic introduction to studying the environment for a college project. She'd also like to buy something created from recycled items.",
+          "correctAnswer": "H",
+          "explanation": "Hướng dẫn mọi người về tiết kiệm điện tại nhà, hướng dẫn cơ bản môi trường, và cửa hàng bán quà tái chế."
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "type": "multiple-choice-passage",
+      "title": "Part 3",
+      "description": "Read the text about Luka Horvat, a basketball player, and choose the correct answer.",
+      "passage": "Basketball player\n\nLuka Horvat writes about his early career.\n\nMy dad was a professional basketball player in Germany, as his father had been before him, and I went to watch many of his games when I was a kid. You might think that seeing so many matches would give me a love of the sport, but it actually had the opposite effect. I loved telling my friends how good my dad was, of course, especially when he won a game, but I used to take a book with me to read instead of watching.\n\nStarting secondary school, I was still two years away from being a teenager but was already two metres tall. Seeing my height, my sports teacher asked if I\u2019d be interested in training with the basketball team. Even though I enjoyed the session, I thought I\u2019d need to develop my skills before I took part in a real match, but the teacher had more confidence in me than I did. It took me a while to agree, but a few weeks later I found myself playing against a team from another school. Mum and Dad coming to watch didn\u2019t really help \u2013 it made me more nervous. But it was OK in the end!\n\nFor the next four years, I practised every day and did really well, even joining an adult team before I moved abroad to a special sports academy in the USA when I was fifteen. The coach there trains Olympic basketball players, and it was fantastic to work with him. However, I can\u2019t say I enjoyed my first experience of living far from my parents. At home, I\u2019d never been able to spend much time with my friends due to all the training, so that wasn\u2019t such a change for me. I got used to everything about my new life in the end, though, and my English improved quickly too!\n\nI turned professional at the age of eighteen, three years after arriving in the USA. I\u2019d been taller than most players in the professional league since I was fifteen, but had been much too light for my height, so had to get that right first. My coach already knew a team that would take me while I was still at college, so I joined them and have never regretted it.",
+      "questions": [
+        {
+          "id": "t2-q11",
+          "text": "What does Luka say about his childhood?",
+          "options": [
+            { "id": "A", "text": "He had a great interest in basketball." },
+            { "id": "B", "text": "He enjoyed watching his father play basketball." },
+            { "id": "C", "text": "He felt proud of his father's success at basketball." },
+            { "id": "D", "text": "He knew he wanted to become a basketball player." }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Luka không thích xem trận đấu nhưng rất hãnh diện kể với bạn bè rằng bố chơi tốt cỡ nào (I loved telling my friends how good my dad was)."
+        },
+        {
+          "id": "t2-q12",
+          "text": "How did Luka feel before his first match at secondary school?",
+          "options": [
+            { "id": "A", "text": "He wasn't sure that he would do well." },
+            { "id": "B", "text": "He was pleased that his parents would be there." },
+            { "id": "C", "text": "He wasn't happy about his teacher's attitude." },
+            { "id": "D", "text": "He was delighted to be part of the team." }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Anh nghĩ mình cần rèn kỹ năng thêm trước lúc đấu thực tế (need to develop my skills) và thầy giáo tự tin về anh hơn chính bản thân anh."
+        },
+        {
+          "id": "t2-q13",
+          "text": "Luka thinks the most difficult thing about moving to the USA was",
+          "options": [
+            { "id": "A", "text": "learning a new language." },
+            { "id": "B", "text": "being away from his family." },
+            { "id": "C", "text": "getting a good coach." },
+            { "id": "D", "text": "missing his friends." }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Anh ấy cho biết anh không tận hưởng trải nghiệm sống xa bố mẹ (living far from my parents)."
+        },
+        {
+          "id": "t2-q14",
+          "text": "What did Luka have to do before he became a professional player?",
+          "options": [
+            { "id": "A", "text": "complete his studies" },
+            { "id": "B", "text": "find a suitable team" },
+            { "id": "C", "text": "reach a certain height" },
+            { "id": "D", "text": "put on weight" }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Anh quá gầy so với chiều cao (much too light for my height) nên phải khắc phục điều đó, tức là tăng cân (put on weight)."
+        },
+        {
+          "id": "t2-q15",
+          "text": "What would be a good way to introduce this article?",
+          "options": [
+            { "id": "A", "text": "Luka Horvat has always been as interested in reading as in basketball. Here, in his own words, he explains why." },
+            { "id": "B", "text": "Luka Horvat tells us how he became the latest member of a sporting family to become a professional basketball player." },
+            { "id": "C", "text": "Professional basketball player Luka Horvat explains how luck has been so much more important than hard work in his career." },
+            { "id": "D", "text": "Even though he only started playing basketball as a teenager, Luka Horvat still managed to become a professional by the age of eighteen." }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Bài giới thiệu hợp lý nhất về cốt truyện: Luka là con nhà tông (ông nội và bố là VĐV) và kể lại hành trình trở thành VĐV chuyên nghiệp."
+        }
+      ]
+    },
+    {
+      "id": "part-4",
+      "type": "sentence-insertion",
+      "title": "Part 4",
+      "description": "Choose the correct sentence for each gap.",
+      "passage": "Adventures in the air\n\nThe first ever balloon flight carrying passengers was made by the Montgolfier brothers in 1783. They used hot air to float the balloon over 1,000 metres up into the sky. Nowadays, people still fly in hot-air balloons but there is also a less well-known sport called \u2018cluster ballooning\u2019; instead of one big balloon, hundreds of small balloons are used.\n\nCluster ballooning was invented by a lorry driver called Larry Walters. Larry had wanted to fly using balloons for a long time. (16) _____ It took almost 20 years, however, for his dream to finally come true. One day, Larry decided to do an experiment: he wanted to try flying a few metres above his garden. So he bought 45 balloons, filled them with a gas called helium, and tied them to a chair. He then cut the rope that was holding the chair to the ground. (17) _____ The chair, with Larry sitting in it, floated several kilometres into the sky rather than just a few metres!\n\nThe wind was blowing strongly and Larry began to float out towards the sea. Things were getting dangerous. Then, to make matters even worse, the wind changed, and the balloons started to blow towards the local airport. Larry felt very worried. (18) _____ The story of Larry\u2019s flight was all over the news and this is how the adventure sport of cluster ballooning was born.\n\nOne experienced cluster balloonist, Leo Burns, flew his cluster balloons over the largest range of mountains in Europe \u2013 the Alps. This wasn\u2019t his first flight, though. Leo had got his pilot\u2019s licence several years before, so was already used to flying. (19) _____ According to Leo, there is no better way to fly. \u2018Cluster ballooning\u2019s amazing,\u2019 he says. \u2018The balloons are usually completely silent. (20) _____ They weren\u2019t as safe as modern cluster balloons either.\u2019\n\nSentences:\nA. He knew this would still make him feel very afraid.\nB. The old-fashioned hot-air balloons made a horrible noise.\nC. In fact, he was just a boy when he first started thinking about it.\nD. Luckily, he landed safely after a couple of hours.\nE. They are also much less dangerous.\nF. However, there was an unexpected problem.\nG. But these days, he prefers to use balloons.\nH. Immediately after that, he tried to learn how this would be possible.",
+      "questions": [
+        { "id": "t2-q16", "text": "Gap 16", "correctAnswer": "C", "explanation": "Ông đã suy nghĩ về nó từ hồi nhỏ (when he was just a boy), thế nên mất tới tận 20 năm sau, mơ ước mới thành hiện thực." },
+        { "id": "t2-q17", "text": "Gap 17", "correctAnswer": "F", "explanation": "Cắt dây xong thì xảy ra rắc rối bất ngờ (unexpected problem): bay vào tận trong trời thay vì vài mét." },
+        { "id": "t2-q18", "text": "Gap 18", "correctAnswer": "D", "explanation": "Rất hoảng hốt nhưng may mắn đáp cánh an toàn sau vài tiếng (landed safely)." },
+        { "id": "t2-q19", "text": "Gap 19", "correctAnswer": "G", "explanation": "Đã quen với việc bay trên máy bay, nhưng dạo gần đây anh ấy thích sử dụng bóng bay (prefers to use balloons)." },
+        { "id": "t2-q20", "text": "Gap 20", "correctAnswer": "B", "explanation": "Leo khen bóng bay mới 'hoàn toàn tĩnh lặng' (completely silent) trái ngược với bọn khinh khí cầu đời cũ tạo ra tiếng ồn khó chịu (made a horrible noise)." }
+      ]
+    },
+    {
+      "id": "part-5",
+      "type": "multiple-choice-cloze",
+      "title": "Part 5",
+      "description": "Choose the correct word to fill in the gaps (21-26).",
+      "passage": "Whale songs\n\nDid you know that a kind of whale, called a humpback whale, sings? In the 1960s it was (21) _____ that humpbacks communicate with each other by making beautiful noises. A record was (22) _____ in 1970 called Songs of the humpback whale, which sold millions of copies. People were absolutely amazed to learn that some whales in the deep oceans were so intelligent: in (23) _____ centuries people had thought that whales had simple brains, like fish.\n\nThe songs of the whales were so popular that they were (24) _____ in recordings of sounds from our planet which were (25) _____ into space in 1977. The recordings were chosen to show the wide (26) _____ of life on our planet. People hoped that, in the future, they might be found by intelligent creatures far out in space.",
+      "questions": [
+        {
+          "id": "t2-q21",
+          "options": [
+            {"id": "A", "text": "explored"},
+            {"id": "B", "text": "invented"},
+            {"id": "C", "text": "discovered"},
+            {"id": "D", "text": "informed"}
+          ],
+          "correctAnswer": "C",
+          "explanation": "Đó là một sự thật được con người 'khám phá ra' (discovered)."
+        },
+        {
+          "id": "t2-q22",
+          "options": [
+            {"id": "A", "text": "appeared"},
+            {"id": "B", "text": "delivered"},
+            {"id": "C", "text": "achieved"},
+            {"id": "D", "text": "produced"}
+          ],
+          "correctAnswer": "D",
+          "explanation": "Một đĩa ghi âm được 'sản xuất' ra (produced)."
+        },
+        {
+          "id": "t2-q23",
+          "options": [
+            {"id": "A", "text": "previous"},
+            {"id": "B", "text": "old"},
+            {"id": "C", "text": "early"},
+            {"id": "D", "text": "ancient"}
+          ],
+          "correctAnswer": "A",
+          "explanation": "Trong những thế kỷ 'trước kia' (previous centuries)."
+        },
+        {
+          "id": "t2-q24",
+          "options": [
+            {"id": "A", "text": "contained"},
+            {"id": "B", "text": "included"},
+            {"id": "C", "text": "consisted"},
+            {"id": "D", "text": "involved"}
+          ],
+          "correctAnswer": "B",
+          "explanation": "Bài hát đó được 'đưa vào/kể vào' (included) bộ những âm thanh của hành tinh."
+        },
+        {
+          "id": "t2-q25",
+          "options": [
+            {"id": "A", "text": "sent"},
+            {"id": "B", "text": "added"},
+            {"id": "C", "text": "kept"},
+            {"id": "D", "text": "placed"}
+          ],
+          "correctAnswer": "A",
+          "explanation": "Bộ ghi âm được 'gửi' (sent) ra ngoài vũ trụ."
+        },
+        {
+          "id": "t2-q26",
+          "options": [
+            {"id": "A", "text": "sort"},
+            {"id": "B", "text": "difference"},
+            {"id": "C", "text": "kind"},
+            {"id": "D", "text": "variety"}
+          ],
+          "correctAnswer": "D",
+          "explanation": "Để biểu diễn sự 'đa dạng' của sự sống (wide variety)."
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "type": "open-cloze",
+      "title": "Part 6",
+      "description": "Write one word only for each gap.",
+      "passage": "My travel blog\n\nThis summer, I travelled to Copenhagen, the capital of Denmark, on my own. I am only 20 and to (27) _____ honest, I was nervous about exploring a new city alone. I decided to go on a free walking tour the first day I was there. I hoped the tour would help me to become more familiar (28) _____ the city.\n\nUnfortunately, the weather wasn\u2019t great, but the tour was still absolutely fantastic! Magnus, our tour guide, knew all about the city\u2019s history. We also learnt loads (29) _____ interesting facts about Danish culture. At the end of the tour, he gave (30) _____ all suggestions for the best places (31) _____ eat and visit.\n\nApart from learning so much, I actually had a lot more fun on the walking tour (32) _____ I\u2019d expected. It was an excellent way to experience the city, and learn about its culture and history.",
+      "questions": [
+        { "id": "t2-q27", "correctAnswer": "be", "explanation": "Thành ngữ 'to be honest' nghĩa là thật lòng mà nói." },
+        { "id": "t2-q28", "correctAnswer": "with", "explanation": "Giới từ đi theo familiar: 'familiar with' (quen thuộc với điều gì)." },
+        { "id": "t2-q29", "correctAnswer": "of", "explanation": "Cụm từ 'loads of' có nghĩa tương tự cới 'lots of' - rất nhiều." },
+        { "id": "t2-q30", "correctAnswer": "us", "explanation": "Gave us all: đưa cho tất cả 'chúng tôi'." },
+        { "id": "t2-q31", "correctAnswer": "to", "explanation": "Places to eat: những nơi để ăn uống." },
+        { "id": "t2-q32", "correctAnswer": "than", "explanation": "Cấu trúc so sánh: more fun... than..." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "testId": "cambridge-pet-2-test-4",
+  "title": "PET 2 Reading - Test 4",
+  "totalTimeInSeconds": 2700,
+  "parts": [
+    {
+      "id": "part-1",
+      "type": "short-messages",
+      "title": "Part 1",
+      "description": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "id": "t8-q1",
+          "text": "Why did Joanne write this email?",
+          "content": "Hi Shelly,\nI'm looking forward to our cinema trip tomorrow. Why don't we get the bus? The stop's between your house and mine, so I'll meet you there.\nCheers,\nJoanne",
+          "options": [
+            {
+              "id": "A",
+              "text": "to pass on an invitation"
+            },
+            {
+              "id": "B",
+              "text": "to make a suggestion"
+            },
+            {
+              "id": "C",
+              "text": "to change an arrangement"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Câu hỏi 'Why don't we get the bus?' là một lời đề nghị (make a suggestion) về phương tiện đi lại cho chuyến đi xem phim ngày mai."
+        },
+        {
+          "id": "t8-q2",
+          "text": "What does the notice say?",
+          "content": "Factory staff are required to show their security cards at Reception before entering. Entry will be refused without a card.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Staff cannot enter unless they have a card."
+            },
+            {
+              "id": "B",
+              "text": "Staff requiring a card can apply at Reception."
+            },
+            {
+              "id": "C",
+              "text": "Staff with a card may still be refused entry."
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Biển báo ghi rõ 'Entry will be refused without a card', tức là nhân viên không thể vào nếu không có thẻ an ninh."
+        },
+        {
+          "id": "t8-q3",
+          "text": "What is Pete doing?",
+          "content": "Hi Andy\nRemember you're joining us for a walk tomorrow? We'll wait for you in the car park from 8.45, but we'll need to leave no later than 9.00. We'll be back by lunchtime.\nPete",
+          "options": [
+            {
+              "id": "A",
+              "text": "informing Andy that there's a walk tomorrow"
+            },
+            {
+              "id": "B",
+              "text": "warning Andy not to be late for the walk"
+            },
+            {
+              "id": "C",
+              "text": "enquiring whether Andy can come on the walk"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Pete nhấn mạnh việc phải rời đi trước 9:00 ('leave no later than 9.00'), đây là một lời cảnh báo để Andy không được đến trễ."
+        },
+        {
+          "id": "t8-q4",
+          "text": "What does the notice say?",
+          "content": "City Tours\nBook one tour, get another half-price! Plus discounts on many attractions including Central Gallery with your tour ticket.",
+          "options": [
+            {
+              "id": "A",
+              "text": "The Central Gallery offers tours at a good price to all visitors."
+            },
+            {
+              "id": "B",
+              "text": "Two people can go on a city tour for the price of one."
+            },
+            {
+              "id": "C",
+              "text": "People on the tour can buy cheaper tickets for various places in the city."
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Với tấm vé tham gia tour, khách hàng sẽ được giảm giá (discounts / buy cheaper tickets) tại nhiều địa điểm, bao gồm cả Central Gallery."
+        },
+        {
+          "id": "t8-q5",
+          "text": "Ben is",
+          "content": "Hey, Margo!\nI tried water-skiing today – harder than I'd expected. Anyway, we're having a brilliant time at the resort you recommended – great advice! I won't see you for a while but hope you're OK!\nBen",
+          "options": [
+            {
+              "id": "A",
+              "text": "grateful for Margo's suggestion."
+            },
+            {
+              "id": "B",
+              "text": "excited about trying a new activity."
+            },
+            {
+              "id": "C",
+              "text": "looking forward to seeing Margo."
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Ben khen ngợi 'great advice!' vì đã giới thiệu cho anh một khu nghỉ dưỡng tuyệt vời, thể hiện lòng biết ơn của anh đối với gợi ý của Margo (grateful for suggestion)."
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "type": "matching",
+      "title": "Part 2",
+      "description": "Choose the best cooking class for each person (6-10).",
+      "passage": "Cooking classes\n\nA Food for you\nIf you often eat away from home and want some food you can take with you, you'll be interested in our recipes for snacks that are quick and easy to make. We'll show you how to create delicious healthy treats and sweets – great for young and old alike on family picnics.\n\nB Tasty treats\nIf you're just starting your journey to become a great cook, this course is for you! We'll teach you how to prepare food safely, and show you recipes for simple but tasty dishes from many different countries. People of all ages will enjoy these dishes, which are also very good for you.\n\nC Come and cook!\nWhether you're cooking for yourself or for others, our simple but delicious meals don't take long to make – perfect for those with busy lives. We'll show you how to make the most of what you've probably already got in your kitchen cupboards. Satisfying meals without too much trouble!\n\nD Kerry's kitchen\nThis course is for less experienced cooks who want to create exciting meals. Perfect for special occasions or when you just fancy doing something different. Learn to create a meal from starter to dessert, and how to present it attractively for your dinner party guests. Our focus is on modern international dishes.\n\nE Delicious dishes\nThis course is for people who want to take their cookery skills to the next level. We focus on typical recipes – especially for main courses – passed down through generations from all over the country, to help you put together a fantastic meal for any occasion. We promise everyone will be impressed!\n\nF Eat well\nOur main dishes and healthy desserts are challenging to prepare and cook, but they're definitely worth the effort. Once they're done, there's enough for you to divide up into several one-meal portions. Then you can keep them for a few days in the fridge until you need them.\n\nG Food lovers\nIf you lead a busy life and don't particularly like making meals, come and find out how to feed family and friends simple food made from healthy, fresh ingredients. Our ‘picnic suppers’ involve baking delicious breads and cakes which you can prepare in advance, then serve with salads and other cold dishes.\n\nH Hot stuff\nYou may consider yourself a bit of a chef, but there's always more to learn! Come on our course and we'll not only teach you advanced techniques but give you loads of interesting and unusual recipes – from soups to cakes and ice-cream – that even very young children will love.",
+      "questions": [
+        {
+          "id": "t8-q6",
+          "text": "Rashid would like to cook healthy meals for his children, and is looking for a course which teaches basic skills. He and his children enjoy eating dishes from around the world.",
+          "correctAnswer": "E",
+          "explanation": "Khóa học Tasty treats (B) dành cho người mới ('starting your journey' = basic skills), cung cấp món tốt cho sức khỏe ('very good for you') từ các quốc gia ('different countries' = around the world)."
+        },
+        {
+          "id": "t8-q7",
+          "text": "Angela's a good cook, and wants to make a special dinner for 20 guests at her husband's birthday party. She'd like to make more advanced dishes, and her husband particularly likes traditional food.",
+          "correctAnswer": "G",
+          "explanation": "Lớp Delicious dishes (E) hợp với người đã thạo ('take to next level' = advanced), tập trung vào các món mẹo truyền đời ('passed down through generations' = traditional), và hoàn hảo để đãi khách tiệc lớn ('fantastic meal for any occasion')."
+        },
+        {
+          "id": "t8-q8",
+          "text": "Marcus would like some ideas for meals for one person, without having to buy fresh ingredients every day. He wants quick and easy dishes he can cook when he gets home from work feeling hungry.",
+          "correctAnswer": "C",
+          "explanation": "Come and cook! (C) là lựa chọn nhanh chóng ('don't take long'), dễ dàng tận dụng các nguyên liệu có sẵn trong bếp nhà ('already got in kitchen cupboards' = không phải đi mua) hợp cho người chỉ nấu khi về muộn cực bận rộn."
+        },
+        {
+          "id": "t8-q9",
+          "text": "Francesca is an experienced cook who wants to get new ideas for meals for her family. She'd like to increase her range of skills in the kitchen and learn how to make tasty desserts.",
+          "correctAnswer": "F",
+          "explanation": "Hot stuff (H) giúp thợ nấu giỏi nâng trình ('bit of a chef' / 'advanced techniques' = experienced), thu nạp thêm công thức từ súp cho tới đồ tráng miệng như bánh và kem ('cakes and ice-cream' = tasty desserts)."
+        },
+        {
+          "id": "t8-q10",
+          "text": "Aston wants to spend time trying complicated recipes at the weekend because he finds it relaxing. He wants to make food in large amounts, so he can take a proper meal to work for lunch every day.",
+          "correctAnswer": "B",
+          "explanation": "Khóa học Eat well (F) cung cấp món cần nhiều nỗ lực ('challenging to prepare' = complicated), nấu ra lượng lớn ('divide up into several one-meal portions'), cất tủ lạnh ăn dần trong tuần đi làm."
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "type": "multiple-choice-passage",
+      "title": "Part 3",
+      "description": "Read the text about a film club, and choose the correct answer.",
+      "passage": "My film club\nBy Sebastian Walters\n\nMy city has a typical modern cinema showing all the latest films I want to see, and lots of films for kids at the weekends. It's around the corner from where I live, but a year ago, I realised something was missing – the experience of discussing a film in detail with a group of people after watching it with them. So, I persuaded two friends to join me and started a film club! \n\nWe decided early on that we didn't want to hire a cinema to show the films in. Instead, we choose a different location in the city each month. For example, we hired an old factory to show a film that was set in Antarctica. It was freezing cold, and this created the perfect atmosphere for the film, which was brilliant! Some places we use are even free, as the owners make money by selling snacks during the film, which means we can keep our prices low. We're happy to make enough to cover our costs – we're not trying to make a profit.\n\nEach time we show a film, everything is a bit easier for us, especially now we've got our own reliable equipment. We also know the number of tickets we've sold because everything's online – no more concerns about empty seats! There's still always plenty to do, but when people of all ages come up at the end to say what a great experience they've had, it's wonderful. \n\nThe website's been a great help, and we're now in contact with other film clubs all over the country. We've been to see how people do things in different places – but it's always good to get back to our own club again! We've started a blog, too, because we know that most people now go online for information about films, rather than read reviews in local papers. We've also tried putting up a few posters in cafés. Nothing's as successful as word of mouth, though – people recommending us to their friends. And the audience love the surprise activities we put on with each film – last month it was a movie quiz, which everybody enjoyed.",
+      "questions": [
+        {
+          "id": "t8-q11",
+          "text": "Why did Sebastian decide to start a film club?",
+          "options": [
+            {
+              "id": "A",
+              "text": "He didn't like the films at his local cinema."
+            },
+            {
+              "id": "B",
+              "text": "He wanted the opportunity to share opinions about films."
+            },
+            {
+              "id": "C",
+              "text": "The nearest cinema was too far from his house."
+            },
+            {
+              "id": "D",
+              "text": "His friends suggested the idea to him."
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Sebastian lập CLB vì nhận ra còn thiếu trải nghiệm thảo luận chi tiết về phim sau khi xem cùng một nhóm người ('experience of discussing a film in detail'), tức là chia sẻ ý kiến."
+        },
+        {
+          "id": "t8-q12",
+          "text": "Why does Sebastian show films in many different places?",
+          "options": [
+            {
+              "id": "A",
+              "text": "He wants to make as much money as possible."
+            },
+            {
+              "id": "B",
+              "text": "He can offer a wider variety of food to audiences."
+            },
+            {
+              "id": "C",
+              "text": "He wants more people to be able to watch the films."
+            },
+            {
+              "id": "D",
+              "text": "He can choose somewhere suitable for each film."
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Nhóm của anh ấy thường thuê địa điểm mới để kiến tạo môi trường xem phim cho sát nhất. Ví dụ như thuê một nhà máy cực lạnh giá cho bộ phim bối cảnh Nam Cực ('perfect atmosphere for the film')."
+        },
+        {
+          "id": "t8-q13",
+          "text": "How does Sebastian feel at each film club session now?",
+          "options": [
+            {
+              "id": "A",
+              "text": "anxious about how many people will come"
+            },
+            {
+              "id": "B",
+              "text": "worried about some of the equipment not working properly"
+            },
+            {
+              "id": "C",
+              "text": "pleased when he hears that the audience have enjoyed themselves"
+            },
+            {
+              "id": "D",
+              "text": "happy to be able to relax completely"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Anh ấy tiết lộ rằng cảm thấy tuyệt vời ('wonderful') mỗi khi người xem đến cuối buổi và chia sẻ họ đã có một trải nghiệm đỉnh thế nào ('say what a great experience they've had')."
+        },
+        {
+          "id": "t8-q14",
+          "text": "How do most people find out about the film club?",
+          "options": [
+            {
+              "id": "A",
+              "text": "They are told about it by someone they know."
+            },
+            {
+              "id": "B",
+              "text": "They notice posters in the local area."
+            },
+            {
+              "id": "C",
+              "text": "They see its social media page."
+            },
+            {
+              "id": "D",
+              "text": "They read about it in the local newspaper."
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Không gì có thể vượt qua thành công của truyền miệng ('word of mouth'), khi mọi người giới thiệu họ cho những người bạn khác của họ."
+        },
+        {
+          "id": "t8-q15",
+          "text": "What would Sebastian write on the film club blog?",
+          "options": [
+            {
+              "id": "A",
+              "text": "You'll never guess what we're planning to do before the next film – it'll be something to get everyone talking for sure! Details to follow …"
+            },
+            {
+              "id": "B",
+              "text": "We're planning to set up clubs all over the country because we've been so successful – watch this space!"
+            },
+            {
+              "id": "C",
+              "text": "Our aim's to encourage a wider range of viewers. We get lots of children, but it's so important to include all ages."
+            },
+            {
+              "id": "D",
+              "text": "We've put up our ticket prices, but food and drinks are included in the price, so we think it's good value."
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Anh ấy sẽ háo hức công bố cho một hoạt động bất ngờ đầu giờ mới ('surprise activities / get everyone talking for sure'), điều cốt lõi mà CLB mang lại trên mỗi buổi phim."
+        }
+      ]
+    },
+    {
+      "id": "part-4",
+      "type": "sentence-insertion",
+      "title": "Part 4",
+      "description": "Choose the correct sentence for each gap.",
+      "passage": "How the world's oldest message in a bottle found its way home\n\nStaff at the Marine Biological Association (MBA) in England were surprised when an envelope arrived at their offices addressed to ‘George Parker Bidder'. They couldn't understand why someone was writing to the Association's former president, who had been dead for more than 60 years. It became clearer when the envelope was opened and its contents examined. Inside, there was an old postcard. Written on one side was a series of questions about how the postcard had been discovered. (16) _____\n\nIt turned out that the postcard had come from a bottle dropped into the North Sea more than a century earlier. It was one of just over 1,000 bottles that Bidder had thrown into the water as part of a study into ocean currents and the movement of fish. (17) _____ They were generally picked up by fishermen or by people walking along the beach, who then sent the postcards inside them back to Bidder.\n\nThe MBA still has some of the postcards. The 400 or so that weren't returned had probably got lost. (18) _____ But somehow, the one carrying the recently returned postcard had remained in the sea for over a hundred years. It appears it finally found its way to a sandy beach on Amrum Island, just off the coast near the German-Danish border. (19) _____ After breaking the bottle open, she filled out the postcard and sent it off to the MBA, not realising she was posting a message from the distant past.\n\nUnfortunately, the delayed arrival of Bidder's old postcard at the MBA offices hasn't added to what staff there already know about the North Sea currents. (20) _____ What happened in between remains a mystery!\n\nSentences:\nA. It's also possible that the bottles containing them had broken.\nB. However, they were never found.\nC. They believe it shows how much marine science has changed.\nD. Most of them were discovered within four years of this experiment.\nE. On the other, were directions on how to mail it back.\nF. All it tells them is where it was dropped and where it was found.\nG. She worked with Bidder to understand how fish move through the oceans.\nH. It was then picked up by a woman on holiday there.",
+      "questions": [
+        {
+          "id": "t8-q16",
+          "text": "Gap 16",
+          "correctAnswer": "G",
+          "explanation": "Mặt này của chiếc thẻ (Written on one side...) có câu hỏi, thì đằng kia (On the other) in kèm cả chỉ dẫn cách gửi tín kiện mẩu giấy ngược đi."
+        },
+        {
+          "id": "t8-q17",
+          "text": "Gap 17",
+          "correctAnswer": "B",
+          "explanation": "Nói về kết quả của nghiên cứu thả đống chai đó. Đa số chúng đã đc phát hiện (discovered) ra vào vòng 4 năm đổ lại trong thời gian thử nghiệm, do những người lao động dọc bờ biển nhặt được."
+        },
+        {
+          "id": "t8-q18",
+          "text": "Gap 18",
+          "correctAnswer": "D",
+          "explanation": "400 chai không được trả lại có thể đã lạc mất, hoặc cũng có khả năng cao là phần thân lọ bảo vệ chúng đã bị vỡ (It's also possible... had broken)."
+        },
+        {
+          "id": "t8-q19",
+          "text": "Gap 19",
+          "correctAnswer": "F",
+          "explanation": "Tiếp mạch sau khi chiếc chai dạt vào bãi cát đảo Amrum, nó đã vinh dự được một phụ nữ đang có kỳ nghỉ tại đó trông thấy nhặt lên (picked up by a woman on holiday)."
+        },
+        {
+          "id": "t8-q20",
+          "text": "Gap 20",
+          "correctAnswer": "A",
+          "explanation": "Tấm thiệp muộn này không giúp gì tổ chức hiểu ra thêm về dòng hải lưu. Tất cả nó kết luận là chỉ đích địa điểm thả đi và rốt cục vùng nào điểm thấy nó (where it was dropped and where it was found), đoạn trôi giữa ra sao thì không ai biết."
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "type": "multiple-choice-cloze",
+      "title": "Part 5",
+      "description": "Choose the correct word to fill in the gaps (21-26).",
+      "passage": "Swordfish\n\nSwordfish are a species of large fish. They live in the Indian, Atlantic and Pacific Oceans, and they are easy to recognise because of the (21) _____ long, sharp point that grows out from the front of their heads.\n\nAlthough they (22) _____ to prefer warmer waters, they can live in quite a (23) _____ range of temperatures. They travel to warmer waters in the winter and cooler ones in the summer.\n\nFemale swordfish are generally larger than the males of the species. The largest swordfish ever caught weighed 536 kilogrammes, and it is (24) _____ that they can grow to be over 4 metres in length. They live for around 9 years.\n\nSwordfish hunt other ocean fish. They are able to swim at (25) _____ speed – up to an amazing 80 kilometres per hour. This gives them an important (26) _____ over other sea creatures when they are searching for food.",
+      "questions": [
+        {
+          "id": "t8-q21",
+          "options": [
+            {
+              "id": "A",
+              "text": "definitely"
+            },
+            {
+              "id": "B",
+              "text": "extremely"
+            },
+            {
+              "id": "C",
+              "text": "totally"
+            },
+            {
+              "id": "D",
+              "text": "completely"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Trạng từ 'extremely' (cực kỳ) đi với tính từ 'long' (cực kỳ dài)."
+        },
+        {
+          "id": "t8-q22",
+          "options": [
+            {
+              "id": "A",
+              "text": "look"
+            },
+            {
+              "id": "B",
+              "text": "think"
+            },
+            {
+              "id": "C",
+              "text": "choose"
+            },
+            {
+              "id": "D",
+              "text": "seem"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Cấu trúc 'seem to' nghĩa là Dường như loài cá này thích ở nước ấm hơn."
+        },
+        {
+          "id": "t8-q23",
+          "options": [
+            {
+              "id": "A",
+              "text": "wide"
+            },
+            {
+              "id": "B",
+              "text": "steep"
+            },
+            {
+              "id": "C",
+              "text": "high"
+            },
+            {
+              "id": "D",
+              "text": "deep"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Một dải nhiệt độ rộng thì dùng cụm 'a wide range of'."
+        },
+        {
+          "id": "t8-q24",
+          "options": [
+            {
+              "id": "A",
+              "text": "believed"
+            },
+            {
+              "id": "B",
+              "text": "appeared"
+            },
+            {
+              "id": "C",
+              "text": "decided"
+            },
+            {
+              "id": "D",
+              "text": "admitted"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Hầu như người ta được 'tin rằng' (it is believed that) giống cá này có thể dài tận hơn 4m."
+        },
+        {
+          "id": "t8-q25",
+          "options": [
+            {
+              "id": "A",
+              "text": "hard"
+            },
+            {
+              "id": "B",
+              "text": "large"
+            },
+            {
+              "id": "C",
+              "text": "great"
+            },
+            {
+              "id": "D",
+              "text": "strong"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Tốc độ nhanh, khủng khiếp trong tiếng Anh ghép với từ great: 'at great speed'."
+        },
+        {
+          "id": "t8-q26",
+          "options": [
+            {
+              "id": "A",
+              "text": "achievement"
+            },
+            {
+              "id": "B",
+              "text": "development"
+            },
+            {
+              "id": "C",
+              "text": "advantage"
+            },
+            {
+              "id": "D",
+              "text": "condition"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Cho chúng một lợi thế quan trọng (important advantage) so với những loài cá săn mồi khác."
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "type": "open-cloze",
+      "title": "Part 6",
+      "description": "Write one word only for each gap.",
+      "passage": "How to hold a fun party\n\nAre you thinking about holding a party? Then you need to make sure it's lots of fun! Invite plenty (27) _____ people and include a few surprises. For example, if you're serving food, try ordering ten pizzas (28) _____ are the same flavour but come from different restaurants in your area. Then have a ‘taste test' and vote on (29) _____ best one. Or how (30) _____ playing games? You could have a video games tournament and offer prizes for the winners. You could also have a singing competition and ask each guest to sing a song.\n\nIf your party includes a meal around a table, for each new course, ask your guests to sit next to someone different, in (31) _____ to talk to as many different people (32) _____ possible. Finally, play fun music: your guests might even get up and dance!",
+      "questions": [
+        {
+          "id": "t8-q27",
+          "correctAnswer": "more",
+          "explanation": "Cụm định lượng: 'plenty of' (rất nhiều)."
+        },
+        {
+          "id": "t8-q28",
+          "correctAnswer": "which",
+          "explanation": "Đại từ quan hệ 'that' hoặc 'which' thay thế cho 10 chiếc pizza."
+        },
+        {
+          "id": "t8-q29",
+          "correctAnswer": "of",
+          "explanation": "So sánh nhất: 'the' best one (cầm phiếu bầu cho chiếc bánh tuyệt nhất)."
+        },
+        {
+          "id": "t8-q30",
+          "correctAnswer": "was",
+          "explanation": "Cấu trúc gợi ý làm việc gì đó: 'How about' + V_ing (How about playing games?)."
+        },
+        {
+          "id": "t8-q31",
+          "correctAnswer": "for",
+          "explanation": "Cụm chỉ mục đích: 'in order to' = Để mà làm gì."
+        },
+        {
+          "id": "t8-q32",
+          "correctAnswer": "at",
+          "explanation": "Cấu trúc So sánh bằng: 'as many ... as possible' (Càng nhiều người càng tốt)."
+        }
+      ]
+    }
+  ]
+}

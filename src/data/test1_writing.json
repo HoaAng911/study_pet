@@ -1,0 +1,50 @@
+{
+  "testId": "cambridge-pet-1-test-1-writing",
+  "title": "Cambridge B1 Preliminary 1 Writing: Test 1",
+  "totalTimeInSeconds": 2700,
+  "parts": [
+    {
+      "id": "writing-part-1",
+      "type": "email-writing",
+      "title": "Part 1: Write an email",
+      "instruction": "Read this email from your English-speaking college classmate Alex and the notes you have made. Write your email to Alex using all the notes (about 100 words).",
+      "email": {
+        "from": "Alex",
+        "subject": "College science presentation",
+        "contentBlocks": [
+          {
+            "text": "Hi,",
+            "note": null
+          },
+          {
+            "text": "It's great that we're going to work together on the college science presentation. Do you think we should choose the rainforest as our topic?",
+            "note": "No, but ..."
+          },
+          {
+            "text": "We only have two weeks to prepare, so can we start tomorrow?",
+            "note": "Sorry ..."
+          },
+          {
+            "text": "Where can we go to prepare the presentation? My cousins are staying at my house at the moment, so we can't work there because it's too noisy.",
+            "note": "Suggest ..."
+          },
+          {
+            "text": "We can give our presentation to the class either in the morning or the afternoon. Which would you prefer?",
+            "note": "Tell Alex"
+          },
+          {
+            "text": "Let me know,\n\nAlex",
+            "note": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "writing-part-2",
+      "type": "story-writing",
+      "title": "Part 2: Write a story",
+      "instruction": "Your English teacher has asked you to write a story (about 100 words). Your story must begin with this sentence:",
+      "promptSentence": "Jack climbed out of the boat and ran as fast as he could to the beach."
+    }
+  ]
+}

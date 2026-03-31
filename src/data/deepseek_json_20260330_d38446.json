@@ -1,0 +1,287 @@
+{
+  "testId": "cambridge-pet-1-test-1",
+  "title": "Cambridge B1 Preliminary 1 Reading: Test 1",
+  "totalTimeInSeconds": 2700,
+  "parts": [
+    {
+      "id": "part-1",
+      "type": "short-messages",
+      "title": "Part 1",
+      "description": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "id": "q1",
+          "text": "What does the notice say?",
+          "content": "COLLEGE SHOP: Special offers on all study materials this week. Open 12:30-13:30 daily except Monday.",
+          "options": [
+            { "id": "A", "text": "Students must go to the college shop to buy certain items for their studies." },
+            { "id": "B", "text": "Students can take advantage of special offers at the college shop at the moment." },
+            { "id": "C", "text": "Students may visit the college shop at lunchtime every day except Monday." }
+          ],
+          "correctAnswer": "B",
+          "explanation": "The notice mentions 'special offers this week', matching 'special offers at the moment'."
+        },
+        {
+          "id": "q2",
+          "text": "Jake is writing to Max to:",
+          "content": "Hi Max, my cousin can't come shopping tomorrow as planned. Let's do it another time when he's around. Jake",
+          "options": [
+            { "id": "A", "text": "suggest a new date for a shopping trip." },
+            { "id": "B", "text": "invite Max to meet one of his relatives." },
+            { "id": "C", "text": "cancel an arrangement he had made." }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Jake cancels the planned shopping trip because his cousin cannot attend."
+        },
+        {
+          "id": "q3",
+          "text": "The Pizza Planet offer means:",
+          "content": "PIZZA PLANET: Buy any two pizzas before 7 p.m. and get the cheaper one free! (Excludes delivery)",
+          "options": [
+            { "id": "A", "text": "All the pizzas in the restaurant are included in this offer." },
+            { "id": "B", "text": "Any pizza ordered before 7 p.m. costs less than the usual price." },
+            { "id": "C", "text": "At certain times, a customer can get two pizzas for the price of one." }
+          ],
+          "correctAnswer": "C",
+          "explanation": "'Buy two, get one free' is effectively getting two pizzas for the price of one."
+        },
+        {
+          "id": "q4",
+          "text": "Mr Wood's note says:",
+          "content": "To all students: I have placed a box outside my office for any suggestions you have on how to improve waste recycling in the school. Mr Wood.",
+          "options": [
+            { "id": "A", "text": "Mr Wood has made suggestions on how to recycle waste produced by the school." },
+            { "id": "B", "text": "Recycling materials should be put into the box outside Mr Wood's office." },
+            { "id": "C", "text": "Mr Wood wants new ideas on ways to improve waste recycling in the school." }
+          ],
+          "correctAnswer": "C",
+          "explanation": "He is asking for 'any suggestions', which means he is looking for new ideas."
+        },
+        {
+          "id": "q5",
+          "text": "Mel is texting Sam to:",
+          "content": "Thanks for the cinema invite, Sam. That horror film was terrifying, though! Let's watch something less scary together next time. Mel",
+          "options": [
+            { "id": "A", "text": "accept Sam's invitation to the cinema." },
+            { "id": "B", "text": "admit to Sam that she found the film scary." },
+            { "id": "C", "text": "ask when Sam can see another film with her." }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Mel explicitly states the film was 'terrifying'."
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "type": "matching",
+      "title": "Part 2",
+      "description": "Decide which book would be the most suitable for each person.",
+      "passage": "Eight Book Reviews:\nA. Being Me: Practical advice for health. Recipes from athletes and exercise routines.\nB. Endless Days: True story of first pilots flying across Atlantic. Importance for modern world.\nC. Action Plan: Interviews with famous athletes about their careers and preparation.\nD. Memories: Journey around the world, cultures and beautiful nature.\nE. Days in the Sun: Irish farm life and how travel inspired the author's style.\nF. Parrots in Paradise: Adventure story of a girl lost on an island with birds.\nG. Night Light: Autobiography of a blind world-class athlete and his challenges.\nH. Our Lives: Traditional meals and life in different parts of the world. Photos of wildlife.",
+      "questions": [
+        {
+          "id": "q6",
+          "text": "Ahmed: Enjoys reading about real people telling their own story and dealing with difficulties.",
+          "options": [
+            { "id": "G", "text": "Night Light: Autobiography of a blind athlete and his challenges." }
+          ],
+          "correctAnswer": "G",
+          "explanation": "Ahmed wants real people (autobiography) and difficulties (blind athlete's challenges)."
+        },
+        {
+          "id": "q7",
+          "text": "Pritti: Loves sport. Wants to learn about top sportspeople and how they achieve goals.",
+          "options": [
+            { "id": "C", "text": "Action Plan: Interviews with famous athletes about their careers and preparation." }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Matches her interest in athletes' careers and how they succeed."
+        },
+        {
+          "id": "q8",
+          "text": "Coral: Loves nature and writing. Wants to develop writing skills for a career as a writer.",
+          "options": [
+            { "id": "E", "text": "Days in the Sun: Irish farm life and how the author improved his writing style." }
+          ],
+          "correctAnswer": "E",
+          "explanation": "The author describes how he improved his style, helping someone wanting to be a writer."
+        },
+        {
+          "id": "q9",
+          "text": "Elif: Likes adventures and brave people in the past who influenced today's actions.",
+          "options": [
+            { "id": "B", "text": "Endless Days: True story of first pilots and their importance for the modern world." }
+          ],
+          "correctAnswer": "B",
+          "explanation": "First pilots are brave people from the past; mentions 'importance for modern world'."
+        },
+        {
+          "id": "q10",
+          "text": "Stefan: Enjoys traveling, cultures, and learning typical dishes (recipes).",
+          "options": [
+            { "id": "H", "text": "Our Lives: Traditional meals from different parts of the world and cultures." }
+          ],
+          "correctAnswer": "H",
+          "explanation": "Covers cultures and recipes ('traditional meals') from different parts of the world."
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "type": "multiple-choice-passage",
+      "title": "Part 3",
+      "description": "Read the story of Vicky, a cyclist, and choose the correct answer.",
+      "passage": "Vicky's Cycling Career\n\nI started cycling because of my older brother. He had this amazing professional bike and he used to let me try it in the park. One day, he just said 'It's yours,' and that was the beginning of everything. I didn't have a coach or fancy advice from my parents, it was just me and that bike.\n\nAfter winning multiple national championships, people were surprised when I announced my retirement at 25. They thought I was too young, but honestly, I'd achieved everything I ever dreamed of. I wanted to start a new chapter while I still had the energy for other things.\n\nNow I work with CycleZone, a charity for young people. We don't just focus on racing; our main goal is to help kids find their inner strength and become more confident in themselves through cycling.",
+      "questions": [
+        {
+          "id": "q11",
+          "text": "When Vicky first started cycling",
+          "options": [
+            { "id": "A", "text": "she had a very good coach." },
+            { "id": "B", "text": "her parents gave her helpful advice." },
+            { "id": "C", "text": "she could get to a race track easily." },
+            { "id": "D", "text": "her brother gave her a great bike." }
+          ],
+          "correctAnswer": "D",
+          "explanation": "She says 'He [brother] had this amazing professional bike... one day he said It's yours'."
+        },
+        {
+          "id": "q12",
+          "text": "Why does Vicky say she stopped cycle racing?",
+          "options": [
+            { "id": "A", "text": "She felt she was too old to do it." },
+            { "id": "B", "text": "She was becoming bored with it." },
+            { "id": "C", "text": "She had won everything she wanted." },
+            { "id": "D", "text": "She was preparing for a new career." }
+          ],
+          "correctAnswer": "C",
+          "explanation": "She states 'I'd achieved everything I ever dreamed of'."
+        },
+        {
+          "id": "q13",
+          "text": "What does the charity CycleZone do for young people?",
+          "options": [
+            { "id": "A", "text": "It teaches them how to do track racing." },
+            { "id": "B", "text": "It supports those who have talent." },
+            { "id": "C", "text": "It offers them the chance to try a variety of sports." },
+            { "id": "D", "text": "It helps them become more confident." }
+          ],
+          "correctAnswer": "D",
+          "explanation": "The main goal is to 'help kids... become more confident in themselves'."
+        }
+      ]
+    },
+    {
+      "id": "part-4",
+      "type": "sentence-insertion",
+      "title": "Part 4",
+      "description": "Choose which sentence fits each gap in the text.",
+      "passage": "At home together\n\nRudolf House is a care home in Helsinki. Some rooms are not easily accessible for the elderly, so the city council decided to rent them to young people. They called it 'The House that Fits'.\n\nWhen Taimi (83) heard about the plan, she wondered how it was going to work. (16) _____ Then, a young man named Jonatan appeared. (17) _____ 'Hi! I'm your new neighbor,' he said. (18) _____ Surprising herself, Taimi started talking about her life. Jonatan was training to become a chef. (19) _____ That's when he applied to live at Rudolf House. In the end, three young people were chosen. (20) _____ That's how their friendship began.",
+      "questions": [
+        {
+          "id": "q16",
+          "text": "Gap 16",
+          "options": [
+            { "id": "A", "text": "It would be the first time that anything like this had happened at Rudolf House." }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Explains why she was wondering how it would work."
+        },
+        {
+          "id": "q17",
+          "text": "Gap 17",
+          "options": [
+            { "id": "B", "text": "She'd left the door open, as she always did in the morning." }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Explains how the young man could just appear outside her room."
+        },
+        {
+          "id": "q18",
+          "text": "Gap 18",
+          "options": [
+            { "id": "C", "text": "Instead, they just talked, as if they'd known each other forever." }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Fits the context of them starting a conversation immediately."
+        },
+        {
+          "id": "q19",
+          "text": "Gap 19",
+          "options": [
+            { "id": "D", "text": "Therefore, he needed to find somewhere to live." }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Because he was training in the city but his family moved away."
+        },
+        {
+          "id": "q20",
+          "text": "Gap 20",
+          "options": [
+            { "id": "E", "text": "In the end, three of them, including Jonatan, were chosen." }
+          ],
+          "correctAnswer": "E",
+          "explanation": "Summarizes the selection process for 'The House that Fits'."
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "type": "multiple-choice-cloze",
+      "title": "Part 5",
+      "description": "Choose the correct word to fill in the gaps.",
+      "passage": "The invention of crisps\n\nPotato crisps were invented by accident in 1853, by a chef called George Crum. He was extremely (21) _____ of his cookery skills. One evening, a customer complained about the potatoes being too thick. Crum cut them paper-thin and fried them until hard. He (22) _____ them to taste disgusting, but the customer loved them! News travelled fast and a (23) _____ global industry grew from this accident.",
+      "questions": [
+        {
+          "id": "q21",
+          "text": "Gap 21",
+          "options": [
+            { "id": "A", "text": "proud" },
+            { "id": "B", "text": "satisfied" },
+            { "id": "C", "text": "pleased" },
+            { "id": "D", "text": "impressed" }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Collocation: 'proud of'."
+        },
+        {
+          "id": "q22",
+          "text": "Gap 22",
+          "options": [
+            { "id": "A", "text": "hoped" },
+            { "id": "B", "text": "intended" },
+            { "id": "C", "text": "attempted" },
+            { "id": "D", "text": "tried" }
+          ],
+          "correctAnswer": "B",
+          "explanation": "He 'intended' them to be bad, but it turned out positive."
+        },
+        {
+          "id": "q23",
+          "text": "Gap 23",
+          "options": [
+            { "id": "A", "text": "big" },
+            { "id": "B", "text": "huge" },
+            { "id": "C", "text": "large" },
+            { "id": "D", "text": "wide" }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Commonly used adjective for 'global industry'."
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "type": "open-cloze",
+      "title": "Part 6",
+      "description": "Write one word only to fill each gap.",
+      "passage": "Moving house\n\nHi Alex, I finally moved house! (24) _____ wasn't until I started to pack that I realised how much stuff I had. I think moving house is one of (25) _____ most stressful things I've ever done! I'm looking (26) _____ to being in this new house. It's got a great garden, (27) _____ least. I'm having a party on Saturday night, so why don't you come along (28) _____ you are free?",
+      "questions": [
+        { "id": "q24", "text": "Gap 24", "correctAnswer": "It", "explanation": "Introductory 'It' before 'wasn't until'." },
+        { "id": "q25", "text": "Gap 25", "correctAnswer": "the", "explanation": "Superlative: 'the most stressful'." },
+        { "id": "q26", "text": "Gap 26", "correctAnswer": "forward", "explanation": "Phrasal verb: 'looking forward to'." },
+        { "id": "q27", "text": "Gap 27", "correctAnswer": "at", "explanation": "Idiom: 'at least'." },
+        { "id": "q28", "text": "Gap 28", "correctAnswer": "if", "explanation": "Condition: 'if you are free'." }
+      ]
+    }
+  ]
+}

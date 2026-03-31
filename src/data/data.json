@@ -1,0 +1,255 @@
+{
+  "test": 1,
+  "reading": {
+    "part_1": {
+      "instructions": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "id": 1,
+          "text": "Students must go to the college shop to buy certain items for their studies. B Students can take advantage of special offers at the college shop at the moment. C Students may visit the college shop at lunchtime every day except Monday.",
+          "options": {
+            "A": "Students must go to the college shop to buy certain items for their studies.",
+            "B": "Students can take advantage of special offers at the college shop at the moment.",
+            "C": "Students may visit the college shop at lunchtime every day except Monday."
+          }
+        },
+        {
+          "id": 2,
+          "text": "Jake is writing to A suggest a new date for a shopping trip. B invite Max to meet one of his relatives. C cancel an arrangement he had made.",
+          "options": {
+            "A": "suggest a new date for a shopping trip.",
+            "B": "invite Max to meet one of his relatives.",
+            "C": "cancel an arrangement he had made."
+          }
+        },
+        {
+          "id": 3,
+          "text": "A All the pizzas in the restaurant are included in this offer. B Any pizza ordered before 7 p.m. costs less than the usual price. C At certain times, a customer can get two pizzas for the price of one.",
+          "options": {
+            "A": "All the pizzas in the restaurant are included in this offer.",
+            "B": "Any pizza ordered before 7 p.m. costs less than the usual price.",
+            "C": "At certain times, a customer can get two pizzas for the price of one."
+          }
+        },
+        {
+          "id": 4,
+          "text": "A Mr Wood has made suggestions on how to recycle waste produced by the school. B Recycling materials should be put into the box outside Mr Wood's office. C Mr Wood wants new ideas on ways to improve waste recycling in the school.",
+          "options": {
+            "A": "Mr Wood has made suggestions on how to recycle waste produced by the school.",
+            "B": "Recycling materials should be put into the box outside Mr Wood's office.",
+            "C": "Mr Wood wants new ideas on ways to improve waste recycling in the school."
+          }
+        },
+        {
+          "id": 5,
+          "text": "Mel is texting to A accept Sam's invitation to the cinema. B admit to Sam that she found the film scary. C ask when Sam can see another film with her.",
+          "options": {
+            "A": "accept Sam's invitation to the cinema.",
+            "B": "admit to Sam that she found the film scary.",
+            "C": "ask when Sam can see another film with her."
+          }
+        }
+      ]
+    },
+    "part_2": {
+      "instructions": "The people below all want to find a book to read. On the opposite page there are eight book reviews. Decide which book would be the most suitable for the people below.",
+      "people": [
+        {
+          "id": 6,
+          "name": "Ahmed",
+          "description": "Ahmed enjoys reading about real people, especially if they tell their own story. He'd like to read a book by someone who's had to deal with difficulties in their life."
+        },
+        {
+          "id": 7,
+          "name": "Pritti",
+          "description": "Pritti loves doing all kinds of sport. She'd like to learn as much as possible about top sportspeople from all over the world and how they've managed to achieve their goals."
+        },
+        {
+          "id": 8,
+          "name": "Coral",
+          "description": "Coral loves nature and enjoys writing about it. He wants ideas to help him further develop his writing skills and would love to have a career as a writer."
+        },
+        {
+          "id": 9,
+          "name": "Elif",
+          "description": "Elif likes reading books about adventures. She loves learning about people who did brave things in the past, and how their actions have influenced the way we live today."
+        },
+        {
+          "id": 10,
+          "name": "Stefan",
+          "description": "Stefan enjoys travelling and is keen to discover more about other cultures. He also wants to learn how to make typical dishes from a variety of countries."
+        }
+      ],
+      "books": [
+        {
+          "id": "A",
+          "title": "Being Me",
+          "description": "This book is full of practical advice for anyone who wants to be fit and healthy. Famous sportspeople have contributed their favourite recipes, and you'll also find instructions for a daily exercise routine."
+        },
+        {
+          "id": "B",
+          "title": "Endless Days",
+          "description": "In this book, the novelist tells the true story of the first pilots to fly across the Atlantic. With plenty of photographs and a detailed discussion of the importance of these events for the modern world, the book successfully brings history to life for readers everywhere."
+        },
+        {
+          "id": "C",
+          "title": "Action Plan",
+          "description": "Action Plan is all about famous athletes, and there are some amazing photos of them competing. There are also lots of interviews about what they've done to succeed in their careers. You'll find out about things like the food they eat, the number of hours they train, and what they do to prepare for important competitions."
+        },
+        {
+          "id": "D",
+          "title": "Memories",
+          "description": "The prize-winning author of Memories is famous for his unusual writing style and exciting adventure stories. In this book, he takes us on a journey around the world and teaches us a lot about other cultures and their histories. He describes some of the world's most beautiful nature, as well as the many interesting people he has met."
+        },
+        {
+          "id": "E",
+          "title": "Days in the Sun",
+          "description": "In this book, a well-known author describes his happy early life growing up on a small Irish farm and how travelling around the countryside inspired him to become an author. He describes in detail how he improved his style, and his experiences will interest anyone who is hoping to get their own work published."
+        },
+        {
+          "id": "F",
+          "title": "Parrots in Paradise",
+          "description": "This newly published adventure story is about a young girl who's lost on a beautiful island with only birds and animals for company. The story deals with some of the difficulties she has, but there's also lots of excitement. If you love well-written fiction, this book's for you!"
+        },
+        {
+          "id": "G",
+          "title": "Night Light",
+          "description": "In Night Light, the writer tells us how he became a world-class athlete. He talks about his life as a blind person, and describes the challenges he faced on his way to the top in the world of sports. The book is written in an entertaining and amusing style, which makes it a very enjoyable read."
+        },
+        {
+          "id": "H",
+          "title": "Our Lives",
+          "description": "This is the perfect book if you're interested in how people live in different parts of the world. It also includes recipes for traditional meals from these places. There are wonderful photos, not only of the people, but also of the wildlife and scenery in each location."
+        }
+      ]
+    },
+    "part_3": {
+      "instructions": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "id": 11,
+          "text": "When Vicky first started cycling",
+          "options": {
+            "A": "she had a very good coach.",
+            "B": "her parents gave her helpful advice.",
+            "C": "she could get to a race track easily.",
+            "D": "her brother gave her a great bike."
+          }
+        },
+        {
+          "id": 12,
+          "text": "Why does Vicky say she stopped cycle racing?",
+          "options": {
+            "A": "She felt she was too old to do it.",
+            "B": "She was becoming bored with it.",
+            "C": "She had won everything she wanted.",
+            "D": "She was preparing for a new career."
+          }
+        },
+        {
+          "id": 13,
+          "text": "What does the charity CycleZone do for young people?",
+          "options": {
+            "A": "It teaches them how to do track racing.",
+            "B": "It supports those who have talent.",
+            "C": "It offers them the chance to try a variety of sports.",
+            "D": "It helps them become more confident."
+          }
+        },
+        {
+          "id": 14,
+          "text": "According to Vicky, some people believe that celebrities can",
+          "options": {
+            "A": "take attention away from what a charity does.",
+            "B": "help people understand a charity's work.",
+            "C": "make the public care less about a charity.",
+            "D": "encourage more people to become involved with a charity."
+          }
+        },
+        {
+          "id": 15,
+          "text": "What would Vicky say on her blog?",
+          "options": {}
+        }
+      ]
+    },
+    "part_4": {
+      "instructions": "Five sentences have been removed from the text below. For each question, choose the correct answer. There are three extra sentences which you do not need to use.",
+      "text": "At home together\n\nTaimi Taskinen is an 83-year-old woman who lives in a care home called Rudolf House in Helsinki, Finland. A care home is a place where old people can live and be looked after if they don't live with their families. At Rudolf House, there are lots of stairs, so there are some rooms which elderly people can't access easily. As a result, the city council decided to rent these spare rooms to young people. They called this new housing programme 'The House that Fits'.\n\nWhen Taimi heard about the council's plan, she wondered how it was going to work. 16 She couldn't imagine what she'd have in common with young people who weren't family members. Then, one morning a few days later, a young man appeared outside her room. 17\n\n'Hil I'm your new neighbour,' the young man said. 'My name's Jonatan Shaya. Mind if I come in?' 'Please do,' she replied, immediately curious. 'I'll make coffee,' he announced, going into her tiny kitchen. 'Why don't you tell me about yourself?' he asked, as he brought their drinks to the table.\n\n18 She also told him about her family and how much she loved making art.\n\nIn turn, 20-year-old Jonatan told Taimi he'd been living in Helsinki with his mother and younger brother until they moved away. He was in the middle of a course in the city, training to become a chef. 19 That's when he heard about 'The House that Fits' on social media. The council's post resulted in over 300 young people applying to live at Rudolf House. They had face-to-face interviews and wrote short essays about why they wanted to live there. 20 And that's how the unlikely friendship between Taimi and Jonatan began.",
+      "removed_sentences": [
+        "1 Surprising herself, she talked about growing up in a lakeside town in eastern Finland.",
+        "2 Therefore, he needed to find somewhere to live.",
+        "3 As a result, she wasn't sure whether the young people had arrived.",
+        "4 She'd left the door open, as she always did in the morning.",
+        "5 In the end, three of them, including Jonatan, were chosen.",
+        "6 Because of this, Jonatan has to be a good neighbour and spend 30 hours a month with Taimi.",
+        "7 It would be the first time that anything like this had happened at Rudolf House.",
+        "8 Instead, they just talked, as if they'd known each other forever."
+      ]
+    },
+    "part_5": {
+      "instructions": "For each question, choose the correct answer.",
+      "text": "The invention of crisps\n\nPotato crisps were invented by accident in 1853, by a chef called George Crum. He was extremely (21) of his cookery skills, and the expensive hotel where he worked attracted customers who were (22) to eating only the best food.\n\nOne evening, a particularly difficult-to-please guest complained about Crum's fried potatoes. 'They're too thick,' he said, 'too soft, and have no flavour.' He (23) that they should be replaced.\n\nThe customer's negative (24) made Crum extremely angry, so he decided to annoy the customer. He cut a potato into paper-thin slices, fried the pieces until they were hard, then put far too much salt on them. 'He'll hate them,' Crum thought. But the customer loved them and ordered more.\n\nNews of this new snack travelled fast and an absolutely (25) global industry has grown from Crum's invention - even though his fried potatoes were actually (26) to taste disgusting!",
+      "questions": [
+        {
+          "id": 21,
+          "options": {
+            "A": "proud",
+            "B": "satisfied",
+            "C": "pleased",
+            "D": "impressed"
+          }
+        },
+        {
+          "id": 22,
+          "options": {
+            "A": "prepared",
+            "B": "familiar",
+            "C": "used",
+            "D": "known"
+          }
+        },
+        {
+          "id": 23,
+          "options": {
+            "A": "convinced",
+            "B": "wanted",
+            "C": "needed",
+            "D": "demanded"
+          }
+        },
+        {
+          "id": 24,
+          "options": {
+            "A": "comments",
+            "B": "notes",
+            "C": "reasons",
+            "D": "explanations"
+          }
+        },
+        {
+          "id": 25,
+          "options": {
+            "A": "big",
+            "B": "huge",
+            "C": "large",
+            "D": "wide"
+          }
+        },
+        {
+          "id": 26,
+          "options": {
+            "A": "hoped",
+            "B": "intended",
+            "C": "attempted",
+            "D": "tried"
+          }
+        }
+      ]
+    },
+    "part_6": {
+      "instructions": "For each question, write the correct answer. Write one word for each gap.",
+      "text": "Moving house\n\nHi Alex,\n\nHow are you? This week's been a very busy one for me - I finally moved house! (27) wasnt until I started to pack a few days ago that I realised how much stuff I had. I really think moving house is one of the (28) stressful things I've ever done! I was sad to leave my old house - after (29) I'd lived there my whole life so I have lots of good memories.\n\nAnyway, I'm looking (30) to being in this new house. It's not as big as the old one, but (31) least it's got a great garden. I'm planning to have a small party on Saturday night. Are you free then? Why don't you come along (32) you are? I hope you can make it. Let me know.\n\nAll the best,\n\nSam"
+    }
+  }
+}

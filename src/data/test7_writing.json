@@ -1,0 +1,50 @@
+{
+  "testId": "cambridge-pet-2-test-3-writing",
+  "title": "Cambridge B1 Preliminary 2 Writing: Test 3",
+  "totalTimeInSeconds": 2700,
+  "parts": [
+    {
+      "id": "writing-part-1",
+      "type": "email-writing",
+      "title": "Part 1: Write an email",
+      "instruction": "Read this email from your English-speaking friend Eden and the notes you have made. Write your email to Eden using all the notes (about 100 words).",
+      "email": {
+        "from": "Eden",
+        "subject": "Cycling on Tuesday evening",
+        "contentBlocks": [
+          {
+            "text": "Hi,",
+            "note": null
+          },
+          {
+            "text": "I’m really looking forward to going cycling with you on Tuesday evening. I hope you still want to go!",
+            "note": "Of course!"
+          },
+          {
+            "text": "There are two cycle routes near where I live. We could cycle through the forest or we could cycle round the lake. Which would you prefer?",
+            "note": "Tell Eden"
+          },
+          {
+            "text": "Do you think we should take some food with us?",
+            "note": "No, because …"
+          },
+          {
+            "text": "Do you have time to come to my house and watch a film afterwards? Reply soon!",
+            "note": "Explain"
+          },
+          {
+            "text": "Eden",
+            "note": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "writing-part-2",
+      "type": "story-writing",
+      "title": "Part 2: Write a story",
+      "instruction": "Your English teacher has asked you to write a story (about 100 words). Your story must begin with this sentence:",
+      "promptSentence": "By the time I arrived, there were already lots of people at the party."
+    }
+  ]
+}

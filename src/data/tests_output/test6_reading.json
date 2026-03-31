@@ -1,0 +1,305 @@
+{
+  "test": "test6",
+  "questions": [
+    {
+      "id": "q6",
+      "content": "LISTENING\nPart 4 0\n44\nQuestions 20-25\nFor each question, choose the correct answer.\nYou will hear an interview with a man called Matt Jennings, who helps people with on line security.\n20 Matt says that",
+      "options": [
+        {
+          "id": "A",
+          "text": "people are taking better care about email safety."
+        },
+        {
+          "id": "B",
+          "text": "criminals notice when we don't do things correctly."
+        },
+        {
+          "id": "C",
+          "text": "we are inventing ways to beat the criminals."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 6 của test6."
+    },
+    {
+      "id": "q2",
+      "content": "INSTRUCTIONS",
+      "options": [
+        {
+          "id": "A",
+          "text": "The toy does not need batteries.\nPlease note that\nbatteries are not"
+        },
+        {
+          "id": "B",
+          "text": "There aren't any batteries in the toy.\nincluded with this toy.\nThese are available"
+        },
+        {
+          "id": "C",
+          "text": "The toy is available in the electrical department.\nin our electrical\ndepartment.\n-..· ---------------------.'-<\","
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 2 của test6."
+    },
+    {
+      "id": "q4",
+      "content": "What is the woman interested in buying?",
+      "options": [
+        {
+          "id": "A",
+          "text": "B C\n5 Why has the walk been cancelled?\n,,\nI I\n, ) / 1 I, I I I I\nI '//'/\n_6, II I . j /1 , I I I\n~ / j 1 11 I I I I I I J'.. ·,*\nI /7! ;I /\n~) ~~ I , I I I\n; '/j l /l! ,\n/\n// /\n1 11/11 .\n'•\nA"
+        },
+        {
+          "id": "B",
+          "text": "C\n6 What did the woman enjoy most about her holiday?\nA B"
+        },
+        {
+          "id": "C",
+          "text": "7 Which day does the man want to meet?\nTuesday Wecl111Nay Thursday Wednesday Thursday Friday Thursday Friday Saturday\n@ @) @"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 4 của test6."
+    },
+    {
+      "id": "q11",
+      "content": "You will hear two friends talking about a journey to work.\nWhat does the man say?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The trains aren't reliable."
+        },
+        {
+          "id": "B",
+          "text": "He enjoys driving his car."
+        },
+        {
+          "id": "C",
+          "text": "He's thinking of using his bicycle."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 11 của test6."
+    },
+    {
+      "id": "q12",
+      "content": "You will hear two friends talking about the local swimming pool.\nThe man doesn't use it because",
+      "options": [
+        {
+          "id": "A",
+          "text": "it gets too crowded."
+        },
+        {
+          "id": "B",
+          "text": "he doesn't have time."
+        },
+        {
+          "id": "C",
+          "text": "the changing rooms aren't safe."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 12 của test6."
+    },
+    {
+      "id": "q13",
+      "content": "You will hear two friends talking about visiting someone in hospital.\nWhat does the woman decide to do?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Visit the following week."
+        },
+        {
+          "id": "B",
+          "text": "Take some grapes."
+        },
+        {
+          "id": "C",
+          "text": "Go by bus to the hospital.\n136"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 13 của test6."
+    },
+    {
+      "id": "q14",
+      "content": "What does Jon say about performing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He finds it very scary."
+        },
+        {
+          "id": "B",
+          "text": "He\"s not good enough to make a career out of comedy."
+        },
+        {
+          "id": "C",
+          "text": "Making people laugh isn·t easy."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 14 của test6."
+    },
+    {
+      "id": "q15",
+      "content": "What would be a good introduction to this article?",
+      "options": [
+        {
+          "id": "A",
+          "text": "In this article, Jon Leverson explains"
+        },
+        {
+          "id": "B",
+          "text": "Do you think you·re funny? Jon\nthe difficulties of trying to make a Leverson tells us the steps to take to\ncareer out of comedy. become a comedian."
+        },
+        {
+          "id": "C",
+          "text": "In this week·s personal story, Jon"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 15 của test6."
+    },
+    {
+      "id": "q22",
+      "content": "When you receive an email telling you to change your password, Matt says you should",
+      "options": [
+        {
+          "id": "A",
+          "text": "change your email password."
+        },
+        {
+          "id": "B",
+          "text": "keep a copy of the email."
+        },
+        {
+          "id": "C",
+          "text": "change your password on the company website if necessary."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 22 của test6."
+    },
+    {
+      "id": "q24",
+      "content": "After Matt received the email,",
+      "options": [
+        {
+          "id": "A",
+          "text": "he sent his friend an email."
+        },
+        {
+          "id": "B",
+          "text": "he phoned his friend."
+        },
+        {
+          "id": "C",
+          "text": "he received a second email."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 24 của test6."
+    },
+    {
+      "id": "q9",
+      "content": "You will hear two friends talking about a university.\nWhat does the man think about the woman·s choice?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She has picked the best university for her subject."
+        },
+        {
+          "id": "B",
+          "text": "She already has friends at the university."
+        },
+        {
+          "id": "C",
+          "text": "Accommodation might not cost a lot."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 9 của test6."
+    },
+    {
+      "id": "q10",
+      "content": "You will hear two friends talking about the weather.\nThe woman says",
+      "options": [
+        {
+          "id": "A",
+          "text": "she prefers it when ifs cooler."
+        },
+        {
+          "id": "B",
+          "text": "the weather has been hotter than usual."
+        },
+        {
+          "id": "C",
+          "text": "they need it to rain."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 10 của test6."
+    },
+    {
+      "id": "q21",
+      "content": "What does Matt say about some emails.",
+      "options": [
+        {
+          "id": "A",
+          "text": "He deletes them accidentally."
+        },
+        {
+          "id": "B",
+          "text": "He gets similar ones daily."
+        },
+        {
+          "id": "C",
+          "text": "They always come from the same company website."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 21 của test6."
+    },
+    {
+      "id": "q23",
+      "content": "What does Matt say about an email he received?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It came from an address he recognised."
+        },
+        {
+          "id": "B",
+          "text": "He thought it was OK."
+        },
+        {
+          "id": "C",
+          "text": "He replied to one the other day."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 23 của test6."
+    },
+    {
+      "id": "q25",
+      "content": "What does Matt say about passwords?",
+      "options": [
+        {
+          "id": "A",
+          "text": "People never remember them."
+        },
+        {
+          "id": "B",
+          "text": "Most passwords can be guessed easily."
+        },
+        {
+          "id": "C",
+          "text": "Try to use more than just letters and numbers.\n138"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 25 của test6."
+    }
+  ]
+}

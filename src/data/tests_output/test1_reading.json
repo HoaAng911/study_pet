@@ -1,0 +1,305 @@
+{
+  "test": "test1",
+  "questions": [
+    {
+      "id": "q1",
+      "content": "LISTENING\n0\nPart 4\n04\nQuestions 20-25\nFor each question, choose the correct answer.\nYou will hear an interview with a woman called Sally Wainwright, who recently started singing\nclasses.\n20 Sally explained that",
+      "options": [
+        {
+          "id": "A",
+          "text": "people kept telling her to try something different."
+        },
+        {
+          "id": "B",
+          "text": "she didn't enjoy art classes."
+        },
+        {
+          "id": "C",
+          "text": "she had never been to a singing class."
+        }
+      ],
+      "correctAnswer": "05a",
+      "explanation": "Giải thích cho câu 1 của test1."
+    },
+    {
+      "id": "q2",
+      "content": "A Lessons can be paid for on arrival.\nMusic gchool\nGuitar l~ong 50% off from B Guitar lessons are half price for a limited period.\nnow until 31 Augugt.\nC The school offers advanced music lessons.\nClaggeg mugt be booked in\nadvance.\n3",
+      "options": [
+        {
+          "id": "A",
+          "text": "Parking is limited to one hour.\nCAR PARK\nParking for customers only."
+        },
+        {
+          "id": "B",
+          "text": "Any damage should be reported to management.\n1 hour maximum stay."
+        },
+        {
+          "id": "C",
+          "text": "Any lost property should be\nManagement are not\nhanded in.\nresponsible for loss or\ndamage to property.\n\\.'\n22"
+        }
+      ],
+      "correctAnswer": "06a",
+      "explanation": "Giải thích cho câu 2 của test1."
+    },
+    {
+      "id": "q4",
+      "content": "What time does the tour of the hospital start?\nI ,-, ,-,\nI : 1_11_1",
+      "options": [
+        {
+          "id": "A",
+          "text": "B C\n5 What isn't the daughter having for her birthday?\nA"
+        },
+        {
+          "id": "B",
+          "text": "C\n6 What size shirt does the man want?\nA B"
+        },
+        {
+          "id": "C",
+          "text": "7 What are the police checking for next week?\nA B C\n35"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Giải thích cho câu 4 của test1."
+    },
+    {
+      "id": "q11",
+      "content": "You will hear two friends talking about meeting a relation at the airport.\nTo help the person find him, the man has decided",
+      "options": [
+        {
+          "id": "A",
+          "text": "to take a sign."
+        },
+        {
+          "id": "B",
+          "text": "to wear something colourful."
+        },
+        {
+          "id": "C",
+          "text": "to email her when she arrives."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Giải thích cho câu 11 của test1."
+    },
+    {
+      "id": "q12",
+      "content": "You will hear two friends talking about getting to the train station.\nThe man thinks",
+      "options": [
+        {
+          "id": "A",
+          "text": "the bus will take a long time."
+        },
+        {
+          "id": "B",
+          "text": "a taxi is too expensive."
+        },
+        {
+          "id": "C",
+          "text": "the train will be late."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Giải thích cho câu 12 của test1."
+    },
+    {
+      "id": "q13",
+      "content": "You will hear two friends talking about a new laptop.\nWhat does the man say about the old one?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He took it to work for a while."
+        },
+        {
+          "id": "B",
+          "text": "It was slow to start."
+        },
+        {
+          "id": "C",
+          "text": "It stopped working.\n36"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Giải thích cho câu 13 của test1."
+    },
+    {
+      "id": "q14",
+      "content": "In the next year, Steve thinks",
+      "options": [
+        {
+          "id": "A",
+          "text": "he will get an office job."
+        },
+        {
+          "id": "B",
+          "text": "he will earn less money."
+        },
+        {
+          "id": "C",
+          "text": "he might not need to work in his kitchen."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Giải thích cho câu 14 của test1."
+    },
+    {
+      "id": "q15",
+      "content": "What would be a good introduction to this article?",
+      "options": [
+        {
+          "id": "A",
+          "text": "In this article, Steve Cummins"
+        },
+        {
+          "id": "B",
+          "text": "Thinking of starting your own\nexplains the problems of starting business? Steve Cummins did just\nyour own business and dealing with that and now wishes he had done it\ndifficult customers. sooner."
+        },
+        {
+          "id": "C",
+          "text": "Steve Cummins made a big decision last"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Giải thích cho câu 15 của test1."
+    },
+    {
+      "id": "q22",
+      "content": "What does Sally say she likes about the group?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The people are very kind."
+        },
+        {
+          "id": "B",
+          "text": "You don't need to show you can sing well to join."
+        },
+        {
+          "id": "C",
+          "text": "You only sing on your own if you want to."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 22 của test1."
+    },
+    {
+      "id": "q24",
+      "content": "Since she has been singing with the group",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sally now sings with her children."
+        },
+        {
+          "id": "B",
+          "text": "Sally has achieved all her goals."
+        },
+        {
+          "id": "C",
+          "text": "Sally is more confident about singing on her own."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Giải thích cho câu 24 của test1."
+    },
+    {
+      "id": "q9",
+      "content": "You will hear two friends talking about someone the woman lives with.\nThey think it would be a good idea",
+      "options": [
+        {
+          "id": "A",
+          "text": "to ask him to leave."
+        },
+        {
+          "id": "B",
+          "text": "to remind him to do the washing-up."
+        },
+        {
+          "id": "C",
+          "text": "to leave him a note of things to do."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Giải thích cho câu 9 của test1."
+    },
+    {
+      "id": "q10",
+      "content": "You will hear a woman telling a friend about a holiday she is going on.\nHow does she feel about it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She is worried it might be expensive."
+        },
+        {
+          "id": "B",
+          "text": "She doesn't think she will be lonely."
+        },
+        {
+          "id": "C",
+          "text": "She doesn't like doing long walks."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Giải thích cho câu 10 của test1."
+    },
+    {
+      "id": "q21",
+      "content": "Sally wanted to sing because",
+      "options": [
+        {
+          "id": "A",
+          "text": "her husband wanted her to."
+        },
+        {
+          "id": "B",
+          "text": "her mother told her she would love it."
+        },
+        {
+          "id": "C",
+          "text": "she didn't want to feel embarrassed about singing."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Giải thích cho câu 21 của test1."
+    },
+    {
+      "id": "q23",
+      "content": "What does Sally say about the first session?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She had problems with her car."
+        },
+        {
+          "id": "B",
+          "text": "She felt better after talking with the organiser."
+        },
+        {
+          "id": "C",
+          "text": "She was asked to stand at the back."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Giải thích cho câu 23 của test1."
+    },
+    {
+      "id": "q25",
+      "content": "What does Sally say about singing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It can make you physically stronger."
+        },
+        {
+          "id": "B",
+          "text": "She is sure it is good for her health."
+        },
+        {
+          "id": "C",
+          "text": "She ends a session feeling cheerful.\n38"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Giải thích cho câu 25 của test1."
+    }
+  ]
+}

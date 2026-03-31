@@ -1,0 +1,513 @@
+{
+  "testId": "cambridge-pet-2-test-3",
+  "title": "PET 2 Reading - Test 3",
+  "totalTimeInSeconds": 2700,
+  "parts": [
+    {
+      "id": "part-1",
+      "type": "short-messages",
+      "title": "Part 1",
+      "description": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "id": "t7-q1",
+          "text": "What does the notice say?",
+          "content": "Walking group\nStart from Mill Café, Tuesday 10 a.m. Café has limited parking, but there's a public car park nearby. Remember a picnic lunch, or get one from the café if ordered a day in advance.",
+          "options": [
+            {
+              "id": "A",
+              "text": "The walkers are planning to have their lunch in Mill Café next Tuesday."
+            },
+            {
+              "id": "B",
+              "text": "If walkers want lunch from Mill Café, they must arrange this before Tuesday."
+            },
+            {
+              "id": "C",
+              "text": "Walking group members can't park in Mill Café car park on Tuesday."
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Có thể nhận bữa trưa từ quán cà phê nếu đã 'ordered a day in advance' (đặt trước một ngày), đồng nghĩa với việc họ phải sắp xếp trước thứ Ba (lịch đi bộ vào thứ Ba)."
+        },
+        {
+          "id": "t7-q2",
+          "text": "What does the label say?",
+          "content": "Washing instructions\nThink about the climate! Save energy and wash at 30°C.\n100% cotton. Wash with clothes of similar colours.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cotton clothes must be washed at 30°C."
+            },
+            {
+              "id": "B",
+              "text": "Wash different colours at different temperatures."
+            },
+            {
+              "id": "C",
+              "text": "Wash at this temperature to help the environment."
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Nhãn hướng dẫn nói 'Hãy nghĩ về khí hậu!' (Think about the climate!) và 'Tiết kiệm năng lượng' khi giặt ở 30 độ. Điều này có nghĩa là giặt ở nhiệt độ này giúp bảo vệ môi trường."
+        },
+        {
+          "id": "t7-q3",
+          "text": "What does Domenico's message mean?",
+          "content": "Ana,\nI'm going to be delayed tonight because of traffic. Can you get the tickets as soon as you get to the cinema? Then we won't have to stand in a long queue.\nDomenico",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ana will miss the start of the film due to heavy traffic."
+            },
+            {
+              "id": "B",
+              "text": "Ana should try to buy the cinema tickets before Domenico arrives."
+            },
+            {
+              "id": "C",
+              "text": "Domenico and Ana can meet in the queue at the cinema."
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Domenico nhờ Ana: 'Can you get the tickets as soon as you get to the cinema?', tức là mua vé ngay khi cô tới rạp (trước khi anh ấy đến do anh bị trễ vì tắc đường)."
+        },
+        {
+          "id": "t7-q4",
+          "text": "What does the notice say?",
+          "content": "Notice to students:\nLibrary books must be returned within 30 days. Failing to do this will lead to a fine.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Students will have to pay if they don't bring books back on time."
+            },
+            {
+              "id": "B",
+              "text": "Students can pay a small charge to borrow books for longer than 30 days."
+            },
+            {
+              "id": "C",
+              "text": "Students must not take out more books until they pay what they owe."
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Thông báo nhắc nhở việc không trả sách trong 30 ngày (Failing to do this) sẽ dẫn đến một khoản phạt tiền (fine)."
+        },
+        {
+          "id": "t7-q5",
+          "text": "What is Joanna telling Peter?",
+          "content": "Peter\nMy lecture has been postponed, so I don't need to drive into college until later. So do you think you can make other arrangements to get there instead of going with me? Sorry!\nJoanna",
+          "options": [
+            {
+              "id": "A",
+              "text": "His college lecture is cancelled."
+            },
+            {
+              "id": "B",
+              "text": "She is able to offer him a lift to their college."
+            },
+            {
+              "id": "C",
+              "text": "He needs to find a different way to go to college."
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Joanna đề nghị Peter 'make other arrangements to get there instead of going with me' (sắp xếp cách khác để tới đó thay vì đi chung với cô), nghĩa là anh ấy phải tìm đường khác để đến trường."
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "type": "matching",
+      "title": "Part 2",
+      "description": "Choose the best activity holiday for each person (6-10).",
+      "passage": "Activity holidays\n\nA Setty National Park\nIf you enjoy standing on a hill you've just walked up, far from any towns, looking at the views, then join us on the trip of a lifetime. You'll be with a group of walkers of similar ability to yours, and you'll have plenty of time to make friends. You'll spend every night in one of the area's top hotels.\n\nB Adventure Trips\nOur luxury accommodation is situated near the sea, with fantastic views of the mountains to the north. Activities include watching dolphins – the perfect photo opportunity – as well as sailing and surfing. Enjoy local culture evenings, where you'll find out more about what this region has to offer.\n\nC Mari Resort\nMari Resort is located in pine forests on the coast. Here, you can have a go at sailing and surfing, and take a trip in a glass-bottomed boat to see the creatures beneath the waves. Stay in our peaceful campsite for a good night's sleep.\n\nD North Island\nGo back to nature and join us on our extreme hiking tour. At the end of each day, we'll cook together on the campfire with local ingredients and then enjoy the rest of the evening in peaceful surroundings, listening to the sounds of the waves.\n\nE Sunshine Holidays\nHowever you enjoy spending time in the water, you can do it with us. And in the evenings, why not learn a new skill? Performers from nearby villages come along to teach guests their unique style of dancing – we're sure you haven't done anything like this before! Stay in a simple wooden hut with a kitchen.\n\nF Coral River\nCome along on our cycling tour along the Coral River. Take photos of colourful parrots and flowers, and look forward to relaxing in style at the best hotels on our route. If you prefer, you can use local campsites instead.\n\nG Terra Holidays\nIf you're more into biking than hiking, then this is the holiday for you! Enjoy the fresh air as we follow interesting routes through the mountains. Each lunchtime, we'll stop at a restaurant and taste typical dishes from the region. Then, after a long day, sit by the pool and enjoy a cool drink!\n\nH Jungle Camp\nFar away from everyday life, the Jungle Camp is the gateway to a whole new world. See plants and animals like nowhere else on Earth – don't forget your camera! Join everyone after dinner for board games, and spend the nights in a cosy tent.",
+      "questions": [
+        {
+          "id": "t7-q6",
+          "text": "Asma loves cycling, but she also wants to be able to relax after a busy day. She'd like to try the local food while she's on holiday.",
+          "correctAnswer": "G",
+          "explanation": "Terra Holidays (G) có đạp xe (biking), nếm các món đặc sản địa phương (taste typical dishes / local food), và cuối ngày thư giãn bên hồ bơi, nhâm nhi đồ uống mát (relax after busy day)."
+        },
+        {
+          "id": "t7-q7",
+          "text": "Dan is a biology student and has an interest in sea life. He wants to try doing a few water sports. He'd like to sleep in a tent among trees.",
+          "correctAnswer": "B",
+          "explanation": "Khu nghỉ dưỡng Mari (C) ở rừng thông cạnh bờ biển (pine forests on the coast), cho phép tham gia lướt sóng, thuyền buồm (water sports), đi thuyền đáy kính xem sinh vật biển (sea life) và cắm trại (sleep in a tent)."
+        },
+        {
+          "id": "t7-q8",
+          "text": "Tilda enjoys meeting new people, and likes hiking in the countryside. She wants to sleep somewhere comfortable, and doesn't like camping.",
+          "correctAnswer": "D",
+          "explanation": "Setty National Park (A) cho phép leo đồi/núi với nhóm (walkers/hiking), gặp gỡ làm quen những người cùng sở thích (make friends), và đặc biệt là nghỉ ở những khách sạn hàng đầu thay vì cắm trại (top hotels)."
+        },
+        {
+          "id": "t7-q9",
+          "text": "Archie is looking for an activity-filled holiday where he can dive and swim. He's happy to stay in basic accommodation and cook his own meals. He's keen to try a fun or unusual local activity.",
+          "correctAnswer": "E",
+          "explanation": "Sunshine Holidays (E) cung cấp hoạt động bơi dưới nước (swim/dive), nghỉ trong lán gỗ đơn giản có nhà bếp để tự nấu (simple wooden hut with kitchen), tham gia học điệu nhảy dân gian độc đáo của người bản xứ vào buổi tối (unique style of dancing)."
+        },
+        {
+          "id": "t7-q10",
+          "text": "Mia is very interested in nature, and would like to visit a place with wildlife that most people have never seen. She likes taking photos, and wants something sociable to do in the evenings.",
+          "correctAnswer": "H",
+          "explanation": "Jungle Camp (H) cho phép xem động thực vật gần như không thể thấy ở đâu khác trên trái đất (nowhere else on Earth), khuyến khích chụp ảnh (camera), và buổi tối mọi người quây quần chơi board game khá hòa đồng (sociable in the evenings)."
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "type": "multiple-choice-passage",
+      "title": "Part 3",
+      "description": "Read the text about a florist named Gina, and choose the correct answer.",
+      "passage": "Selling flowers\n\nI'm Gina D'Costa and I run a flower shop in the UK. We don't just sell flowers to people buying them for friends or for their homes; all kinds of customers want flowers. Hotels and offices often have flowers in Reception, and sometimes we take part in photo sessions for businesses by providing flowers for their advertising pictures. Once I even decorated a castle with flowers for a wedding. It took a huge amount of work, but I was really proud of the job we'd done.\n\nMy day starts at 4 a.m. when I go to the market to buy fresh flowers. Most people are still asleep then and my friends think I must be crazy, but it's never bothered me – I'm excited about what I do. It's often colder than I'd like, and it's usually dark, but you can't expect anything else at that time in the morning, so I don't let it worry me.\n\nThe flower market's wonderful, with flowers from all over the world. The sights and smells make it hard to make a decision. If I was choosing for myself, I'd probably only get pink ones – it's my favourite colour. But I mustn't forget that what I love and what other people want aren't necessarily the same thing. It isn't always possible to find customers' choices – not all flowers are available all year. I'm not so keen on having to argue about prices with the flower-sellers, but it's a necessary part of the job. Flowers aren't cheap, so I have to try to get the best price possible.\n\nBack at the shop we look at customer orders and set up vases with the flowers I've bought. Then we get on with creating bunches of flowers and working out how much orders will cost. Customers are often surprised by how expensive they are, and I sometimes have to ask them to think again about what they'd like. Some people might think this sounds like too much trouble, but I like thinking about how I can put together the nicest possible flowers for the amount of money someone wants to spend. That's what you have to do when you're selling things – I wouldn't want any other job!",
+      "questions": [
+        {
+          "id": "t7-q11",
+          "text": "In the first paragraph, what does Gina say about her work?",
+          "options": [
+            {
+              "id": "A",
+              "text": "She was especially pleased with one project she was involved in."
+            },
+            {
+              "id": "B",
+              "text": "She finds visiting other businesses very interesting."
+            },
+            {
+              "id": "C",
+              "text": "She has learnt how to take good photographs of her flowers."
+            },
+            {
+              "id": "D",
+              "text": "She prefers some types of customers to others."
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Câu củng cố: 'Once I even decorated a castle with flowers for a wedding... I was really proud of the job we'd done.' Vậy nên cô rất hài lòng với một dự án đã thực hiện."
+        },
+        {
+          "id": "t7-q12",
+          "text": "What does Gina say about getting up so early?",
+          "options": [
+            {
+              "id": "A",
+              "text": "She admits she needs more sleep."
+            },
+            {
+              "id": "B",
+              "text": "She doesn't notice what the weather's like."
+            },
+            {
+              "id": "C",
+              "text": "Her friends don't realise how hard it is for her."
+            },
+            {
+              "id": "D",
+              "text": "It's worth doing because she loves her job."
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Mặc dù bạn bè nghĩ cô bị điên nhưng điều đó không bao giờ làm phiền cô vì cô rất hào hứng với công việc ('I'm excited about what I do'), tức là làm việc sớm thật sự đáng giá với cô."
+        },
+        {
+          "id": "t7-q13",
+          "text": "What does Gina find difficult when she is at the flower market?",
+          "options": [
+            {
+              "id": "A",
+              "text": "asking to pay less for flowers"
+            },
+            {
+              "id": "B",
+              "text": "finding flowers in a variety of colours"
+            },
+            {
+              "id": "C",
+              "text": "remembering what customers have asked for"
+            },
+            {
+              "id": "D",
+              "text": "having such a limited range of flowers to choose from"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Cô thú nhận không thích việc phải tranh cãi kì kèo mặc cả giá (argue about prices) với người bán, dù nó là một phần cần thiết vì hoa vốn không rẻ."
+        },
+        {
+          "id": "t7-q14",
+          "text": "When working in her shop, Gina feels",
+          "options": [
+            {
+              "id": "A",
+              "text": "guilty about the high prices she has to charge."
+            },
+            {
+              "id": "B",
+              "text": "upset when people change their mind."
+            },
+            {
+              "id": "C",
+              "text": "pleased she is able to sell so many flowers."
+            },
+            {
+              "id": "D",
+              "text": "positive about the challenges she has to deal with."
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Cô ấy cảm thấy hứng thú và suy nghĩ tích cực khi đối diện với thử thách: cân đo đong đếm để ghép ra lẵng hoa đẹp nhất ứng với khoản ngân sách khách sẵn lòng chi ('I like thinking about how I can put together...')."
+        },
+        {
+          "id": "t7-q15",
+          "text": "Which would be a good notice for the window of Gina's flower shop?",
+          "options": [
+            {
+              "id": "A",
+              "text": "All our flowers are locally grown!"
+            },
+            {
+              "id": "B",
+              "text": "We can provide flowers for any occasion – large or small!"
+            },
+            {
+              "id": "C",
+              "text": "Design your own flower display here!"
+            },
+            {
+              "id": "D",
+              "text": "We can find any kind of flower that you'd like!"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Với các thông tin đề cập ở đoạn 1 (từ bán lẻ trang trí nhà, phục vụ khách sạn/văn phòng cho đến buổi lễ cưới tại lâu đài khổng lồ), shop tự tin phục vụ mọi dịp dù lớn hay nhỏ."
+        }
+      ]
+    },
+    {
+      "id": "part-4",
+      "type": "sentence-insertion",
+      "title": "Part 4",
+      "description": "Choose the correct sentence for each gap.",
+      "passage": "A very original artist\n\nJenny Blatchford, the talented young sculptor, was born in the south-west of England in 1989. She is the daughter of a doctor, and the family lived in a number of different towns when Jenny was a child. (16) _____ However, there were some advantages; she says it gave her the ability to become used to new environments very quickly.\n\nHer earliest memories are of playing with her primary school friends on the outskirts of a city where workers were building lots of new apartment blocks. (17) _____ The amount of skill involved impressed her greatly, and Jenny says that this early experience led her to become interested in sculpture. \n\nShe was a clever student and went to a very good school. It was a wonderful place to study science and languages, but not art. (18) _____ In fact, most of the staff thought it was something pupils were either good or bad at, and didn't need special instruction. Luckily one of her teachers recognised Jenny's talent and gave her art lessons in the evenings after school.\n\nNo-one was surprised when Jenny chose to apply to study art at college. She had the opportunity to develop her skills in sculpture, creating huge statues of animals, mainly out of materials such as wood, stone and metal. (19) _____ Recently she has even started to make them out of paper. Some of her sculptures are extremely realistic, but others are unusually shaped. Art experts love her originality and she has won many awards and prizes.\n\nJenny gets her ideas for her sculptures in a number of different ways. (20) _____ She also likes to look at other people's art. She says the most important thing is that she is excited by each new project.\n\nSentences:\nA. Sometimes they come from spending time outdoors.\nB. This meant that she didn't have the chance to get to know anywhere very well.\nC. In spite of this, she is influencing a lot of young artists.\nD. Unfortunately, little time was spent there on teaching it.\nE. She loved moving around, and made many new friends.\nF. However, she also enjoyed trying to use other things, like glass.\nG. All subjects were taught very well, and Jenny learned quickly.\nH. She loved watching as each new floor was added.",
+      "questions": [
+        {
+          "id": "t7-q16",
+          "text": "Gap 16",
+          "correctAnswer": "C",
+          "explanation": "Vì chuyển nhà nhiều (different towns) nên gia đình cô không có cơ hội làm quen đủ lâu ở một nơi nào đó ('chance to get to know anywhere very well'). Câu kế nhắc đến 'Tuy nhiên, có một số điểm lợi...'"
+        },
+        {
+          "id": "t7-q17",
+          "text": "Gap 17",
+          "correctAnswer": "F",
+          "explanation": "Bối cảnh: Ở nơi có nhiều căn hộ mới chung cư đang được xây. Jenny rất thích thú khi được nhìn thấy từng tầng (each new floor) được hoàn thiện thêm."
+        },
+        {
+          "id": "t7-q18",
+          "text": "Gap 18",
+          "correctAnswer": "D",
+          "explanation": "Trường là nơi tuyệt vời cho khoa học và ngôn ngữ, nhưng không phải cho mĩ thuật (not art). Đáng buồn là, nhà trường không dành nhiều thời gian truyền dạy bộ môn này ('little time was spent')."
+        },
+        {
+          "id": "t7-q19",
+          "text": "Gap 19",
+          "correctAnswer": "H",
+          "explanation": "Sau khi liệt kê cô chuyên tạc tượng lớn bằng gỗ, đá và kim loại, câu F làm bước trung gian hoàn hảo 'Nhưng cô ý cũng khoái dùng thử vật liệu khác, như thủy tinh', sau đó kết lại bằng việc dạo gần đây còn xài cả giấy đúc tượng."
+        },
+        {
+          "id": "t7-q20",
+          "text": "Gap 20",
+          "correctAnswer": "A",
+          "explanation": "Bàn về 'nhiều cách lấy ý tưởng' (number of different ways) khác nhau. Câu A bổ sung là 'Đôi khi đến từ việc đi dạo ngoài trời'."
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "type": "multiple-choice-cloze",
+      "title": "Part 5",
+      "description": "Choose the correct word to fill in the gaps (21-26).",
+      "passage": "Plastic in the oceans\n\nThese days, plastic waste in the world's oceans has become a serious issue. Scientists want people to know about the problems that are created by the plastic that gets into the oceans, often after people have used it and (21) _____ it away. Many of these bits of plastic are extremely small; some are just the (22) _____ of a tiny piece of salt. \n\nThese little pieces of plastic often (23) _____ up in the sea. There, perhaps because they look very similar to fish eggs, they are often eaten by other animals. They are also sometimes (24) _____ by sea creatures who are trying to feed their own young. Scientists say that this is very bad for many different (25) _____ of animal; cod, penguins and dolphins have all been (26) _____ by the problem.",
+      "questions": [
+        {
+          "id": "t7-q21",
+          "options": [
+            {
+              "id": "A",
+              "text": "taken"
+            },
+            {
+              "id": "B",
+              "text": "given"
+            },
+            {
+              "id": "C",
+              "text": "thrown"
+            },
+            {
+              "id": "D",
+              "text": "put"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Cụm 'throw something away' nghĩa là vứt đồ đi."
+        },
+        {
+          "id": "t7-q22",
+          "options": [
+            {
+              "id": "A",
+              "text": "amount"
+            },
+            {
+              "id": "B",
+              "text": "size"
+            },
+            {
+              "id": "C",
+              "text": "total"
+            },
+            {
+              "id": "D",
+              "text": "quantity"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Đang so sánh độ nhỏ/mảnh của mẩu rác với hạt muối nên đo lường bằng kích cỡ (the size of)."
+        },
+        {
+          "id": "t7-q23",
+          "options": [
+            {
+              "id": "A",
+              "text": "keep"
+            },
+            {
+              "id": "B",
+              "text": "grow"
+            },
+            {
+              "id": "C",
+              "text": "end"
+            },
+            {
+              "id": "D",
+              "text": "catch"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Phrasal verb: 'end up' (mang nghĩa: với kết cục là trôi dạt ra ngoài biển)."
+        },
+        {
+          "id": "t7-q24",
+          "options": [
+            {
+              "id": "A",
+              "text": "looked"
+            },
+            {
+              "id": "B",
+              "text": "hunted"
+            },
+            {
+              "id": "C",
+              "text": "searched"
+            },
+            {
+              "id": "D",
+              "text": "collected"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Bọn sinh vật biển vì tưởng rác là thức ăn, nên sẽ thu lượm/nhặt ('collected by sea creatures') mang về cho con non ăn."
+        },
+        {
+          "id": "t7-q25",
+          "options": [
+            {
+              "id": "A",
+              "text": "members"
+            },
+            {
+              "id": "B",
+              "text": "ranges"
+            },
+            {
+              "id": "C",
+              "text": "species"
+            },
+            {
+              "id": "D",
+              "text": "names"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Từ vựng 'species' of animal chỉ các giống loài động vật khác nhau."
+        },
+        {
+          "id": "t7-q26",
+          "options": [
+            {
+              "id": "A",
+              "text": "approached"
+            },
+            {
+              "id": "B",
+              "text": "affected"
+            },
+            {
+              "id": "C",
+              "text": "arranged"
+            },
+            {
+              "id": "D",
+              "text": "attended"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Chim cánh cụt và cá heo đều bị ảnh hưởng xấu (affected by)."
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "type": "open-cloze",
+      "title": "Part 6",
+      "description": "Write one word only for each gap.",
+      "passage": "The Westway Cinema\n\nThe new Westway Cinema is finally open! I went last night with my brother, and we both agreed it's much better than the old one (27) _____ to be. Although the ticket prices are higher, the extra cost is worth paying.\n\nThe new owners (28) _____ now taken out all the old seats and put in brand new ones that are really comfortable. There's also new air conditioning. This is fantastic because in the past it was sometimes (29) _____ hot that it was difficult to concentrate on the film!\n\nThere are also special offers available. For example, (30) _____ you buy two tickets, you can choose something for free – either a snack or a drink. I'm sure this (31) _____ be popular, as you can't bring (32) _____ own food into the cinema. \n\nI'd really recommend going to the Westway Cinema – it's a great night out.",
+      "questions": [
+        {
+          "id": "t7-q27",
+          "correctAnswer": "so",
+          "explanation": "Cấu trúc 'used to be': Tốt hơn rất nhiều so với tình trạng của nó hồi xưa."
+        },
+        {
+          "id": "t7-q28",
+          "correctAnswer": "because",
+          "explanation": "Chủ ngữ là The owners (số nhiều), sử dụng 'have' trong thì hiện tại hoàn thành (have now taken out)."
+        },
+        {
+          "id": "t7-q29",
+          "correctAnswer": "were",
+          "explanation": "Cấu trúc so + Adj + that: Trong quá khứ nó 'quá' nóng đến mức..."
+        },
+        {
+          "id": "t7-q30",
+          "correctAnswer": "my",
+          "explanation": "Câu điều kiện loại 1: 'If' (Nếu) bạn mua hai vé, bạn được chọn nước/thức ăn kèm miễn phí."
+        },
+        {
+          "id": "t7-q31",
+          "correctAnswer": "but",
+          "explanation": "Dự đoán ở tương lai (đi với I'm sure): Điều này 'sẽ' rất được ưa chuộng (will be popular)."
+        },
+        {
+          "id": "t7-q32",
+          "correctAnswer": "to",
+          "explanation": "Cụm danh từ 'your own food': Đồ ăn tự đem theo của bạn."
+        }
+      ]
+    }
+  ]
+}

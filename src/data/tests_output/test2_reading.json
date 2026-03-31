@@ -1,0 +1,265 @@
+{
+  "test": "test2",
+  "questions": [
+    {
+      "id": "q2",
+      "content": "LISTENING\nPart 4 0\n12\nQuestions 20-25\nFor each question, choose the correct answer.\nYou will hear an interview with a man called Tom Walker, who is a personal trainer.\n20 Tom explains that",
+      "options": [
+        {
+          "id": "A",
+          "text": "he is injured."
+        },
+        {
+          "id": "B",
+          "text": "he used to compete against other cyclists."
+        },
+        {
+          "id": "C",
+          "text": "he no longer cycles."
+        }
+      ],
+      "correctAnswer": "14a",
+      "explanation": "Giải thích cho câu 2 của test2."
+    },
+    {
+      "id": "q4",
+      "content": "How much is a return flight to Paris at the moment?\n_20_] [__ _ _so~J [__ _ _ao_J\n_£1 _£1 _£1\n[_ o __ o o",
+      "options": [
+        {
+          "id": "A",
+          "text": "B C\n5 Which programme has been cancelled?\nA"
+        },
+        {
+          "id": "B",
+          "text": "C\n6 Which day has the most lectures?\nTuesday Wednesday Thursday Wednesday Thursday Friday Thursday Friday Saturday\n® @) @)\n20 22 21 23 22 24\nA B"
+        },
+        {
+          "id": "C",
+          "text": "7 Which item of food is not available?\nA B C\n55"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 4 của test2."
+    },
+    {
+      "id": "q11",
+      "content": "You will hear two friends talking about a website they use.\nThey both think",
+      "options": [
+        {
+          "id": "A",
+          "text": "it can be difficult to choose a date or time."
+        },
+        {
+          "id": "B",
+          "text": "it's cheaper if you book immediately."
+        },
+        {
+          "id": "C",
+          "text": "you get the tickets very quickly."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 11 của test2."
+    },
+    {
+      "id": "q12",
+      "content": "You will hear two friends talking about a photography competition.\nThe man's brother",
+      "options": [
+        {
+          "id": "A",
+          "text": "gets permission before using a photo."
+        },
+        {
+          "id": "B",
+          "text": "has strangers asking him to take a photo of them."
+        },
+        {
+          "id": "C",
+          "text": "has never deleted a photo."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 12 của test2."
+    },
+    {
+      "id": "q13",
+      "content": "You will hear two friends talking about the man's birthday.\nWhat does he say about the morning?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He usually has breakfast in bed."
+        },
+        {
+          "id": "B",
+          "text": "His son got up late."
+        },
+        {
+          "id": "C",
+          "text": "His son and daughter were laughing and joking.\n56"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 13 của test2."
+    },
+    {
+      "id": "q14",
+      "content": "Sarah says that now",
+      "options": [
+        {
+          "id": "A",
+          "text": "she never finds it difficult sleeping."
+        },
+        {
+          "id": "B",
+          "text": "she keeps a record of how well she sleeps."
+        },
+        {
+          "id": "C",
+          "text": "she never thinks about work at night."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 14 của test2."
+    },
+    {
+      "id": "q22",
+      "content": "What does Tom say about his business?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It's difficult to get enough work."
+        },
+        {
+          "id": "B",
+          "text": "He doesn·t only train cyclists."
+        },
+        {
+          "id": "C",
+          "text": "There are some people he chooses not to help."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 22 của test2."
+    },
+    {
+      "id": "q24",
+      "content": "Tom says that some customers",
+      "options": [
+        {
+          "id": "A",
+          "text": "don·t like being watched while they exercise."
+        },
+        {
+          "id": "B",
+          "text": "dislike early morning sessions."
+        },
+        {
+          "id": "C",
+          "text": "have training sessions before they go to work."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 24 của test2."
+    },
+    {
+      "id": "q9",
+      "content": "You will hear two friends talking about litter.\nThey both agree",
+      "options": [
+        {
+          "id": "A",
+          "text": "there aren't enough street cleaners."
+        },
+        {
+          "id": "B",
+          "text": "people drop litter without thinking."
+        },
+        {
+          "id": "C",
+          "text": "people should tidy up litter in their street."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 9 của test2."
+    },
+    {
+      "id": "q10",
+      "content": "You will hear a woman telling a friend about a new car.\nWhat does she say about it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She has seen one she likes in town."
+        },
+        {
+          "id": "B",
+          "text": "A colleague has a similar car."
+        },
+        {
+          "id": "C",
+          "text": "She plans to drive to work."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 10 của test2."
+    },
+    {
+      "id": "q21",
+      "content": "Tom thinks that",
+      "options": [
+        {
+          "id": "A",
+          "text": "people don·t train properly."
+        },
+        {
+          "id": "B",
+          "text": "he found it hard to push himself."
+        },
+        {
+          "id": "C",
+          "text": "his injury was a useful experience."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 21 của test2."
+    },
+    {
+      "id": "q23",
+      "content": "What does Tom say about using a gym for training?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He prefers to use the gym."
+        },
+        {
+          "id": "B",
+          "text": "The gym can get too warm."
+        },
+        {
+          "id": "C",
+          "text": "People work harder in a gym."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 23 của test2."
+    },
+    {
+      "id": "q25",
+      "content": "What does Tom think about the summer period?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is his busiest time."
+        },
+        {
+          "id": "B",
+          "text": "He has to take a holiday."
+        },
+        {
+          "id": "C",
+          "text": "It has advantages and disadvantages.\n58"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 25 của test2."
+    }
+  ]
+}

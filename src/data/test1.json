@@ -1,0 +1,318 @@
+{
+  "testId": "cambridge-pet-1-test-1",
+  "title": "Cambridge B1 Preliminary 1 Reading: Test 1",
+  "totalTimeInSeconds": 2700,
+  "parts": [
+    {
+      "id": "part-1",
+      "type": "short-messages",
+      "title": "Part 1",
+      "description": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "id": "q1",
+          "text": "What does the notice say?",
+          "content": "COLLEGE SHOP: Now is the time to buy essential items like pens and folders - prices reduced until Friday. Open daily during lunch breaks. Also for 30 minutes after last class everyday apart from Monday.",
+          "options": [
+            { "id": "A", "text": "Students must go to the college shop to buy certain items for their studies." },
+            { "id": "B", "text": "Students can take advantage of special offers at the college shop at the moment." },
+            { "id": "C", "text": "Students may visit the college shop at lunchtime every day except Monday." }
+          ],
+          "correctAnswer": "B",
+          "explanation": "The notice says 'prices reduced until Friday', which matches 'take advantage of special offers at the moment'."
+        },
+        {
+          "id": "q2",
+          "text": "Jake is writing to:",
+          "content": "Hi Max, I'm afraid I'll no longer be able to come on the shopping trip tomorrow. My aunt is visiting and didn't give us much notice. Jake",
+          "options": [
+            { "id": "A", "text": "suggest a new date for a shopping trip." },
+            { "id": "B", "text": "invite Max to meet one of his relatives." },
+            { "id": "C", "text": "cancel an arrangement he had made." }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Jake states he is 'no longer be able to come', which is a cancellation."
+        },
+        {
+          "id": "q3",
+          "text": "The Special Offer means:",
+          "content": "SPECIAL OFFER: Order any pizza by 7 p.m. and get another one half-price!",
+          "options": [
+            { "id": "A", "text": "All the pizzas in the restaurant are included in this offer." },
+            { "id": "B", "text": "Any pizza ordered before 7 p.m. costs less than the usual price." },
+            { "id": "C", "text": "At certain times, a customer can get two pizzas for the price of one." }
+          ],
+          "correctAnswer": "B",
+          "explanation": "'Buy one get one half price' means getting two items for a lower total price."
+        },
+        {
+          "id": "q4",
+          "text": "Mr Wood's email to all students:",
+          "content": "From: Mr Wood\nTo: All students\nSubject: Recycling\nWe've done very well with the recycling paper and plastic waste in the school this term - but we could do better! Please put any suggestions in the box outside my office.",
+          "options": [
+            { "id": "A", "text": "Mr Wood has made suggestions on how to recycle waste produced by the school." },
+            { "id": "B", "text": "Recycling materials should be put into the box outside Mr Wood's office." },
+            { "id": "C", "text": "Mr Wood wants new ideas on ways to improve waste recycling in the school." }
+          ],
+          "correctAnswer": "B",
+          "explanation": "He is asking for 'suggestions', which means 'new ideas'."
+        },
+        {
+          "id": "q5",
+          "text": "Mel is texting Sam to:",
+          "content": "Hi Sam, Thanks for taking me to the cinema last night. I didn't say at the time but I was a bit frightened! I think I need to watch a comedy next time! Mel",
+          "options": [
+            { "id": "A", "text": "accept Sam's invitation to the cinema." },
+            { "id": "B", "text": "admit to Sam that she found the film scary." },
+            { "id": "C", "text": "ask when Sam can see another film with her." }
+          ],
+          "correctAnswer": "A",
+          "explanation": "She admits she was 'a bit frightened', which means she found the film scary."
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "type": "matching",
+      "title": "Part 2",
+      "description": "Type the letter (A-H) of the book that is most suitable for each person.",
+      "passage": "Book Reviews:\n\nA. Being Me: Practical advice for health. Recipes from athletes and exercise routines.\nB. Endless Days: True story of first pilots flying across Atlantic. Importance for modern world.\nC. Action Plan: Interviews with famous athletes about their careers and preparation.\nD. Memories: Journey around the world, cultures and beautiful nature.\nE. Days in the Sun: Irish farm life and how travel inspired the author's style.\nF. Parrots in Paradise: Adventure story of a girl lost on an island with birds.\nG. Night Light: Autobiography of a blind world-class athlete and his challenges.\nH. Our Lives: Traditional meals and life in different parts of the world. Photos of wildlife.",
+      "questions": [
+        {
+          "id": "q6",
+          "text": "Ahmed (6): Enjoys real stories and people dealing with difficulties.",
+          "correctAnswer": "G",
+          "explanation": "Ahmed wants an autobiography and difficulties, which matches G (Night Light)."
+        },
+        {
+          "id": "q7",
+          "text": "Pritti (7): Loves sport, top sportspeople and their goals.",
+          "correctAnswer": "C",
+          "explanation": "Pritti wants success stories of athletes, which matches C (Action Plan)."
+        },
+        {
+          "id": "q8",
+          "text": "Conal (8): Loves nature and writing career ideas.",
+          "correctAnswer": "E",
+          "explanation": "Conal wants to be a writer; E describes an author's style and publishing experience."
+        },
+        {
+          "id": "q9",
+          "text": "Elif (9): Likes adventures, brave people from the past and modern influence.",
+          "correctAnswer": "B",
+          "explanation": "Elif wants history and brave pilots, which matches B (Endless Days)."
+        },
+        {
+          "id": "q10",
+          "text": "Stefan (10): Enjoys traveling, cultures and recipes.",
+          "correctAnswer": "H",
+          "explanation": "Stefan wants cultures and typical dishes, which matches H (Our Lives)."
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "type": "multiple-choice-passage",
+      "title": "Part 3",
+      "description": "Read the text and choose the correct answer for each question.",
+      "passage": "Cyclist Vicky Harmiston\n\nReporter Mark Lewis writes about Vicky Harmiston, who has had a successful career as a track cyclist - a cyclist who races on special race tracks.\n\nWhen Vicky Harmiston was a child, her parents gave her and her brother Jamie the freedom to decide what they did in their spare time. Vicky chose to do lots of different sports. She was a good swimmer, and the coach at the swimming club she went to thought she might be good enough to become a champion. But the club was a long way from her home so it was difficult for her to fit in the training around her schoolwork. When they were teenagers, Jamie, who loved cycling, bought himself a special track-racing bike and started taking part in competitions. Vicky thought it looked very exciting and decided to try it for herself. She says that was the best decision she ever made. Soon she was cycling every day and doing really well. The track was near her school, which meant it was no problem for her to attend training sessions after school every day.\n\nVicky went on to have a successful career in track cycling and won several competitions. Then, when she was 28, she retired from competitive cycling. Vicky told me: 'For years I'd loved winning competitions but I began to get a bit tired of the whole thing - and when the excitement stops, there's no point. Luckily, I went on to have a new career.'\n\nVicky got a job with a charity called CycleZone. 'We work with young people who have never enjoyed sport,' she says. 'The first thing we do is teach them to ride a bike. We want them to learn to believe in themselves and their own abilities. CycleZone does a great job, and it gets young people together so they're part of a wider group.'\n\nThe charity uses celebrities to advertise the work they do. Vicky says, 'I know some people aren't sure whether the support of a celebrity is always positive for a charity. They say the celebrities are only doing it to push themselves forward, which prevents the public from seeing the real work of the charity. But if famous singers and actors, for example, can help, I think they should.'",
+      "questions": [
+        {
+          "id": "q11",
+          "text": "When Vicky first started cycling,",
+          "options": [
+            { "id": "A", "text": "she had a very good coach." },
+            { "id": "B", "text": "her parents gave her helpful advice." },
+            { "id": "C", "text": "she could get to a race track easily." },
+            { "id": "D", "text": "her brother gave her a great bike." }
+          ],
+          "correctAnswer": "C",
+          "explanation": "The track was near her school, which meant no problem to attend training daily."
+        },
+        {
+          "id": "q12",
+          "text": "Why does Vicky say she stopped cycle racing?",
+          "options": [
+            { "id": "A", "text": "She felt she was too old to do it." },
+            { "id": "B", "text": "She was becoming bored with it." },
+            { "id": "C", "text": "She had won everything she wanted." },
+            { "id": "D", "text": "She was preparing for a new career." }
+          ],
+          "correctAnswer": "B",
+          "explanation": "She mentions getting 'a bit tired' and losing excitement."
+        },
+        {
+          "id": "q13",
+          "text": "What does the charity CycleZone do for young people?",
+          "options": [
+            { "id": "A", "text": "It teaches them how to do track racing." },
+            { "id": "B", "text": "It supports those who have talent." },
+            { "id": "C", "text": "It offers them the chance to try a variety of sports." },
+            { "id": "D", "text": "It helps them become more confident." }
+          ],
+          "correctAnswer": "D",
+          "explanation": "She mentions wanting them to 'believe in themselves'."
+        },
+        {
+          "id": "q14",
+          "text": "Vicky says some people believe that celebrities can",
+          "options": [
+            { "id": "A", "text": "take attention away from what a charity does." },
+            { "id": "B", "text": "help people understand a charity's work." },
+            { "id": "C", "text": "make the public care less about a charity." },
+            { "id": "D", "text": "encourage more people to become involved with a charity." }
+          ],
+          "correctAnswer": "A",
+          "explanation": "She mentions celebrities 'prevent the public from seeing the real work'."
+        },
+        {
+          "id": "q15",
+          "text": "What would Vicky say on her blog?",
+          "options": [
+             {"id": "A", "text": "Cycling can change your life - I'm proud of my charity work."},
+             {"id": "B", "text": "I miss the race track intensely every day."},
+             {"id": "C", "text": "I hope my brother becomes a champion one day."},
+             {"id": "D", "text": "Coaching is the most important part of sport."}
+          ],
+          "correctAnswer": "A",
+          "explanation": "Summarizes her successful career and current charity passion."
+        }
+      ]
+    },
+    {
+      "id": "part-4",
+      "type": "sentence-insertion",
+      "title": "Part 4",
+      "description": "Read the text and type the correct letter (A-H) for each gap.",
+      "passage": "At home together\n\nRudolf House is a care home in Helsinki. Some rooms are not easily accessible for the elderly, so the city council decided to rent them to young people. They called it 'The House that Fits'.\n\nWhen Taimi (83) heard about the plan, she wondered how it was going to work. (16) _____ Then, a young man named Jonatan appeared. (17) _____ 'Hi! I'm your neighbor,' he said. (18) _____ Surprising herself, Taimi started talking about her life. Jonatan was training to become a chef. (19) _____ That's when he applied to live at Rudolf House. In the end, three young people were chosen. (20) _____ That's how their friendship began.\n\nSentences:\nA. Surprising herself, she talked about growing up in a lakeside town in eastern Finland.\nB. Therefore, he needed to find somewhere to live.\nC. As a result, she wasn't sure whether the young people had arrived.\nD. She'd left the door open, as she always did in the morning.\nE. In the end, three of them, including Jonatan, were chosen.\nF. Because of this, Jonatan has to be a good neighbour and spend 30 hours a month with Taimi.\nG. It would be the first time that anything like this had happened at Rudolf House.\nH. Instead, they just talked, as if they'd known each other forever.",
+      "questions": [
+        {
+          "id": "q16",
+          "text": "Gap 16",
+          "correctAnswer": "G",
+          "explanation": "Explains why she wondered how the new scheme would work."
+        },
+        {
+          "id": "q17",
+          "text": "Gap 17",
+          "correctAnswer": "D",
+          "explanation": "Explains how Jonatan 'appeared outside her room'."
+        },
+        {
+          "id": "q18",
+          "text": "Gap 18",
+          "correctAnswer": "H",
+          "explanation": "Matches the start of their deeper conversation."
+        },
+        {
+          "id": "q19",
+          "text": "Gap 19",
+          "correctAnswer": "B",
+          "explanation": "Fits the context of Jonatan needing a place to live."
+        },
+        {
+          "id": "q20",
+          "text": "Gap 20",
+          "correctAnswer": "E",
+          "explanation": "Finalizes the selection process."
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "type": "multiple-choice-cloze",
+      "title": "Part 5",
+      "description": "Choose the correct word (A, B, C or D) for each gap.",
+      "passage": "The invention of crisps\n\nPotato crisps were invented by accident in 1853, by a chef called George Crum. He was extremely (21) _____ of his cookery skills, and the expensive hotel where he worked attracted customers who were (22) _____ to eating only the best food. One evening, a particularly difficult-to-please guest complained about Crum's fried potatoes. Crum cut them paper-thin and fried them until hard. He (23) _____ them to taste disgusting, but the customer loved them! News travelled fast and a (25) _____ global industry grew from this accident.",
+      "questions": [
+        {
+          "id": "q21",
+          "text": "Gap 21",
+          "options": [
+            { "id": "A", "text": "proud" },
+            { "id": "B", "text": "satisfied" },
+            { "id": "C", "text": "pleased" },
+            { "id": "D", "text": "impressed" }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Collocation: 'proud of'."
+        },
+        {
+          "id": "q22",
+          "text": "Gap 22",
+          "options": [
+            { "id": "A", "text": "prepared" },
+            { "id": "B", "text": "familiar" },
+            { "id": "C", "text": "used" },
+            { "id": "D", "text": "known" }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Collocation: 'used to'."
+        },
+        {
+          "id": "q23",
+          "text": "Gap 23",
+          "options": [
+            { "id": "A", "text": "convinced" },
+            { "id": "B", "text": "wanted" },
+            { "id": "C", "text": "needed" },
+            { "id": "D", "text": "demanded" }
+          ],
+          "correctAnswer": "D",
+          "explanation": "The difficult guest 'demanded' a replacement."
+        },
+        {
+          "id": "q24",
+          "text": "Gap 24",
+          "options": [
+            { "id": "A", "text": "comments" },
+            { "id": "B", "text": "notes" },
+            { "id": "C", "text": "reasons" },
+            { "id": "D", "text": "explanations" }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Context: Negative remarks about the food."
+        },
+        {
+          "id": "q25",
+          "text": "Gap 25",
+          "options": [
+            { "id": "A", "text": "big" },
+            { "id": "B", "text": "huge" },
+            { "id": "C", "text": "large" },
+            { "id": "D", "text": "wide" }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Collocation: 'huge global industry'."
+        },
+        {
+          "id": "q26",
+          "text": "Gap 26",
+          "options": [
+            { "id": "A", "text": "hoped" },
+            { "id": "B", "text": "intended" },
+            { "id": "C", "text": "attempted" },
+            { "id": "D", "text": "tried" }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Crum 'intended' (meant) them to be bad."
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "type": "open-cloze",
+      "title": "Part 6",
+      "description": "Write one word only for each gap.",
+      "passage": "Moving house\n\nHi Alex, I finally moved house! (27) _____ wasn't until I started to pack that I realised how much stuff I had. I think moving house is one of (28) _____ most stressful things I've ever done! I was sad to leave my old house - after (29) _____ I'd lived there my whole life. I'm looking (30) _____ to being in this new house. It's got a great garden, (31) _____ least. I'm having a party on Saturday night, so why don't you come along (32) _____ you are free?",
+      "questions": [
+        { "id": "q27", "text": "Gap 27", "correctAnswer": "It", "explanation": "Grammatical structure: 'It wasn't until...'" },
+        { "id": "q28", "text": "Gap 28", "correctAnswer": "the", "explanation": "Superlative: 'the most stressful'." },
+        { "id": "q29", "text": "Gap 29", "correctAnswer": "all", "explanation": "Idiom: 'after all'." },
+        { "id": "q30", "text": "Gap 30", "correctAnswer": "forward", "explanation": "Phrasal verb: 'looking forward to'." },
+        { "id": "q31", "text": "Gap 31", "correctAnswer": "at", "explanation": "Idiom: 'at least'." },
+        { "id": "id32", "text": "Gap 32", "correctAnswer": "if", "explanation": "Conditional: 'if you are free'." }
+      ]
+    }
+  ]
+}

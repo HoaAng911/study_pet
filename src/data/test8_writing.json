@@ -1,0 +1,50 @@
+{
+  "testId": "cambridge-pet-2-test-4-writing",
+  "title": "Cambridge B1 Preliminary 2 Writing: Test 4",
+  "totalTimeInSeconds": 2700,
+  "parts": [
+    {
+      "id": "writing-part-1",
+      "type": "email-writing",
+      "title": "Part 1: Write an email",
+      "instruction": "Read this email from your English-speaking friend Jamie and the notes you have made. Write your email to Jamie using all the notes (about 100 words).",
+      "email": {
+        "from": "Jamie",
+        "subject": "Your visit",
+        "contentBlocks": [
+          {
+            "text": "Hi,",
+            "note": null
+          },
+          {
+            "text": "I’m so glad you’re coming to visit me next weekend.",
+            "note": "Me too!"
+          },
+          {
+            "text": "The weather will be good and it would be nice to spend a whole day outdoors. We could go horse riding or take a boat trip on the river. What would you like to do?",
+            "note": "Tell Jamie"
+          },
+          {
+            "text": "I’ve invited some friends round for the evening while you’re here. Each of my friends is going to bring something to eat. Could you make a dish too?",
+            "note": "Offer …"
+          },
+          {
+            "text": "Have you got any questions about your visit?",
+            "note": "Ask about transport to Jamie’s house"
+          },
+          {
+            "text": "See you soon!\nJamie",
+            "note": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "writing-part-2",
+      "type": "story-writing",
+      "title": "Part 2: Write a story",
+      "instruction": "Your English teacher has asked you to write a story (about 100 words). Your story must begin with this sentence:",
+      "promptSentence": "Jan was surprised when her friend gave her a large brown envelope."
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "test": "test3",
+  "questions": [
+    {
+      "id": "q3",
+      "content": "LISTENING\nPart 4 0\n20\nQuestions 20-25\nFor each question, choose the correct answer.\nYou will hear an interview with a woman called Maggie Taylor, who is talking about garlic.\n20 Maggie explains that",
+      "options": [
+        {
+          "id": "A",
+          "text": "she discovered garlic at university."
+        },
+        {
+          "id": "B",
+          "text": "you often find garlic in an English kitchen."
+        },
+        {
+          "id": "C",
+          "text": "people in the older generation don't like garlic."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 3 của test3."
+    },
+    {
+      "id": "q4",
+      "content": "What does the man say he can't do?",
+      "options": [
+        {
+          "id": "A",
+          "text": "B C\n5 What is today's special offer?\nA"
+        },
+        {
+          "id": "B",
+          "text": "C\n6 What time does Jamie suggest meeting?\n=·.\n-·.\n.\nA B"
+        },
+        {
+          "id": "C",
+          "text": "7 What should passengers for the 10.15 train do?\nA B C\n75"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 4 của test3."
+    },
+    {
+      "id": "q11",
+      "content": "You will hear two friends talking about a visit to the dentist.\nWhat does the woman say about the appointment?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It was earlier than she wanted."
+        },
+        {
+          "id": "B",
+          "text": "There wasn't a morning one available."
+        },
+        {
+          "id": "C",
+          "text": "It's with a dentist she prefers."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 11 của test3."
+    },
+    {
+      "id": "q12",
+      "content": "You will hear two friends talking about their evening meal.\nWhat does the man say?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He'd like pasta."
+        },
+        {
+          "id": "B",
+          "text": "They always eat takeaways."
+        },
+        {
+          "id": "C",
+          "text": "He'd prefer a mild curry."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 12 của test3."
+    },
+    {
+      "id": "q13",
+      "content": "You will hear two friends talking about a friend's birthday present.\nWhat does the man say about Sandra?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She doesn't like reading books."
+        },
+        {
+          "id": "B",
+          "text": "She isn't doing anything on Friday."
+        },
+        {
+          "id": "C",
+          "text": "She doesn't like surprises.\n76"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 13 của test3."
+    },
+    {
+      "id": "q14",
+      "content": "What does Mary say about the teachers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are all doing the fun run."
+        },
+        {
+          "id": "B",
+          "text": "They are training with the children."
+        },
+        {
+          "id": "C",
+          "text": "They have done the fun run before."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 14 của test3."
+    },
+    {
+      "id": "q22",
+      "content": "What does Maggie say about the health benefits of garlic?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She thinks it can cure the common cold."
+        },
+        {
+          "id": "B",
+          "text": "It has been used as a medicine for many years."
+        },
+        {
+          "id": "C",
+          "text": "She has used it to help with a skin condition."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 22 của test3."
+    },
+    {
+      "id": "q24",
+      "content": "What does Maggie say about growing garlic?",
+      "options": [
+        {
+          "id": "A",
+          "text": "she wasn't successful the first time she tried."
+        },
+        {
+          "id": "B",
+          "text": "she has always had great results."
+        },
+        {
+          "id": "C",
+          "text": "you shouldn't dig it up while it's still green."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 24 của test3."
+    },
+    {
+      "id": "q9",
+      "content": "You will hear two friends talking about a book they've read.\nThe man",
+      "options": [
+        {
+          "id": "A",
+          "text": "finished reading it quickly."
+        },
+        {
+          "id": "B",
+          "text": "thinks the author's other books are more complicated."
+        },
+        {
+          "id": "C",
+          "text": "suggests trying a different author."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 9 của test3."
+    },
+    {
+      "id": "q10",
+      "content": "You will hear a man telling a friend about a football match.\nHe thinks",
+      "options": [
+        {
+          "id": "A",
+          "text": "there will be more people there than usual."
+        },
+        {
+          "id": "B",
+          "text": "it was difficult to get tickets."
+        },
+        {
+          "id": "C",
+          "text": "he might get a job selling tickets."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 10 của test3."
+    },
+    {
+      "id": "q21",
+      "content": "Maggie says that because of learning about garlic",
+      "options": [
+        {
+          "id": "A",
+          "text": "she did a cookery course."
+        },
+        {
+          "id": "B",
+          "text": "she can now cook meals from other countries."
+        },
+        {
+          "id": "C",
+          "text": "she has travelled all over the world."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 21 của test3."
+    },
+    {
+      "id": "q23",
+      "content": "Maggie explains that",
+      "options": [
+        {
+          "id": "A",
+          "text": "garlic from the supermarket is OK to grow in an English garden."
+        },
+        {
+          "id": "B",
+          "text": "you can grow garlic in any climate."
+        },
+        {
+          "id": "C",
+          "text": "in the past it was harder to buy suitable garlic to grow in an English garden."
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 23 của test3."
+    },
+    {
+      "id": "q25",
+      "content": "Maggie explains that",
+      "options": [
+        {
+          "id": "A",
+          "text": "her family like the soup she makes."
+        },
+        {
+          "id": "B",
+          "text": "her family dislike the smell of garlic."
+        },
+        {
+          "id": "C",
+          "text": "she doesn't worry what her family think.\n78"
+        }
+      ],
+      "correctAnswer": "",
+      "explanation": "Giải thích cho câu 25 của test3."
+    }
+  ]
+}

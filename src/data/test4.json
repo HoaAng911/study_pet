@@ -1,0 +1,287 @@
+{
+  "testId": "cambridge-pet-1-test-4",
+  "title": "Cambridge B1 Preliminary 1 Reading: Test 4",
+  "totalTimeInSeconds": 2700,
+  "parts": [
+    {
+      "id": "part-1",
+      "type": "short-messages",
+      "title": "Part 1",
+      "description": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "id": "t4-q1",
+          "text": "Why is Anne texting?",
+          "content": "Eric\nThe traffic's awful but I'm almost there. Luckily I ordered the tickets online so we won't need to waste time queuing. Let me know where to find you when I get to the theatre.\nAnne",
+          "options": [
+            { "id": "A", "text": "to ask Eric if he can do her a favour" },
+            { "id": "B", "text": "to remind Eric about what they have agreed" },
+            { "id": "C", "text": "to give Eric an update regarding their arrangement" }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Anne cập nhật tình hình (I'm almost there) và báo tin về vụ mua vé."
+        },
+        {
+          "id": "t4-q2",
+          "text": "Final-year Students notice",
+          "content": "Final-year Students\nEx-students from our course are coming here next week to talk to you about how to do well in your first job. Space for a maximum of thirty students, so sign up now.",
+          "options": [
+            { "id": "A", "text": "Students of any year group are able to come to the careers talk." },
+            { "id": "B", "text": "Students should go to the talk if they need help applying for a job." },
+            { "id": "C", "text": "Students must register quickly because places at the event are limited." }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Chỗ ngồi bị giới hạn ở 30 sinh viên (maximum of thirty students) nên phải đăng ký sớm."
+        },
+        {
+          "id": "t4-q3",
+          "text": "Recycling Centre sign",
+          "content": "Recycling Centre Users\nGlass, plastic and metal items must be cleaned before you bring them to the recycling centre. Please place them in the correct recycling bin - the recycling centre staff are there to help.",
+          "options": [
+            { "id": "A", "text": "Recycling centre staff will clean items for recycling." },
+            { "id": "B", "text": "Certain items need to be washed before they are recycled." },
+            { "id": "C", "text": "All items can be placed in the same recycling bin." }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Những vật cụ thể (glass, plastic, metal) cần phải rửa làm sạch (washed / cleaned)."
+        },
+        {
+          "id": "t4-q4",
+          "text": "Gabriel's text to Nora:",
+          "content": "Nora\nYou know the silent disco we spoke about? You've got to wear their special headphones so you can hear the DJ. Besides you, who else should I get tickets for? They're running out!\nGabriel",
+          "options": [
+            { "id": "A", "text": "Gabriel has got a ticket for Nora to go to the special dance event." },
+            { "id": "B", "text": "Gabriel is informing Nora that she needs to remember to bring headphones." },
+            { "id": "C", "text": "Gabriel wants Nora to suggest who may be interested in going to the disco." }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Gabriel hỏi Nora xem cô muốn mua cho ai nữa (who else should I get tickets for?)."
+        },
+        {
+          "id": "t4-q5",
+          "text": "Restaurant menu informaton",
+          "content": "If you need information about the ingredients in any of our dishes, please tell your waiter when you are choosing food from our menu.",
+          "options": [
+            { "id": "A", "text": "Our staff can let you know about what we've used to make our dishes." },
+            { "id": "B", "text": "Read the information on our menu if you need to avoid eating certain ingredients." },
+            { "id": "C", "text": "Tell your waiter if you'd prefer something different from what's on the menu." }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Nhân viên (waiter) sẽ cho biết thông tin về nguyên liệu (ingredients / what we've used to make our dishes)."
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "type": "matching",
+      "title": "Part 2",
+      "description": "Decide which show would be the most suitable for the people below.",
+      "passage": "The best musical shows in town\n\nA Glad!\nGlad! tells the story of a teenage girl whose dreams of becoming a famous musician come true with the help of some special (and amusing!) friends. The costumes and songs are amazing, and although it's fiction, it has the feel of a real-life story. It's on for one week only, on a temporary stage in the football stadium.\n\nB Mary Wright\nThe two well-known lead actors in this 16th-century drama are surprisingly good dancers, and the music creates quite a scary atmosphere. The clothes by top designer Jean-Luc Filbert are historically accurate and look absolutely wonderful.\n\nC The Amazing Mr Mason\nThis unusual musical is based on a famous story written over 400 years ago. The hero falls in love with a princess who's forced to move to another country. There's quite a lot of speaking for a musical, but the ending's a surprising pleasure.\n\nD The End of Summer\nYou've probably read the novel which this musical comedy takes its story from, but you won't recognise the songs, as they were specially written for the show. Several songwriters were needed, due to the wide variety of music the producers wanted. The stars, who you'll probably recognise from TV, are fantastic.\n\nE Keeping Time\nKeeping Time is based on the real-life story of the popular group Marcellous, and includes their best work. We see how having members from three different continents allowed them to create songs using music from each place. Unusually, there's ballet in this show, but it goes surprisingly well with their music.\n\nF No Exit\nWith its use of film and advanced technology to make it seem like the characters appear in two places at once, this spectacular musical starts off as an old-fashioned ghost story but quickly turns into a highly entertaining romantic comedy. The fact that the show is performed in an old factory building only adds to the enjoyment.\n\nG Tiger Prince\nThe Tiger Prince leaves his jungle home and comes to the city in this fabulous musical. The story isn't particularly original but the computer-controlled light show goes perfectly with the amazing dance routines to make this a must-see show.\n\nH The Final Whistle\nIf you're tired of serious dramas and dull love stories, why not give this laugh-a-minute show a try? The true story of basketball player Andy Hammond is cleverly told. Despite being advertised as a musical show, it actually has very few songs. You'll love all the brilliant jokes and entertaining conversations.",
+      "questions": [
+        {
+          "id": "t4-q6",
+          "text": "Erika wants to see a show with music and which has famous actors in the lead roles. She'd like it to be based on a book and contain many different types of music.",
+          "correctAnswer": "D",
+          "explanation": "Có diễn viên nổi tiếng (stars from TV), dựa trên sách tiểu thuyết (read the novel) và có kết hợp đa dạng thể loại nhạc (wide variety of music)."
+        },
+        {
+          "id": "t4-q7",
+          "text": "Guillermo would like to go to a show that's funny and is about a real person. He's looking for one with some music in it, but with more speaking than singing.",
+          "correctAnswer": "H",
+          "explanation": "Đó là câu chuyện có thật (The true story) về Andy Hammond. Shows rất hài hước (brilliant jokes) và có nhiều câu thoại hơn ca hát (very few songs, entertaining conversations)."
+        },
+        {
+          "id": "t4-q8",
+          "text": "Neelam wants to see a musical show which contains lots of special effects and would like to watch it in an unusual place. She'd like to see a love story.",
+          "correctAnswer": "F",
+          "explanation": "No Exit sử dụng công nghệ cao (advanced technology), ở tại một nơi không bình thường (old factory building) và lãng mạn (romantic comedy)."
+        },
+        {
+          "id": "t4-q9",
+          "text": "Oumar wants to go to a show that's a bit frightening. He'd like to see a story set in the past and realistic costumes from the period.",
+          "correctAnswer": "B",
+          "explanation": "Bối cảnh rùng rợn (scary atmosphere), thời xa xưa thế kỉ thứ 16, quần áo sát với lịch sử (historically accurate)."
+        },
+        {
+          "id": "t4-q10",
+          "text": "Mira wants a show with dancing, as well as songs by well-known musicians. She'd like the music to be in a range of styles from around the world.",
+          "correctAnswer": "E",
+          "explanation": "Rất nhiều nhảy múa ballet, sử dụng nhạc của ban nhạc nổi tiếng Marcellous từ 3 châu lục khác nhau (around the world)."
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "type": "multiple-choice-passage",
+      "title": "Part 3",
+      "description": "Read the text about Louise Walton, and choose the correct answer.",
+      "passage": "My Canadian trip\n\nby Louise Walton\n\nLast year I went on an amazing trip - travelling by boat on a guided group tour along the west coast of Canada. It was my brother Harry's idea. He's a journalist, like me, and he wanted to write articles about the trip. He's also a great fan of boats, although that's one interest we definitely don't share. But I'd dreamt of visiting the area ever since seeing it on TV as a child, especially as I knew it was where our great-grandparents had lived before moving to Europe. So I kept asking Harry if I could go too - until he finally agreed!\n\nA few weeks before we left home, there were storms in the area we were going to. But luckily the forecast for the time we intended to be there was for calm seas. Although there was plenty to arrange, I was busy at work so didn't have much time to think about what needed doing. But Harry promised he'd taken care of everything, so I knew everything would be all right.\n\nAfter arriving in Canada, we joined the group, packed our limited supplies into small boats and set off. The guide had mentioned that very few people now lived along that coast, and sure enough, the only other living creatures we saw for the first few days were dolphins and birds. We knew there were islands in the distance, but the early-morning fog made it hard to see very far, so I just focussed on the beautiful patterns our boat made in the water.\n\nWe often stopped for hours to explore the rock pools on the beaches. They were full of amazing coloured fish, many of which I didn't recognise. And it was great to be able to stop caring about how quickly or slowly the day was passing. We never forgot lunch or dinner, though, which we all made together over camp fires. When we finally fell asleep on the boats each evening, even though the beds were hard, it really felt like stress-free living!\n\nWhen the time came to leave, I was sad. How could I return to normal life again? But I knew if I stayed, I'd miss family and friends. I was also looking forward to telling everyone at home about our adventures!",
+      "questions": [
+        {
+          "id": "t4-q11",
+          "text": "Why was Louise keen to go on the trip to Canada?",
+          "options": [
+            { "id": "A", "text": "She liked the idea of spending time in a boat." },
+            { "id": "B", "text": "She knew her brother wanted her to accompany him." },
+            { "id": "C", "text": "She had wanted to travel there for a long time." },
+            { "id": "D", "text": "She had heard from some relatives who lived there." }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Cô đã ước mơ được tới khu vực này từ lâu (từ hồi còn nhỏ nhìn trên TV)."
+        },
+        {
+          "id": "t4-q12",
+          "text": "Just before their departure, Louise",
+          "options": [
+            { "id": "A", "text": "began to wonder how they would deal with bad weather." },
+            { "id": "B", "text": "was confident that they were fully prepared for the trip." },
+            { "id": "C", "text": "wished she could help her brother more." },
+            { "id": "D", "text": "felt she was better organised than usual." }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Cô tự tin tin tưởng rằng mình và em trai đã chuẩn bị kỹ càng (Harry promised he'd taken care of everything, so I knew everything would be all right)."
+        },
+        {
+          "id": "t4-q13",
+          "text": "On the first morning of the trip, Louise says she admired",
+          "options": [
+            { "id": "A", "text": "the way the sea around them looked." },
+            { "id": "B", "text": "the wildlife which their boats attracted." },
+            { "id": "C", "text": "the homes that people had built in the area." },
+            { "id": "D", "text": "the views of islands they were passing." }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Do sương mù (fog) nên cô ấy chỉ để ý ngắm những hoa văn mặt nước đẹp đẽ (beautiful patterns) mà thuyền tạo ra (tương ứng với sea around them looked)."
+        },
+        {
+          "id": "t4-q14",
+          "text": "During the trip, Louise enjoyed",
+          "options": [
+            { "id": "A", "text": "learning the names of the fish she saw." },
+            { "id": "B", "text": "not having to cook regular meals." },
+            { "id": "C", "text": "spending the nights in comfort." },
+            { "id": "D", "text": "not having to worry about time." }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Cô ấy tận hưởng việc không còn bận tâm về thời gian (stop caring about how quickly or slowly the day was passing)."
+        },
+        {
+          "id": "t4-q15",
+          "text": "What would Louise write in her diary during the trip?",
+          "options": [
+            { "id": "A", "text": "There are wonderful pools along the coast, left behind by the sea. I wish we had the time to look at them more carefully." },
+            { "id": "B", "text": "I can't believe I'm in the same place I saw on that programme ages ago. Our great-grandparents would be amazed!" },
+            { "id": "C", "text": "We've brought a lot of stuff with us in the boats - I'm sure it's not all necessary. It's surprising they don't sink!" },
+            { "id": "D", "text": "It'll be hard to say goodbye to the place at the end, but I can't wait to get back to work - I've really missed it." }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Nhật ký phù hợp với kỉ niệm lúc nhỏ xem TV và gia đình vĩ đại của cố tổ tiên sinh sống nơi đó."
+        }
+      ]
+    },
+    {
+      "id": "part-4",
+      "type": "sentence-insertion",
+      "title": "Part 4",
+      "description": "Choose the correct sentence (A-H) for each gap (16-20).",
+      "passage": "The Museum of Trash\n\nIn an industrial area in California, in the USA, large garbage trucks regularly deliver tons of rubbish to a recycling centre. Meanwhile, coaches deliver crowds of people who are coming to visit The Museum of Trash. (16) _____ It is a colourful elephant made entirely out of rubbish.\n\nThe unusual sculpture was created out of all sorts of rubbish: old signs, mobile phones, shoes, sunglasses, plastic toys, car number plates, and anything else that the artist could get his hands on. (17) _____ They have fun trying to find them all. The sculpture is 4 metres tall and weighs around 900 kg, which is equal to the average amount of rubbish each person in California throws away every year. (18) _____\n\nWhile the elephant sculpture is popular, visitors also enjoy being able to see what happens at a real recycling centre. Rubbish which can be recycled is brought here every day. (19) _____ People who live in these places are happy to know that what they throw away will not be wasted. Once it has arrived at the recycling centre, the rubbish is put into separate containers according to what it is made from, and sold to businesses that can use it to create new products. The companies make a range of things out of the recycled materials, and some of them can be bought in the museum shop.\n\n'What is really exciting is that people go home and tell their friends what they can recycle,' says the museum's director. (20) _____ They can see where all the rubbish goes and learn that recycling is better than just wasting things.'\n\nSentences:\nA. Few of these items were recycled into anything that people could wear.\nB. Visitors are given a list of the different objects in it.\nC. Although this might not seem like a lot, it is more than in most museums.\nD. So while it is fun for visitors, they also pass on their new knowledge.\nE. It comes from twenty towns in the local area.\nF. Nowadays, however, over 30,000 visitors come to the museum each year.\nG. The first display they see looks like something out of an animated movie.\nH. It is certainly shocking to see what that actually looks like.",
+      "questions": [
+        { "id": "t4-q16", "text": "Gap 16", "correctAnswer": "G", "explanation": "Mô tả phần trưng bày đầu tiên nom như thứ từ phim hoạt hình (tương ứng với The colourful elephant - Chú voi sắc màu)." },
+        { "id": "t4-q17", "text": "Gap 17", "correctAnswer": "B", "explanation": "Du khách được đưa cho một danh sách các đồ vật trong bức tượng và họ cùng chơi trò tìm kiếm (trying to find them all)." },
+        { "id": "t4-q18", "text": "Gap 18", "correctAnswer": "H", "explanation": "Chú voi (900kg) bằng cân nặng đống rác mà mỗi người thải ra. Điều này thực sự gây sốc (shocking) khi nhìn tận mắt (1 con voi 900kg)." },
+        { "id": "t4-q19", "text": "Gap 19", "correctAnswer": "E", "explanation": "Rác đến từ 20 thị trấn trong khu vực (It comes from twenty towns), nên người dân sống tại đây rất vui vì rác không bị phí hoài." },
+        { "id": "t4-q20", "text": "Gap 20", "correctAnswer": "D", "explanation": "Thay vì tới chơi cho vui thì nay họ đã học được và truyền lại kiến thức đó." }
+      ]
+    },
+    {
+      "id": "part-5",
+      "type": "multiple-choice-cloze",
+      "title": "Part 5",
+      "description": "Choose the correct word to fill in the gaps (21-26).",
+      "passage": "Inventing the telephone\n\nThe telephone was invented by Alexander Graham Bell. His first career involved teaching people how to use a system which his father had (21) _____ to help deaf people communicate. Because of this, Bell became more and more interested in all types of communication.\n\nBell wanted to (22) _____ it possible for people to talk to each other over (23) _____ distances. He realised that he had to turn sound into electricity and then back to sound again. This was a big engineering (24) _____ .\n\nIn 1876, after several months of hard work on this problem, Bell and his assistant Thomas Watson (25) _____ it.\n\nThe first words ever spoken on the telephone are famous. Bell was working on their new invention in his laboratory when he accidentally (26) _____ dangerous liquid on his clothes. He called Watson and said, 'Come here, I want to see you!'",
+      "questions": [
+        {
+          "id": "t4-q21",
+          "options": [
+            {"id": "A", "text": "thought"},
+            {"id": "B", "text": "developed"},
+            {"id": "C", "text": "done"},
+            {"id": "D", "text": "reached"}
+          ],
+          "correctAnswer": "B",
+          "explanation": "Cha của ông đã phát triển (developed) ra một hệ thống..."
+        },
+        {
+          "id": "t4-q22",
+          "options": [
+            {"id": "A", "text": "create"},
+            {"id": "B", "text": "have"},
+            {"id": "C", "text": "get"},
+            {"id": "D", "text": "make"}
+          ],
+          "correctAnswer": "D",
+          "explanation": "Cấu trúc: make it possible for sb to do something (giúp cho ai đó có thể làm gì)."
+        },
+        {
+          "id": "t4-q23",
+          "options": [
+            {"id": "A", "text": "long"},
+            {"id": "B", "text": "high"},
+            {"id": "C", "text": "wide"},
+            {"id": "D", "text": "far"}
+          ],
+          "correctAnswer": "A",
+          "explanation": "long distances: khoảng cách xa/đường dài."
+        },
+        {
+          "id": "t4-q24",
+          "options": [
+            {"id": "A", "text": "request"},
+            {"id": "B", "text": "demand"},
+            {"id": "C", "text": "challenge"},
+            {"id": "D", "text": "method"}
+          ],
+          "correctAnswer": "C",
+          "explanation": "Đó là một 'thử thách/khó khăn' (challenge) đặc biệt về nghệ thuật máy móc/kĩ nghệ."
+        },
+        {
+          "id": "t4-q25",
+          "options": [
+            {"id": "A", "text": "solved"},
+            {"id": "B", "text": "answered"},
+            {"id": "C", "text": "succeeded"},
+            {"id": "D", "text": "found"}
+          ],
+          "correctAnswer": "A",
+          "explanation": "Họ đã 'giải quyết' (solved) khó khăn này."
+        },
+        {
+          "id": "t4-q26",
+          "options": [
+            {"id": "A", "text": "lost"},
+            {"id": "B", "text": "kept"},
+            {"id": "C", "text": "fell"},
+            {"id": "D", "text": "spilt"}
+          ],
+          "correctAnswer": "D",
+          "explanation": "Vô tình đánh đổ 'spilt' chất lỏng nguy hiểm vào áo."
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "type": "open-cloze",
+      "title": "Part 6",
+      "description": "Write one word only for each gap (27-32).",
+      "passage": "From: Harry\nTo: Oliver\nSubject: Piano lessons\n\nHi Oliver,\n\nGuess what? I've finally started piano lessons, like you! As you know, it's something I've wanted to do ever (27) _____ I was young. Anyway, a couple of months ago I saw someone playing the piano on TV - he was brilliant. And when I found out he'd only started playing quite recently, that encouraged (28) _____ to start lessons.\n\nI've got a really good teacher, and I go to her house twice a week (29) _____ lessons. She's very patient. Every time I make a mistake, she explains what I did wrong. Also, I couldn't read music when I started. It's been hard to learn to read the notes on the page and decide which piano keys to use at the (30) _____ time! But when I finally play something that other people recognise, it really makes me happy. Maybe (31) _____ day, I'll become even better (32) _____ you are at playing the piano!",
+      "questions": [
+        { "id": "t4-q27", "correctAnswer": "since", "explanation": "Kể từ khi... (Ever since)." },
+        { "id": "t4-q28", "correctAnswer": "me", "explanation": "encouraged me: Cổ vũ 'tôi'." },
+        { "id": "t4-q29", "correctAnswer": "for", "explanation": "go for lessons (Tới để học)." },
+        { "id": "t4-q30", "correctAnswer": "same", "explanation": "at the same time: cùng một lúc." },
+        { "id": "t4-q31", "correctAnswer": "one", "explanation": "one day: / some day: một ngày nào đó." },
+        { "id": "t4-q32", "correctAnswer": "than", "explanation": "Cấu trúc so sánh: become better than..." }
+      ]
+    }
+  ]
+}

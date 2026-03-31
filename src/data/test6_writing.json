@@ -1,0 +1,50 @@
+{
+  "testId": "cambridge-pet-2-test-2-writing",
+  "title": "Cambridge B1 Preliminary 2 Writing: Test 2",
+  "totalTimeInSeconds": 2700,
+  "parts": [
+    {
+      "id": "writing-part-1",
+      "type": "email-writing",
+      "title": "Part 1: Write an email",
+      "instruction": "Read this email from your English-speaking friend Mo and the notes you have made. Write your email to Mo using all the notes (about 100 words).",
+      "email": {
+        "from": "Mo",
+        "subject": "Day out",
+        "contentBlocks": [
+          {
+            "text": "Hi,",
+            "note": null
+          },
+          {
+            "text": "We’ve been very busy recently, so I thought it would be nice to have a day out this weekend.",
+            "note": "Agree"
+          },
+          {
+            "text": "We could go to the beach or spend a day shopping in the city. Which would you prefer?",
+            "note": "Say which"
+          },
+          {
+            "text": "I think it would be nice to invite some other friends to come with us. What do you think?",
+            "note": "Tell Mo"
+          },
+          {
+            "text": "Afterwards, you could come to my house for dinner, if you’re free. Let me know!",
+            "note": "Thanks, but …"
+          },
+          {
+            "text": "Mo",
+            "note": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "writing-part-2",
+      "type": "story-writing",
+      "title": "Part 2: Write a story",
+      "instruction": "Your English teacher has asked you to write a story (about 100 words). Your story must begin with this sentence:",
+      "promptSentence": "Charlie felt happy as he opened the train door."
+    }
+  ]
+}

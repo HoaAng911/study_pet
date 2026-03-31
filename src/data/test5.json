@@ -1,0 +1,513 @@
+{
+  "testId": "cambridge-pet-2-test-1",
+  "title": "PET 2 Reading - Test 1",
+  "totalTimeInSeconds": 2700,
+  "parts": [
+    {
+      "id": "part-1",
+      "type": "short-messages",
+      "title": "Part 1",
+      "description": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "id": "t5-q1",
+          "text": "What is Timo worried about?",
+          "content": "Nora,\nI heard today that the football match might be postponed because of the snow. Do you think we'll get a refund? Those front row tickets were expensive!\nTimo",
+          "options": [
+            {
+              "id": "A",
+              "text": "The tickets they bought for the match cost too much."
+            },
+            {
+              "id": "B",
+              "text": "The weather may be too bad for them to get to the match."
+            },
+            {
+              "id": "C",
+              "text": "They could lose the money they spent on tickets."
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Timo lo lắng về việc trận đấu bị hoãn do tuyết và anh có thể không được hoàn lại tiền vé (get a refund) cho những tấm vé đắt đỏ, tức là có nguy cơ mất tiền."
+        },
+        {
+          "id": "t5-q2",
+          "text": "Transport to campsite:",
+          "content": "Chris\nThere's a direct bus, but not till 2.30 – trains leave earlier, but we have to change twice. Either way, we won't get to the campsite till 5.\nTom",
+          "options": [
+            {
+              "id": "A",
+              "text": "The journey by bus will take them as long as the one by train."
+            },
+            {
+              "id": "B",
+              "text": "They can be on a bus before the first train leaves the station."
+            },
+            {
+              "id": "C",
+              "text": "They'll arrive at the same time whether they go by bus or train."
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Câu 'Either way, we won't get to the campsite till 5' nghĩa là dù đi cách nào (xe buýt hay tàu hỏa) thì họ cũng đều đến nơi vào cùng một lúc (5 giờ)."
+        },
+        {
+          "id": "t5-q3",
+          "text": "What does the notice say?",
+          "content": "Free delivery in 3-5 days on all orders over £30!\nNext-day delivery available for extra charge – click here for details",
+          "options": [
+            {
+              "id": "A",
+              "text": "Anything you order will be delivered within five days for no charge."
+            },
+            {
+              "id": "B",
+              "text": "There is a faster delivery option for customers willing to pay more."
+            },
+            {
+              "id": "C",
+              "text": "If you spend more than £30 today, items will be delivered for free tomorrow."
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Có tuỳ chọn giao hàng vào ngày hôm sau (Next-day delivery available) nếu bạn trả thêm phí (for extra charge)."
+        },
+        {
+          "id": "t5-q4",
+          "text": "GoFresh Supermarket notice:",
+          "content": "GoFresh Supermarket\nWhy not try something different this week?\nFree recipe cards now available.\nGoFresh: Exciting flavours! Always good value!",
+          "options": [
+            {
+              "id": "A",
+              "text": "The ingredients on the recipe cards are sold at a discount."
+            },
+            {
+              "id": "B",
+              "text": "The supermarket is giving customers ideas for new dishes."
+            },
+            {
+              "id": "C",
+              "text": "People can buy interesting meals from the supermarket this week."
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Siêu thị khuyến khích thử món mới (try something different) qua việc cung cấp miễn phí các thẻ công thức nấu ăn (Free recipe cards), tức là gợi ý ý tưởng làm món ăn mới."
+        },
+        {
+          "id": "t5-q5",
+          "text": "Alice is texting Jo because",
+          "content": "Hi Jo,\nSorry I can't pick you up this evening – the car's not working. Can you arrange to go to the gym class with Kim or Lucy instead? See you next week as usual.\nAlice",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jo should contact someone else for a lift tonight."
+            },
+            {
+              "id": "B",
+              "text": "Alice can't attend the gym class next week."
+            },
+            {
+              "id": "C",
+              "text": "Kim will go to the class with Lucy instead of Jo."
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Alice nói xe hỏng nên không đón Jo được, và gợi ý Jo sắp xếp đi nhờ người khác (Kim hoặc Lucy)."
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "type": "matching",
+      "title": "Part 2",
+      "description": "Choose the best music website for each person (6-10).",
+      "passage": "The best music websites\n\nA allofusmusic.com\nWhether you're a singer in a band or play violin in an orchestra, allofusmusic.com has what you need. If you've filmed your own recordings, why not put them on this website? You can enjoy other people's performances from many international locations, as well as videos of professional concerts.\n\nB musixyes.net\nIf you're looking for used or new musical equipment and aren't sure where to go, musixyes.net has a list of every store in the country. There are interviews with famous singers and musicians who give tips on becoming as good as they are, and articles on the development of music around the world through the centuries.\n\nC musicisus.com\nA great site if you're into singing, especially opera and other traditional music. There are links to different music schools if you're looking for classes, and an excellent collection of step-by-step video guides for learning a range of instruments – you can even upload your own and teach other users!\n\nD deepmusic.net\nIf you're just starting out playing music and need help, the short, easy-to-follow clips on deepmusic.net are exactly what you need. Or pick a show in your area to see your favourite musicians performing, then upload your own review of it afterwards. Every week there's a new set of fun questions for you – test your musical knowledge!\n\nE musictolistento.com\nSet up by the musical instrument shop of the same name, musictolistento.com has everything – from journalists' opinions on the latest songs and albums to lists of qualified music teachers and classes all over the country for all kinds of instruments. There are also articles on a range of international bands and musicians.\n\nF musicmusic.net\nmusicmusic.net has a good section on music through history, though the information is mainly about music from before the fifteenth century. You can discuss anything related to music on the site with other fans. There's also a useful section on understanding and playing written music.\n\nG musicability.com\nThis site is popular with musicians wanting to show their work to a wider audience. There are hundreds of videos posted by talented young bands from around the world, and even a monthly prize for the one that has been most popular. The comments added by users underneath each video are interesting, too!\n\nH songsandtunes.net\nThe perfect site for buying all kinds of musical instruments that people no longer want! And if you're a musician and want to show other people your work, why not film yourself or your band and post it onto the website for free? You can also read your favourite performers' answers to questions you've always wanted to ask.",
+      "questions": [
+        {
+          "id": "t5-q6",
+          "text": "Jing wants to find a website that has information on local concerts. She'd like to do online music quizzes and also watch videos which teach you how to play different instruments.",
+          "correctAnswer": "F",
+          "explanation": "Trang D (deepmusic.net) có thông tin về buổi biểu diễn ở địa phương (show in your area), câu hỏi đố vui âm nhạc hàng tuần (fun questions) và video hướng dẫn chơi nhạc dễ theo dõi (easy-to-follow clips)."
+        },
+        {
+          "id": "t5-q7",
+          "text": "Hans would like to read interviews with musicians and be able to upload videos of his band onto the website. He's also looking for adverts for second-hand guitars.",
+          "correctAnswer": "D",
+          "explanation": "Trang H (songsandtunes.net) có các nhạc cụ mua cũ (instruments people no longer want - second-hand guitars), cho phép tải video ban nhạc lên miễn phí (post it onto the website for free) và đọc câu trả lời của nghệ sĩ yêu thích (favourite performers' answers)."
+        },
+        {
+          "id": "t5-q8",
+          "text": "Precious would like a website where she can find out about piano lessons in her area. She also wants information on music from around the world, and reviews of artists' new recordings.",
+          "correctAnswer": "A",
+          "explanation": "Trang E (musictolistento.com) cung cấp đánh giá từ nhà báo về các bài hát mới (journalists' opinions), danh sách giáo viên dạy nhạc (teachers and classes) và thông tin về các ban nhạc quốc tế (international bands)."
+        },
+        {
+          "id": "t5-q9",
+          "text": "Antonio wants to read about the history of music and get advice on improving his singing skills. He'd like to find information about shops selling instruments near where he lives.",
+          "correctAnswer": "H",
+          "explanation": "Trang B (musixyes.net) có lịch sử âm nhạc thế giới (development of music), mẹo từ ca sĩ nổi tiếng (tips on becoming as good as they are) và danh sách các cửa hàng nhạc cụ (list of every store)."
+        },
+        {
+          "id": "t5-q10",
+          "text": "Nikoleta wants a site that focuses on very old music. She'd also like to learn how to read music, and be able to chat online with music lovers like herself.",
+          "correctAnswer": "C",
+          "explanation": "Trang F có nhạc cổ thời xưa (before the fifteenth century), chuyên mục hiểu và chơi nhạc phổ (written music) và không gian trao đổi thảo luận với người hâm mộ khác (discuss with other fans)."
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "type": "multiple-choice-passage",
+      "title": "Part 3",
+      "description": "Read the text about Robert Allen, a tour guide, and choose the correct answer.",
+      "passage": "Robert Allen – tour guide\n\nSeven years ago, I was studying Tourism at college, but needed to find a part-time job as my course was rather expensive. After considering several options, I trained to become a weekend tour guide in my home city – Chicago, USA. This involved taking visitors around the city, and I was surprised to discover how much I enjoyed giving those tours. I got to see the city that I'd been living in my whole life through the eyes of tourists, and it felt like a new experience every time!\n\nAfter finishing my studies, I decided to go into tour guiding full-time. Although I thought it would be quite simple, in fact when I researched what I had to do, I found out that to get a licence as a full-time tour guide I needed to know a lot more than I'd learnt so far. All city guides have to be able to answer hundreds of questions about the city, covering everything from local architecture and history to the rules of public transport. After several challenging but interesting months, I gained my tour-guide qualification and registered as an independent tour guide.\n\nTour guiding isn't just about knowing historical facts or making sure you don't lose anyone from your group in the crowds. There are many other necessary skills. You should be able to be entertaining and tell interesting stories, and above all, you need to be able to react to changing situations, for example, if a place that you thought was open is actually closed when you arrive, or a route changes. Tourists don't want to hear what the problems are or that they're missing out on something, they just want to enjoy a well-organised tour.\n\nI need to make sure visitors are happy with my tours, otherwise they could post a negative review online. Like most tour guides, I realise that these reviews are really important, as good reviews attract more customers. That's why making tours fun and stress-free is essential. For me, the enthusiasm and energy I put into my job means that my reviews are usually very good, and my tours are often recommended to other visitors coming to Chicago.",
+      "questions": [
+        {
+          "id": "t5-q11",
+          "text": "Why did Robert decide to start working as a weekend tour guide?",
+          "options": [
+            {
+              "id": "A",
+              "text": "to have more fun in his life"
+            },
+            {
+              "id": "B",
+              "text": "to see his city in the same way tourists did"
+            },
+            {
+              "id": "C",
+              "text": "to help pay for his studies"
+            },
+            {
+              "id": "D",
+              "text": "to show visitors how wonderful his city is"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Robert làm hướng dẫn viên bán thời gian vào cuối tuần vì khóa học du lịch của anh khá đắt đỏ và anh cần tiền (help pay for his studies)."
+        },
+        {
+          "id": "t5-q12",
+          "text": "What does Robert say about becoming a full-time tour guide?",
+          "options": [
+            {
+              "id": "A",
+              "text": "He already had all the knowledge he required."
+            },
+            {
+              "id": "B",
+              "text": "He was surprised to discover what was involved."
+            },
+            {
+              "id": "C",
+              "text": "He was afraid some tourists' questions might be too difficult."
+            },
+            {
+              "id": "D",
+              "text": "He found it quite easy to get a licence."
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Ban đầu tác giả nghĩ làm full-time sẽ đơn giản nhưng thực tế lúc tìm hiểu thì bất ngờ vì phải cần biết rất nhiều kiến thức sâu hơn mới xin được chứng chỉ (needed to know a lot more)."
+        },
+        {
+          "id": "t5-q13",
+          "text": "What does Robert feel is the most important part of his job?",
+          "options": [
+            {
+              "id": "A",
+              "text": "checking that nobody gets lost during the tour"
+            },
+            {
+              "id": "B",
+              "text": "solving the tourists' problems"
+            },
+            {
+              "id": "C",
+              "text": "giving tourists all the details of any changes"
+            },
+            {
+              "id": "D",
+              "text": "dealing with unexpected events during a tour"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Robert nhấn mạnh điều quan trọng nhất ('above all') là phải biết xử lý những tình huống thay đổi bất ngờ (react to changing situations) như quán đóng cửa hoặc thay đổi tuyến đường."
+        },
+        {
+          "id": "t5-q14",
+          "text": "What does Robert say about the reviews he receives?",
+          "options": [
+            {
+              "id": "A",
+              "text": "They affect how many people choose his tours."
+            },
+            {
+              "id": "B",
+              "text": "His customers always enjoy reading them."
+            },
+            {
+              "id": "C",
+              "text": "They show his tours are the most popular in Chicago."
+            },
+            {
+              "id": "D",
+              "text": "They help him plan better tours for future visitors."
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Bài viết nói những đánh giá (reviews) là rất quan trọng vì đánh giá tốt sẽ thu hút thêm nhiều khách hàng (attract more customers)."
+        },
+        {
+          "id": "t5-q15",
+          "text": "What would be a good introduction to this text?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Robert Allen tells us about what he did to achieve his childhood ambition."
+            },
+            {
+              "id": "B",
+              "text": "Robert Allen talks about what happened when he moved to Chicago."
+            },
+            {
+              "id": "C",
+              "text": "Robert Allen describes how his love of tour guiding developed into a career."
+            },
+            {
+              "id": "D",
+              "text": "Robert Allen explains why it's particularly hard to become a city tour guide in Chicago."
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Đoạn mô tả ngắn phù hợp nhất: Robert kể về cách mà tình yêu hướng dẫn viên du lịch đã phát triển thành một nghề nghiệp thật sự (từ công việc đóng học phí ban đầu)."
+        }
+      ]
+    },
+    {
+      "id": "part-4",
+      "type": "sentence-insertion",
+      "title": "Part 4",
+      "description": "Choose the correct sentence for each gap.",
+      "passage": "An underwater photo-journalist talks about his job\n\nAs an underwater photo-journalist, I've spent thousands of hours taking photographs beneath the ocean waves, and producing pictures and articles for magazines and TV. My work's taken me to many countries, where I've photographed and written about some of the most amazing ocean animals that exist. Being an underwater photo-journalist, however, isn't just about taking beautiful pictures. (16) _____\n\nI spend a lot of time researching animals that live in the oceans. Before even starting to plan a new article, I consider which ones are important or interesting for people to read about; for example, species that are becoming increasingly rare, or less well-known creatures. (17) _____ Then I need to find out things like the best places to find that creature and the best time of year to go there.\n\nUnderstanding animal behaviour is obviously important when it comes to underwater photography, so it's essential that I research that properly too. Apart from reading scientific journals, I speak to experts who spend their lives working with a particular species. (18) _____ Occasionally, I've even included these experts in the final published article.\n\nMy favourite animals to photograph and write about are whales and sharks. On one trip, I was photographing a species of whale which had rarely seen humans underwater before. (19) _____ But, to my surprise, I discovered that these whales were amazingly curious and trusting. Sharks are also wonderful to photograph – they're so powerful and move through the water so beautifully. (20) _____ I think that's a shame, and as a journalist, I have the opportunity to show what they're really like; if people understood them better, I'm sure they'd respect them, and not be so afraid of them.\n\nSentences:\nA. It was an unknown situation for me and I didn't know what to expect.\nB. However, studying them certainly helped me take great photographs on the trip.\nC. It can actually take me up to a year to make a decision.\nD. It's useful to go to these places with other photographers.\nE. I sometimes invite them to come on a photographic trip to see what I do.\nF. Despite this, people often have a negative view of these animals.\nG. It also involves studying a wide variety of creatures.\nH. They wanted to find out more about me.",
+      "questions": [
+        {
+          "id": "t5-q16",
+          "text": "Gap 16",
+          "correctAnswer": "G",
+          "explanation": "Nghề này không chỉ là chụp những bức ảnh đẹp (isn't just about taking beautiful pictures) mà nó còn bao gồm cả việc nghiên cứu đủ loại sinh vật đa dạng (involves studying a wide variety of creatures)."
+        },
+        {
+          "id": "t5-q17",
+          "text": "Gap 17",
+          "correctAnswer": "C",
+          "explanation": "Tác giả chỉ việc đưa ra quyết định chọn sinh vật nào để viết bài mất rất lâu, có thể tốn tới tận môt năm (take me up to a year to make a decision)."
+        },
+        {
+          "id": "t5-q18",
+          "text": "Gap 18",
+          "correctAnswer": "E",
+          "explanation": "Tác giả nói chuyện với các chuyên gia, thi thoảng mời họ đi cùng vào chuyến chụp ảnh (I sometimes invite them to come on a photographic trip)."
+        },
+        {
+          "id": "t5-q19",
+          "text": "Gap 19",
+          "correctAnswer": "A",
+          "explanation": "Ông đi chụp một loài cá voi hiếm khi tiếp xúc với con người, nên đây là một tình huống hoàn toàn trống rỗng và ông không biết phải mong chờ điều gì (It was an unknown situation...)."
+        },
+        {
+          "id": "t5-q20",
+          "text": "Gap 20",
+          "correctAnswer": "D",
+          "explanation": "Cá mập tuyệt vời, khỏe mạnh nhưng mọi người thường có cái nhìn tiêu cực hay sự sợ hãi về loài này (negative view of these animals)."
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "type": "multiple-choice-cloze",
+      "title": "Part 5",
+      "description": "Choose the correct word to fill in the gaps (21-26).",
+      "passage": "The pink Amazon River dolphin\n\nA special type of dolphin can be found in the waters of the Amazon River in Brazil. These dolphins are (21) _____ from other species because they are pink. Scientists are not certain about the (22) _____ for their skin colour, but some experts believe it could be a result of the red-coloured sand in the river. However, other scientists think that the dolphins (23) _____ pinker as they become older.\n\nAnother special (24) _____ about these dolphins is that they can (25) _____ their heads from side to side, while most species of dolphin cannot. In addition, they have hairs on their noses that help them (26) _____ for food at the bottom of the river. These animals are an amazing sight, and are popular with visitors and tourists travelling on the Amazon River by boat.",
+      "questions": [
+        {
+          "id": "t5-q21",
+          "options": [
+            {
+              "id": "A",
+              "text": "unusual"
+            },
+            {
+              "id": "B",
+              "text": "different"
+            },
+            {
+              "id": "C",
+              "text": "opposite"
+            },
+            {
+              "id": "D",
+              "text": "unknown"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Cụm 'different from' nghĩa là khác biệt với phần còn lại."
+        },
+        {
+          "id": "t5-q22",
+          "options": [
+            {
+              "id": "A",
+              "text": "aim"
+            },
+            {
+              "id": "B",
+              "text": "idea"
+            },
+            {
+              "id": "C",
+              "text": "answer"
+            },
+            {
+              "id": "D",
+              "text": "reason"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Các nhà khoa học không chắc chắn về lý do (reason for) khiến da chúng có màu hồng."
+        },
+        {
+          "id": "t5-q23",
+          "options": [
+            {
+              "id": "A",
+              "text": "increase"
+            },
+            {
+              "id": "B",
+              "text": "develop"
+            },
+            {
+              "id": "C",
+              "text": "improve"
+            },
+            {
+              "id": "D",
+              "text": "grow"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Với tính từ chỉ trạng thái biến đổi 'càng trở nên', ta dùng động từ grow hoặc become (grow pinker)."
+        },
+        {
+          "id": "t5-q24",
+          "options": [
+            {
+              "id": "A",
+              "text": "fact"
+            },
+            {
+              "id": "B",
+              "text": "information"
+            },
+            {
+              "id": "C",
+              "text": "knowledge"
+            },
+            {
+              "id": "D",
+              "text": "reality"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Một sự thật đặc biệt (Another special fact) về loài não cá heo này."
+        },
+        {
+          "id": "t5-q25",
+          "options": [
+            {
+              "id": "A",
+              "text": "switch"
+            },
+            {
+              "id": "B",
+              "text": "change"
+            },
+            {
+              "id": "C",
+              "text": "turn"
+            },
+            {
+              "id": "D",
+              "text": "fix"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Động tác quay đầu từ trái sang phải gọi là 'turn' their heads."
+        },
+        {
+          "id": "t5-q26",
+          "options": [
+            {
+              "id": "A",
+              "text": "catch"
+            },
+            {
+              "id": "B",
+              "text": "find"
+            },
+            {
+              "id": "C",
+              "text": "get"
+            },
+            {
+              "id": "D",
+              "text": "search"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Cần một động từ đi với giới từ 'for'. 'Search for food' có nghĩa là tìm kiếm thức ăn."
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "type": "open-cloze",
+      "title": "Part 6",
+      "description": "Write one word only for each gap.",
+      "passage": "Spanish conversation club\n\nWe're a group of people aged 16–25 who meet every week for two hours of chat in Spanish. You don't have to be able to speak much Spanish: we welcome beginners, too. We talk about anything (27) _____ may interest people, from food people enjoy (28) _____ literature and politics.\n\nWe meet between 4.30 p.m. (29) _____ 6.30 p.m. every Tuesday, in a large, comfortable room in the Central Library. The sessions are free, but we do ask people to pay £1 a session for coffee or juice. Staff from the School of Tourism at the University set (30) _____ the group three years ago, but it's now organised (31) _____ volunteers. The number of members (32) _____ grown a lot during this time. As well as allowing people to practise their Spanish, the club brings people from different backgrounds together in order to enjoy each other's company.",
+      "questions": [
+        {
+          "id": "t5-q27",
+          "correctAnswer": "being",
+          "explanation": "Đại từ quan hệ. Talk about anything 'that' (hoặc 'which') may interest people: Nói về bất cứ thứ gì làm mọi người hứng thú."
+        },
+        {
+          "id": "t5-q28",
+          "correctAnswer": "for",
+          "explanation": "Cấu trúc Từ A đến B: from ... to ... (from food to literature)."
+        },
+        {
+          "id": "t5-q29",
+          "correctAnswer": "were",
+          "explanation": "Cấu trúc giữa mốc thời gian này và móc kia: between ... and ..."
+        },
+        {
+          "id": "t5-q30",
+          "correctAnswer": "on/about",
+          "explanation": "Phrasal verb: Set up = thành lập (một nhóm học)."
+        },
+        {
+          "id": "t5-q31",
+          "correctAnswer": "than",
+          "explanation": "Câu bị động: được tổ chức 'bởi' tình nguyện viên (organised by volunteers)."
+        },
+        {
+          "id": "t5-q32",
+          "correctAnswer": "or",
+          "explanation": "Thì hiện tại hoàn thành, the number of members (số ít) đi với has (has grown)."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "testId": "cambridge-pet-1-test-3-writing",
+  "title": "Cambridge B1 Preliminary 1 Writing: Test 3",
+  "totalTimeInSeconds": 2700,
+  "parts": [
+    {
+      "id": "writing-part-1",
+      "type": "email-writing",
+      "title": "Part 1: Write an email",
+      "instruction": "Read this email from your college English teacher Miss Jones and the notes you have made. Write your email to Miss Jones using all the notes (about 100 words).",
+      "email": {
+        "from": "Miss Jones",
+        "subject": "Visitor to English class",
+        "contentBlocks": [
+          {
+            "text": "Dear Students,",
+            "note": null
+          },
+          {
+            "text": "I'm planning to invite a well-known person to come into our English class and give a talk.",
+            "note": "Great!"
+          },
+          {
+            "text": "I'd like to invite either a scientist or an actor. Which would be better?",
+            "note": "I think ..."
+          },
+          {
+            "text": "I hope that each student will have a question to ask this person - what would you like to ask?",
+            "note": "Tell Miss Jones"
+          },
+          {
+            "text": "We want our visitor to enjoy the day with us. What do you think we can do to entertain the visitor after the talk?",
+            "note": "Suggest ..."
+          },
+          {
+            "text": "I'm looking forward to receiving your ideas!\n\nMiss Jones",
+            "note": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "writing-part-2",
+      "type": "story-writing",
+      "title": "Part 2: Write a story",
+      "instruction": "Your English teacher has asked you to write a story (about 100 words). Your story must begin with this sentence:",
+      "promptSentence": "It was my first time in the jungle and I was so excited."
+    }
+  ]
+}

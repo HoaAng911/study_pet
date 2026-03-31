@@ -1,0 +1,50 @@
+{
+  "testId": "cambridge-pet-1-test-4-writing",
+  "title": "Cambridge B1 Preliminary 1 Writing: Test 4",
+  "totalTimeInSeconds": 2700,
+  "parts": [
+    {
+      "id": "writing-part-1",
+      "type": "email-writing",
+      "title": "Part 1: Write an email",
+      "instruction": "Read this email from your English-speaking friend Jo and the notes you have made. Write your email to Jo using all the notes (about 100 words).",
+      "email": {
+        "from": "Jo",
+        "subject": "Beach holiday",
+        "contentBlocks": [
+          {
+            "text": "Hi,",
+            "note": null
+          },
+          {
+            "text": "I'm really glad you want to come with me on the holiday I won as first prize in the photography competition.",
+            "note": "Thank Jo"
+          },
+          {
+            "text": "I've now got some more information - we're going for a week to a great hotel near a beautiful beach! There's plenty to do there. Do you want to do activities like surfing and sailing? Or we could just lie on the beach!",
+            "note": "Tell Jo"
+          },
+          {
+            "text": "We have to decide when to go, so are you free for a week in August?",
+            "note": "No, but ..."
+          },
+          {
+            "text": "Do you have any questions about the holiday?",
+            "note": "Ask ..."
+          },
+          {
+            "text": "See you soon!\n\nJo",
+            "note": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "writing-part-2",
+      "type": "story-writing",
+      "title": "Part 2: Write a story",
+      "instruction": "Your English teacher has asked you to write a story (about 100 words). Your story must begin with this sentence:",
+      "promptSentence": "The friends got off the bus and ran over to join the long queue of people."
+    }
+  ]
+}
