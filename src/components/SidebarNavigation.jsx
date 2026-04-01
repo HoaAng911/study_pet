@@ -1,5 +1,5 @@
 import React from 'react';
-import { CheckCircle2, Bookmark, Circle } from 'lucide-react';
+import { CheckCircle2, Bookmark, Circle, X, LayoutGrid, Target } from 'lucide-react';
 
 const SidebarNavigation = ({ 
   parts, 
@@ -7,13 +7,14 @@ const SidebarNavigation = ({
   setCurrentPartId, 
   answers, 
   markedForReview, 
-  isSubmitted 
+  isSubmitted,
+  isOpen,
+  onClose
 }) => {
   
   const getPartStatus = (part) => {
     const partQuestions = part.questions ? part.questions.map(q => q.id) : [part.id];
     const answeredCount = partQuestions.filter(id => {
-      // For writing tests, we check if the answer text length is meaningful (e.g. > 10 chars)
       const ans = answers[id];
       if (part.type === 'email-writing' || part.type === 'story-writing') {
         return ans && ans.trim().length > 10;
@@ -31,71 +32,103 @@ const SidebarNavigation = ({
   };
 
   return (
-    <aside className="w-80 h-[calc(100vh-4rem)] bg-white border-r border-slate-200 overflow-y-auto sticky top-16 shrink-0 flex flex-col p-4 gap-6">
-      <div className="flex flex-col gap-2">
-        <h2 className="text-sm font-semibold uppercase tracking-wider text-slate-400 px-2">Exam Parts</h2>
-        <nav className="flex flex-col gap-1">
-          {parts.map((part) => {
-            const status = getPartStatus(part);
-            const isActive = currentPartId === part.id;
-            
-            return (
-              <button
-                key={part.id}
-                onClick={() => setCurrentPartId(part.id)}
-                className={`flex items-center gap-3 w-full p-3 rounded-xl text-left transition-all group ${
-                  isActive 
-                    ? 'bg-primary-50 text-primary-700 font-semibold border-primary-100 border shadow-sm' 
-                    : 'text-slate-600 hover:bg-slate-50 hover:text-slate-900 border-transparent border'
-                }`}
-              >
-                <div className="flex-1">
-                  <div className="text-xs text-slate-400 font-medium group-hover:text-primary-400">
-                    {part.id.replace('-', ' ').toUpperCase()}
-                  </div>
-                  <div className="text-sm truncate font-medium">{part.title}</div>
-                </div>
-                
-                {status === 'completed' && <CheckCircle2 size={18} className="text-emerald-500" />}
-                {status === 'review' && <Bookmark size={18} className="text-amber-500 fill-amber-500" />}
-                {status === 'pending' && <Circle size={10} className="text-slate-300" />}
-              </button>
-            );
-          })}
-        </nav>
-      </div>
+    <>
+      {/* Backdrop for mobile */}
+      {isOpen && (
+        <div 
+          className="fixed inset-0 bg-slate-950/60 z-[110] lg:hidden backdrop-blur-xl transition-opacity duration-500"
+          onClick={onClose}
+        />
+      )}
 
-      <div className="mt-auto border-t border-slate-100 pt-6 px-2">
-        <div className="bg-slate-50 p-4 rounded-xl">
-          <h3 className="text-sm font-semibold text-slate-800 mb-3">Questions Overview</h3>
-          <div className="grid grid-cols-5 gap-2">
-            {parts.flatMap(p => p.questions || [{ id: p.id, isWriting: true }]).map((q, idx) => {
-              const ans = answers[q.id];
-              const isAnswered = q.isWriting ? (ans && ans.trim().length > 10) : !!ans;
-              const isMarked = markedForReview.includes(q.id);
+      <aside className={`fixed lg:sticky top-0 lg:top-0 left-0 h-screen lg:h-[calc(100vh-5rem)] w-72 sm:w-80 bg-slate-900 border-r border-white/5 lg:border-none overflow-y-auto z-[120] lg:z-40 shrink-0 flex flex-col p-6 gap-8 transition-all duration-500 ease-in-out ${
+        isOpen ? 'translate-x-0' : '-translate-x-full lg:translate-x-0'
+      }`}>
+        <div className="flex items-center justify-between lg:hidden mb-2">
+          <div className="flex items-center gap-2 text-emerald-400 font-black tracking-tight uppercase">
+            <LayoutGrid size={20} />
+            Command Center
+          </div>
+          <button onClick={onClose} className="p-2 text-slate-500 hover:bg-white/5 rounded-xl transition-colors">
+            <X size={20} />
+          </button>
+        </div>
+
+        <div className="flex flex-col gap-4">
+          <h2 className="text-[10px] font-black uppercase tracking-[0.25em] text-slate-500 px-2 flex items-center gap-2">
+            <Target size={12} className="text-emerald-500" />
+            Objectives
+          </h2>
+          <nav className="flex flex-col gap-2">
+            {parts.map((part) => {
+              const status = getPartStatus(part);
+              const isActive = currentPartId === part.id;
               
               return (
-                <div
-                  key={q.id}
-                  title={q.isWriting ? `Writing Part ${idx + 1}` : `Question ${idx + 1}`}
-                  className={`w-10 h-10 rounded-lg flex items-center justify-center text-xs font-bold transition-all border ${
-                    isSubmitted 
-                      ? 'bg-slate-100 text-slate-400' 
-                      : isMarked
-                        ? 'bg-amber-100 text-amber-700 border-amber-200'
-                        : isAnswered
-                          ? 'bg-primary-100 text-primary-700 border-primary-200'
-                          : 'bg-white text-slate-400 border-slate-200'
+                <button
+                  key={part.id}
+                  onClick={() => setCurrentPartId(part.id)}
+                  className={`flex items-center gap-4 w-full p-4 rounded-2xl text-left transition-all duration-300 group relative ${
+                    isActive 
+                      ? 'bg-slate-800 shadow-[0_0_20px_rgba(16,185,129,0.1)] text-emerald-400 ring-1 ring-emerald-500/20' 
+                      : 'text-slate-500 hover:bg-slate-800/50 hover:text-slate-300'
                   }`}
                 >
-                  {q.isWriting ? `W${idx + 1}` : idx + 1}
-                </div>
+                  <div className="flex-1">
+                    <div className={`text-[9px] font-black uppercase tracking-widest mb-1 ${isActive ? 'text-emerald-500' : 'text-slate-500'}`}>
+                      {part.id.replace('-', ' ')}
+                    </div>
+                    <div className={`text-sm font-bold truncate ${isActive ? 'text-white' : 'text-slate-400'}`}>
+                      {part.title}
+                    </div>
+                  </div>
+                  
+                  <div className="shrink-0 scale-90">
+                    {status === 'completed' && <CheckCircle2 size={18} className="text-emerald-500 drop-shadow-[0_0_5px_rgba(16,185,129,0.5)]" />}
+                    {status === 'review' && <Bookmark size={18} className="text-amber-500 fill-amber-500/20" />}
+                    {status === 'pending' && <Circle size={8} className="text-slate-700" />}
+                  </div>
+                </button>
               );
             })}
+          </nav>
+        </div>
+
+        <div className="mt-auto">
+          <div className="bg-slate-950 border border-emerald-500/10 p-6 rounded-3xl shadow-inner group/overview hover:border-emerald-500/30 transition-all">
+            <h3 className="text-[10px] font-black uppercase tracking-widest text-emerald-600 mb-4 flex items-center justify-between">
+              Grid Status
+              <div className="w-1.5 h-1.5 bg-emerald-500 rounded-full animate-pulse shadow-[0_0_8px_rgba(16,185,129,1)]" />
+            </h3>
+            <div className="grid grid-cols-5 gap-2.5">
+              {parts.flatMap(p => p.questions || [{ id: p.id, isWriting: true, type: p.type }]).map((q, idx) => {
+                const ans = answers[q.id];
+                const isAnswered = q.isWriting ? (ans && ans.trim().length > 10) : !!ans;
+                const isMarked = markedForReview.includes(q.id);
+                
+                return (
+                  <div
+                    key={q.id}
+                    title={q.isWriting ? `Writing Part ${idx + 1}` : `Question ${idx + 1}`}
+                    className={`w-9 h-9 rounded-xl flex items-center justify-center text-[10px] font-black transition-all border-2 ${
+                      isSubmitted 
+                        ? 'bg-slate-800 text-slate-500 border-transparent' 
+                        : isMarked
+                          ? 'bg-amber-500/10 text-amber-500 border-amber-500/30'
+                          : isAnswered
+                            ? 'bg-emerald-600 text-white border-emerald-600 shadow-[0_0_15px_rgba(16,185,129,0.3)]'
+                            : 'bg-slate-950 text-slate-600 border-slate-800 hover:border-emerald-500/30 hover:text-emerald-500'
+                    }`}
+                  >
+                    {q.isWriting ? `W` : idx + 1}
+                  </div>
+                );
+              })}
+            </div>
           </div>
         </div>
-      </div>
-    </aside>
+      </aside>
+    </>
   );
 };
 

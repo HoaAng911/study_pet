@@ -20,6 +20,7 @@ const App = () => {
   const [isSubmitted, setIsSubmitted] = useState(false);
   const [showResult, setShowResult] = useState(false);
   const [score, setScore] = useState(0);
+  const [isSidebarOpen, setIsSidebarOpen] = useState(false);
 
   // Reset state when switching tests
   const handleTestChange = (testId) => {
@@ -92,6 +93,11 @@ const App = () => {
 
   const currentPart = testData.parts.find(p => p.id === currentPartId);
   const totalQuestions = testData.parts.reduce((acc, part) => acc + (part.questions ? part.questions.length : 1), 0);
+  const answeredCount = Object.keys(answers).filter(id => {
+    // For writing parts, count only if they have substantial content
+    if (id.includes('writing')) return answers[id]?.trim().length > 20;
+    return !!answers[id];
+  }).length;
 
   if (showResult) {
     return (
@@ -102,15 +108,21 @@ const App = () => {
           onSubmit={handleSubmit}
           activeTestId={activeTestId}
           onTestChange={handleTestChange}
+          totalQuestions={totalQuestions}
+          answeredCount={answeredCount}
         />
-        <ResultSummary 
-          score={score} 
-          total={totalQuestions} 
-          onReview={() => setShowResult(false)} 
-        />
+        <div className="pt-20 flex-1 flex flex-col bg-slate-950">
+          <ResultSummary 
+            score={score} 
+            total={totalQuestions} 
+            onReview={() => setShowResult(false)} 
+          />
+        </div>
       </div>
     );
   }
+
+  const toggleSidebar = () => setIsSidebarOpen(!isSidebarOpen);
 
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col font-sans">
@@ -120,39 +132,47 @@ const App = () => {
         onSubmit={handleSubmit} 
         activeTestId={activeTestId}
         onTestChange={handleTestChange}
+        onToggleSidebar={toggleSidebar}
+        totalQuestions={totalQuestions}
+        answeredCount={answeredCount}
       />
       
-      <div className="flex flex-1 overflow-hidden">
+      <div className="flex flex-1 pt-20 overflow-hidden relative">
         <SidebarNavigation 
           parts={testData.parts}
           currentPartId={currentPartId}
-          setCurrentPartId={setCurrentPartId}
+          setCurrentPartId={(id) => {
+            setCurrentPartId(id);
+            setIsSidebarOpen(false); // Close sidebar on mobile after selection
+          }}
           answers={answers}
           markedForReview={markedForReview}
           isSubmitted={isSubmitted}
+          isOpen={isSidebarOpen}
+          onClose={() => setIsSidebarOpen(false)}
         />
 
-        <main className="flex-1 flex overflow-hidden">
+        <main className="flex-1 flex flex-col lg:flex-row overflow-hidden relative">
           {/* Left Column: Passage */}
           {currentPart.type !== 'email-writing' && currentPart.type !== 'story-writing' && (
             <ReadingPassage part={currentPart} />
           )}
 
           {/* Right Column: Questions or WritingForm */}
-          <div className={`h-full overflow-y-auto p-8 bg-white border-l border-slate-100 scroll-smooth flex flex-col ${
+          <div className={`h-full overflow-y-auto p-4 sm:p-8 scroll-smooth flex flex-col ${
             (currentPart.type === 'email-writing' || currentPart.type === 'story-writing') 
-              ? 'flex-1 items-center bg-slate-50 relative' 
-              : 'w-[500px]'
+              ? 'flex-1 items-center bg-slate-950 relative' 
+              : 'w-full lg:w-[540px] bg-slate-950 border-l border-white/5'
           }`}>
             <div className={`space-y-12 pb-20 w-full flex flex-col h-full ${
               (currentPart.type === 'email-writing' || currentPart.type === 'story-writing') ? 'max-w-6xl' : ''
             }`}>
-              <div className="border-b border-slate-100 pb-8 shrink-0">
-                <h2 className="text-3xl font-black text-slate-800 mb-2 uppercase tracking-tight">
+              <div className="border-b border-white/5 pb-4 sm:pb-8 shrink-0">
+                <h2 className="text-xl sm:text-3xl font-black text-white mb-1 sm:mb-2 capitalize tracking-tight">
                   {currentPart.title}
                 </h2>
                 {currentPart.description && (
-                  <p className="text-slate-500 text-lg font-medium">
+                  <p className="text-slate-400 text-sm sm:text-lg font-medium">
                     {currentPart.description}
                   </p>
                 )}

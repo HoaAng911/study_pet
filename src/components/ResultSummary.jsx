@@ -1,75 +1,101 @@
 import React from 'react';
-import { Trophy, CheckCircle, XCircle, HelpCircle, ArrowRight } from 'lucide-react';
+import { Trophy, CheckCircle, XCircle, HelpCircle, ArrowRight, Activity, Cpu, ShieldCheck } from 'lucide-react';
 
-const ResultSummary = ({ score, total, questions, answers, onReview }) => {
+const ResultSummary = ({ score, total, onReview }) => {
   const percentage = Math.round((score / total) * 100);
   
   const getFeedback = (pct) => {
-    if (pct >= 80) return { title: "Excellent Work!", color: "text-emerald-600", bg: "bg-emerald-50", icon: <Trophy size={48} className="text-emerald-500" /> };
-    if (pct >= 60) return { title: "Good Job!", color: "text-primary-600", bg: "bg-primary-50", icon: <Trophy size={48} className="text-primary-400" /> };
-    return { title: "Keep Practicing!", color: "text-amber-600", bg: "bg-amber-50", icon: <HelpCircle size={48} className="text-amber-500" /> };
+    if (pct >= 80) return { 
+        title: "CORE.OPTIMIZED", 
+        color: "from-emerald-600 to-teal-400", 
+        text: "text-emerald-400",
+        bg: "bg-emerald-500/10",
+        message: "System integrity at 100%. Master level proficiency detected. B1 Preliminary Cleared.",
+        icon: <Trophy size={64} className="text-emerald-400 drop-shadow-[0_0_20px_rgba(16,185,129,0.5)]" /> 
+    };
+    if (pct >= 60) return { 
+        title: "STABLE.OUTPUT", 
+        color: "from-emerald-800 to-emerald-600", 
+        text: "text-emerald-600",
+        bg: "bg-emerald-800/10",
+        message: "Operational efficiency confirmed. Most nodes validated. Minor recalibration required.",
+        icon: <Activity size={64} className="text-emerald-600 drop-shadow-[0_0_15px_rgba(16,185,129,0.3)]" /> 
+    };
+    return { 
+        title: "CALIBRATION.NEEDED", 
+        color: "from-amber-600 to-orange-500", 
+        text: "text-amber-500",
+        bg: "bg-amber-500/10",
+        message: "Input data insufficient for mastery. Recommend repeated execution of core modules.",
+        icon: <HelpCircle size={64} className="text-amber-500 drop-shadow-[0_0_15px_rgba(245,158,11,0.3)]" /> 
+    };
   };
 
   const feedback = getFeedback(percentage);
 
   return (
-    <div className="flex-1 flex flex-col items-center justify-center p-12 bg-slate-50 min-h-[calc(100vh-4rem)]">
-      <div className="max-w-2xl w-full card shadow-2xl p-12 text-center animate-in zoom-in duration-500">
-        <div className="mb-8 flex justify-center">{feedback.icon}</div>
+    <div className="flex-1 flex flex-col items-center justify-center p-4 sm:p-12 bg-slate-950 relative overflow-hidden animate-glow-in">
+      {/* Matrix-like decorative elements */}
+      <div className="absolute top-0 left-0 w-[500px] h-[500px] bg-emerald-500/5 blur-3xl rounded-full -ml-44 -mt-44" />
+      <div className="absolute bottom-0 right-0 w-[500px] h-[500px] bg-teal-500/5 blur-3xl rounded-full -mr-44 -mb-44" />
+      
+      <div className="max-w-4xl w-full bg-slate-900 rounded-[56px] shadow-[0_50px_100px_-20px_rgba(0,0,0,0.9)] p-8 sm:p-20 text-center z-10 border border-white/5 relative overflow-hidden group">
+        <div className={`absolute top-0 left-0 w-full h-[2px] bg-gradient-to-r ${feedback.color} shadow-[0_0_15px_rgba(16,185,129,0.5)] transition-all duration-1000`} />
         
-        <h2 className={`text-4xl font-black mb-2 ${feedback.color}`}>{feedback.title}</h2>
-        <p className="text-slate-500 text-lg mb-10 font-medium italic">PET (B1) Preliminary Reading Results</p>
+        <div className={`mb-12 w-32 h-32 ${feedback.bg} mx-auto rounded-[40px] flex items-center justify-center border border-white/5 shadow-inner transition-transform duration-700 group-hover:scale-110 group-hover:rotate-6`}>
+            {feedback.icon}
+        </div>
         
-        <div className="grid grid-cols-3 gap-6 mb-12">
-          <div className="bg-slate-50 rounded-2xl p-6 border border-slate-100 ring-1 ring-white">
-            <div className="text-sm font-bold text-slate-400 uppercase tracking-widest mb-2">Score</div>
-            <div className="text-4xl font-black text-slate-800">{score}<span className="text-slate-300 text-2xl font-medium">/{total}</span></div>
+        <div className="mb-4">
+           <span className="text-[10px] font-black uppercase text-emerald-500/50 tracking-[0.4em] mb-2 block">Performance Protocol</span>
+           <h2 className={`text-4xl sm:text-7xl font-black mb-6 font-outfit tracking-tighter text-white uppercase`}>{feedback.title}</h2>
+        </div>
+        
+        <p className={`text-lg sm:text-2xl font-bold mb-16 max-w-lg mx-auto ${feedback.text} opacity-80 font-mono italic leading-relaxed`}>
+           "{feedback.message}"
+        </p>
+        
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 mb-16">
+          <div className="bg-slate-950/60 rounded-[32px] p-10 border border-white/5 transition-all hover:bg-slate-950 hover:border-emerald-500/20 hover:shadow-[0_0_30px_rgba(16,185,129,0.05)]">
+            <div className="text-[9px] font-black text-slate-600 uppercase tracking-[0.3em] mb-4">NODE.LOAD</div>
+            <div className="text-4xl sm:text-6xl font-black text-white font-outfit">{score}<span className="text-slate-700 text-2xl font-medium">/{total}</span></div>
           </div>
-          <div className="bg-emerald-50 rounded-2xl p-6 border border-emerald-100 ring-1 ring-white">
-            <div className="text-sm font-bold text-emerald-600 uppercase tracking-widest mb-2">Accuracy</div>
-            <div className="text-4xl font-black text-emerald-700">{percentage}%</div>
+          <div className="bg-slate-950/60 rounded-[32px] p-10 border border-white/5 transition-all hover:bg-slate-950 hover:border-emerald-500/20 hover:shadow-[0_0_30px_rgba(16,185,129,0.05)]">
+            <div className="text-[9px] font-black text-slate-600 uppercase tracking-[0.3em] mb-4">ACCURACY.RATIO</div>
+            <div className="text-4xl sm:text-6xl font-black text-emerald-400 font-outfit">{percentage}%</div>
           </div>
-          <div className="bg-primary-50 rounded-2xl p-6 border border-primary-100 ring-1 ring-white">
-            <div className="text-sm font-bold text-primary-600 uppercase tracking-widest mb-2">Time spent</div>
-            <div className="text-4xl font-black text-primary-700">45:00</div>
+          <div className="bg-slate-950/60 rounded-[32px] p-10 border border-white/5 transition-all hover:bg-slate-950 hover:border-emerald-500/20 hover:shadow-[0_0_30px_rgba(16,185,129,0.05)]">
+            <div className="text-[9px] font-black text-slate-600 uppercase tracking-[0.3em] mb-4">CORE.STATUS</div>
+            <div className={`text-2xl sm:text-3xl font-black font-outfit tracking-widest ${percentage >= 60 ? 'text-emerald-500 animate-pulse' : 'text-amber-500'}`}>
+                {percentage >= 60 ? 'VALID' : 'RETRY'}
+            </div>
           </div>
         </div>
 
-        <div className="flex flex-col sm:flex-row gap-4 justify-center">
+        <div className="flex flex-col sm:flex-row gap-6 justify-center px-10">
           <button 
             onClick={onReview}
-            className="btn btn-primary px-10 py-5 text-xl rounded-2xl flex items-center justify-center gap-3 shadow-primary-200"
+            className="btn-premium px-14 py-6 text-2xl flex items-center justify-center gap-4 w-full sm:w-auto overflow-hidden group/btn !rounded-[24px]"
           >
-            Review my answers
-            <ArrowRight size={24} />
+            Review Insights
+            <ArrowRight size={28} className="group-hover/btn:translate-x-1.5 transition-transform" />
           </button>
           <button 
             onClick={() => window.location.reload()}
-            className="btn btn-secondary px-10 py-5 text-xl rounded-2xl border-2 border-slate-200 hover:border-slate-300 inline-flex items-center justify-center"
+            className="btn-premium-outline px-14 py-6 text-2xl inline-flex items-center justify-center w-full sm:w-auto !rounded-[24px]"
           >
-            Retake Test
+            Reset Master
           </button>
         </div>
 
-        <div className="mt-12 pt-10 border-t border-slate-100 grid grid-cols-2 gap-8">
-           <div className="flex items-center gap-4 text-left p-4 rounded-xl border border-emerald-50 bg-emerald-50/30">
-             <div className="w-12 h-12 bg-emerald-100 text-emerald-600 rounded-lg flex items-center justify-center shrink-0">
-               <CheckCircle size={24} />
-             </div>
-             <div>
-               <div className="text-sm font-bold text-emerald-700 uppercase tracking-wider">Correct</div>
-               <div className="text-2xl font-black text-emerald-800">{score} questions</div>
-             </div>
+        <div className="mt-16 pt-12 border-t border-white/5 flex flex-col sm:flex-row items-center justify-between gap-6 opacity-20">
+           <div className="flex items-center gap-3 text-xs font-black text-emerald-500 uppercase tracking-[0.2em]">
+               <ShieldCheck size={20} />
+               Protocol Verified
            </div>
-           
-           <div className="flex items-center gap-4 text-left p-4 rounded-xl border border-red-50 bg-red-50/30">
-             <div className="w-12 h-12 bg-red-100 text-red-600 rounded-lg flex items-center justify-center shrink-0">
-               <XCircle size={24} />
-             </div>
-             <div>
-               <div className="text-sm font-bold text-red-700 uppercase tracking-wider">Mistakes</div>
-               <div className="text-2xl font-black text-red-800">{total - score} questions</div>
-             </div>
+           <div className="flex items-center gap-3 text-xs font-black text-emerald-500 uppercase tracking-[0.2em]">
+               <Cpu size={20} />
+               System ID: 0xFF-B1-PET
            </div>
         </div>
       </div>

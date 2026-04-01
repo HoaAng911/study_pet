@@ -4,32 +4,73 @@
 
 @layer base {
   body {
-    @apply bg-slate-50 text-slate-900 font-sans;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    @apply bg-slate-950 text-slate-100 antialiased selection:bg-emerald-500/30 selection:text-emerald-400;
   }
 }
 
 @layer components {
-  .btn {
-    @apply px-4 py-2 rounded-lg font-medium transition-all duration-200 transform active:scale-95;
+  .glass-dark {
+    @apply bg-slate-900/60 backdrop-blur-xl border border-white/5 shadow-[0_8px_32px_0_rgba(0,0,0,0.3)];
   }
-  .btn-primary {
-    @apply bg-primary-600 text-white hover:bg-primary-700 shadow-md hover:shadow-lg;
+  
+  .glass-emerald {
+    @apply bg-emerald-500/10 backdrop-blur-md border border-emerald-500/20 shadow-[0_0_20px_rgba(16,185,129,0.1)];
   }
-  .btn-secondary {
-    @apply bg-white text-slate-700 border border-slate-200 hover:bg-slate-50;
+
+  .btn-premium {
+    @apply px-6 py-2.5 rounded-xl font-bold transition-all duration-300 
+           bg-emerald-600 text-white shadow-[0_0_15px_rgba(16,185,129,0.3)]
+           hover:bg-emerald-500 hover:shadow-[0_0_25px_rgba(16,185,129,0.5)] hover:-translate-y-0.5 
+           active:translate-y-0 active:scale-95 disabled:opacity-50 disabled:cursor-not-allowed;
   }
-  .card {
-    @apply bg-white rounded-xl shadow-sm border border-slate-100 p-6;
+
+  .btn-premium-outline {
+    @apply px-6 py-2.5 rounded-xl font-bold transition-all duration-300 
+           bg-slate-900/50 text-emerald-400 border-2 border-emerald-500/20 shadow-sm
+           hover:bg-emerald-500/10 hover:border-emerald-500/40;
+  }
+
+  .card-premium {
+    @apply bg-slate-900/40 rounded-3xl shadow-2xl border border-white/5 p-8 transition-all duration-500 hover:bg-slate-900/60 hover:border-emerald-500/20 hover:shadow-emerald-500/5;
+  }
+
+  .text-gradient-emerald {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-emerald-400 to-teal-400;
+  }
+
+  .glow-emerald {
+    @apply shadow-[0_0_30px_rgba(16,185,129,0.15)];
   }
 }
 
-/* Custom Scrollbar */
+/* Custom Scrollbar for Dark Premium Feel */
 ::-webkit-scrollbar {
-  width: 8px;
+  width: 6px;
 }
 ::-webkit-scrollbar-track {
-  @apply bg-slate-100;
+  @apply bg-slate-950;
 }
 ::-webkit-scrollbar-thumb {
-  @apply bg-slate-300 rounded-full hover:bg-slate-400;
+  @apply bg-slate-800 rounded-full hover:bg-emerald-600 transition-colors;
+}
+
+/* Animations */
+@keyframes fadeInGlow {
+  from { opacity: 0; transform: translateY(10px); filter: blur(5px); }
+  to { opacity: 1; transform: translateY(0); filter: blur(0); }
+}
+
+.animate-glow-in {
+  animation: fadeInGlow 0.6s ease-out forwards;
+}
+
+/* Typography for Dark Mode */
+h1, h2, h3, h4 {
+  font-family: "Outfit", sans-serif;
+  @apply tracking-tight text-white;
+}
+
+p {
+  @apply text-slate-300 leading-relaxed;
 }
