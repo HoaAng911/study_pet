@@ -33,7 +33,7 @@ const Header = ({ timeLeft, isSubmitted, onSubmit, activeTestId, onTestChange, o
             </div>
           </div>
 
-          <div className="hidden sm:flex items-center gap-2 bg-slate-900 border border-white/5 rounded-2xl px-4 py-2 hover:bg-slate-800 transition-all group max-w-[200px] lg:max-w-none shadow-xl">
+          <div className="flex items-center gap-2 bg-slate-900 border border-white/5 rounded-2xl px-3 sm:px-4 py-2 hover:bg-slate-800 transition-all group max-w-[120px] xs:max-w-[160px] sm:max-w-none shadow-xl ml-2 sm:ml-0">
             <LayoutList size={16} className="text-emerald-500" />
             <select 
               value={activeTestId}
